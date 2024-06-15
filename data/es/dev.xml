@@ -1,0 +1,1257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence id="2b93e86a-d0b6-42ed-9830-4d41697b27bc">
+			<text>Notable en general.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fb0ceb54-2ba2-4986-9e91-986c05ec6c61">
+			<text>Ambiente familiar.</text>
+			<Opinions>
+				<Opinion target="Ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2cebb65a-853a-4e49-8aba-bcb285229425">
+			<text>correcto y maxima comodidad.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="441ae2aa-eb30-4bdd-a9d3-f8817112cf36">
+			<text>El restaurante es muy bonito, el ambiente es agradable y la decoración excepcional así somo el servicio que fue muy amable en todo momento.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="14"/>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="33" to="41"/>
+				<Opinion target="decoración" category="AMBIENCE#GENERAL" polarity="positive" from="60" to="70"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="95" to="103"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ee1e51d6-b321-46a1-8dbc-170b4b6fbc7e">
+			<text>por mucho menos.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="ac8af4ca-adbb-4441-9a55-0bd3de21215f">
+			<text>El restaurante estaba bastante lleno (aunque no completo) y sin embargo estuvimos muy tranquilos, con casi total intimidad.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ca1204bd-fa96-4278-bed5-319cc05d0fac">
+			<text>La terraza por la noche, si el tiempo acompaña, genial (pedirla al hacer la reserva)</text>
+			<Opinions>
+				<Opinion target="terraza" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="47e2b5cb-c4e2-4baa-a03d-d82773b65476">
+			<text>Volveremos.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="265dcff7-5d02-4e19-80cf-8ace0e668dad">
+			<text>La calidad de la comida excelente, el servicio super amable y siempre atento.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="17" to="23"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="38" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fe7a5268-3640-4ad0-9e76-3c9bb04c7ed8">
+			<text>Le solicité al responsable de Sala que el chef pusiera más guindilla al aderezo con ajos de la merluza.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="6560928c-6df5-451f-a18d-09d86a6c003d">
+			<text>Cubiertos mal puestos, sin la mas mínima delicadeza.</text>
+			<Opinions>
+				<Opinion target="Cubiertos" category="SERVICE#GENERAL" polarity="negative" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b85974a3-db0d-4a95-9570-299b21a44995">
+			<text>ES el balneario donde peor hemos comido con diferencia de los demás que conozco,mala elaboración , poca variedad ni tan siquiera los desayunos son apetecibles </text>
+			<Opinions>
+				<Opinion target="desayunos" category="FOOD#QUALITY" polarity="negative" from="133" to="142"/>
+				<Opinion target="variedad" category="FOOD#STYLE_OPTIONS" polarity="negative" from="104" to="112"/>
+				<Opinion target="elaboración" category="FOOD#STYLE_OPTIONS" polarity="negative" from="85" to="96"/>
+			</Opinions>
+		</sentence>
+		<sentence id="47bc46df-6332-48fb-bf39-777d7548c205">
+			<text>Y para finalizar, cuando pedimos el café, se nos advirtió que fuéramos rápidos.En fin, muy mal servicio y mala comida.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="negative" from="95" to="103"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="negative" from="111" to="117"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cfb9b656-7da0-4458-ba56-e5a271b21d55">
+			<text>Nos atendieron fenomenal a pesar de nuestra pequeña “faena” al restaurantem ya que de diez personas que ibamos a ser, tuvimos por motivos de salúd 4 bajas y solo fuimos 6.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d60ed468-1e96-48db-bdc2-65bd501efa92">
+			<text>Creo que en esos precios hay que ser más exigente tanto en la calidad del menú como sobre todo en la calidad del servicio.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="negative" from="113" to="121"/>
+			</Opinions>
+		</sentence>
+		<sentence id="62240da2-21d4-46a4-89a5-b3e640524f94" OutOfScope="TRUE">
+			<text>Saludos y ehorabuena por su página web.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="28afe1b8-104d-4302-b641-097c6a018a98">
+			<text>Nos ha gustado.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b64d1c53-9b6f-4b46-b5a8-2d6ad0a39e29">
+			<text>Muy buen recuerdo.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c0d70415-8a84-4ba1-ae8e-2bba19507c9f">
+			<text>Muy atentos.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="029107e1-c0c2-4eae-86fa-810387515ff1">
+			<text>Los arroces y suquets inmejorables.</text>
+			<Opinions>
+				<Opinion target="arroces" category="FOOD#QUALITY" polarity="positive" from="4" to="11"/>
+				<Opinion target="suquets" category="FOOD#QUALITY" polarity="positive" from="14" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7bf2443c-170c-4942-88cb-5a0eb8cd9af2">
+			<text>un lugar para ir con alguien especial(como fuí yo..)</text>
+			<Opinions>
+				<Opinion target="lugar" category="RESTAURANT#GENERAL" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cb2c12ee-172f-417d-9cad-6b0f1dbf3bfa">
+			<text>Hemos comido muy a gusto, la comida excelente y el sitio muy acogedor.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="29" to="35"/>
+				<Opinion target="sitio" category="AMBIENCE#GENERAL" polarity="positive" from="51" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c94a79db-3fd2-4b10-8e22-81ba09f1900f">
+			<text>Arroz caldoso lamentable (para guiris, puede estar hasta bueno) y caro en general.</text>
+			<Opinions>
+				<Opinion target="Arroz caldoso" category="FOOD#QUALITY" polarity="neutral" from="0" to="13"/>
+				<Opinion target="Arroz caldoso" category="FOOD#PRICES" polarity="negative" from="0" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="532edbdd-6315-4e94-a008-6111b45e25ac">
+			<text>Paella muy rica y camareros muy atentos.</text>
+			<Opinions>
+				<Opinion target="Paella" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+				<Opinion target="camareros" category="SERVICE#GENERAL" polarity="positive" from="18" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bd059092-7373-44f9-82fc-df197e41485a">
+			<text>Personal amable pero la comida muy floja.</text>
+			<Opinions>
+				<Opinion target="Personal" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="negative" from="24" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="98c1cb6c-d44f-4827-90c0-134761dd3bcf">
+			<text>Empecé el día con buen pie y lo continué escogiendo el lugar idóneo para comer, charlar  con los amigos y estar muy bien atendida.</text>
+			<Opinions>
+				<Opinion target="lugar" category="RESTAURANT#GENERAL" polarity="positive" from="55" to="60"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2c578f48-7c15-49c7-bb3d-6e087f364ba1">
+			<text>Lo mejor decision, comer por alli!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ef01cfdd-1c9e-4eb0-9d93-ba6430c18ced">
+			<text>La atencion es muy buena, los camareros estan muy pendientes de uno todo el tiempo.</text>
+			<Opinions>
+				<Opinion target="atencion" category="SERVICE#GENERAL" polarity="positive" from="3" to="11"/>
+				<Opinion target="camareros" category="SERVICE#GENERAL" polarity="positive" from="30" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="05e8a474-c8c9-4a79-abf1-19961f9a8089">
+			<text>Hay muchisimos menus del dia en Zaragoza que no tienen comparacion con este.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="67c1c46c-6550-471d-aaec-851ee6803992">
+			<text>La dorada al estilo “el puerto” muy agradable con una salsa muy bien terminada aunque la presentaron sin descamar y eso fue algo incordiante a la hora de disfrutar de ella.</text>
+			<Opinions>
+				<Opinion target="dorada al estilo “el puerto”" category="FOOD#QUALITY" polarity="positive" from="3" to="31"/>
+				<Opinion target="salsa" category="FOOD#QUALITY" polarity="positive" from="54" to="59"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6ed38ec7-d472-4878-a0d8-6283f0bcef9c">
+			<text>La comida fatal y para colmo el precio.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="negative" from="3" to="9"/>
+				<Opinion target="comida" category="FOOD#PRICES" polarity="neutral" from="3" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="877315ae-85ee-4d1f-a190-bb0f70d9229a">
+			<text>No puedo aportar nada más de lo que ya he podido leer por aquí.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="2d99740e-2e34-403b-9282-4d07133f43ba">
+			<text>Tal ha sido mi satisfacción que este es un lugar que ya he recomendado a varios de mis amigos.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eec541bc-6347-4251-8e64-83878b4aef5b">
+			<text>Muy buena relación calidad-precio.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ef0db1f6-25e4-4c8d-bd12-479342f58ee5">
+			<text>El servicio inmejorable y la comida excepcional!!</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="3" to="11"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="29" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2c0659bf-ed13-4a5a-ad9f-6faca0ef2285">
+			<text>Cuando está lleno, la configuración del local amplifica el ruido.</text>
+			<Opinions>
+				<Opinion target="Cuando está lleno, la configuración del local amplifica el ruido" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="64"/>
+			</Opinions>
+		</sentence>
+		<sentence id="df429605-b862-4cf3-a543-e5e24b7f3dd2">
+			<text>Lo primero que quiero decirle es que he estado 4 o 5 veces, pero dado la llegada de la crisis no voy desde hace dos años, no porque no quiera sino porque no puedo.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="a254f39c-7f43-4a48-9017-8f1796aa1550">
+			<text>Muy bien.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="59f9a452-326b-4f4f-861d-a4055764e838">
+			<text>Lamentablemente la relación calidad-precio me parece mala ya que la comida en mi opinión no está a la altura del precio.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#PRICES" polarity="negative" from="68" to="74"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="negative" from="68" to="74"/>
+			</Opinions>
+		</sentence>
+		<sentence id="37549063-a17f-469f-b72d-58b53c6e5191">
+			<text>&lt;-&gt;El menu reservado pot Internet, no estaba, eñ aire no funcionabs, mucho calor, el trato del encargado no correcto y la comida , no buena, ni en cantidad.</text>
+			<Opinions>
+				<Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="negative" from="6" to="10"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="encargado" category="SERVICE#GENERAL" polarity="negative" from="95" to="104"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="negative" from="122" to="128"/>
+				<Opinion target="comida" category="FOOD#STYLE_OPTIONS" polarity="negative" from="122" to="128"/>
+			</Opinions>
+		</sentence>
+		<sentence id="22605649-43cb-45a9-ae07-ad0139c09801">
+			<text>Muy buena carta y platos abudantes.</text>
+			<Opinions>
+				<Opinion target="carta" category="FOOD#STYLE_OPTIONS" polarity="positive" from="10" to="15"/>
+				<Opinion target="platos" category="FOOD#STYLE_OPTIONS" polarity="positive" from="18" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5dd472cb-8e14-40aa-95f0-2d180d1d8f1c">
+			<text>A continuación una variedad de texturas de melocotón con moscatel.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="819d4caa-039c-432c-8979-23b7f2e0cadf">
+			<text>Hicimos un menú de grupo y resultó superescaso con una ración de pescado que daba risa verla.</text>
+			<Opinions>
+				<Opinion target="menú de grupo" category="FOOD#STYLE_OPTIONS" polarity="negative" from="11" to="24"/>
+				<Opinion target="ración de pescado" category="FOOD#STYLE_OPTIONS" polarity="negative" from="55" to="72"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9cc40617-5ed0-4603-9928-7c86a188753d" OutOfScope="TRUE">
+			<text>Yo creo que en cualquier sitio que se sirvan comidas hay que comer bien te cobren lo que te cobren, ¿o es que con un precio barato se justifica que te pongan algo incomible?</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="880991a3-4d47-401a-989a-1eab14c290ec">
+			<text>Platos mal presentados, sobrevolando las cabezas de los comensales.</text>
+			<Opinions>
+				<Opinion target="Platos" category="SERVICE#GENERAL" polarity="negative" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e57e30ef-13d1-4b44-b736-2356f8d3044f">
+			<text>Otra cosa es que no te guste. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="ffedb11b-6595-46c3-ab5a-b4f3f5a73f2a" OutOfScope="TRUE">
+			<text>Me alegra mucho que no le haya gustado la crónica, ni algunas otras.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="02640256-a746-4076-9071-38d6c7908008">
+			<text>En cualquier caso un sitio interesante para cenar, en concreto el pulpo con langostinos, delicioso. </text>
+			<Opinions>
+				<Opinion target="sitio" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="26"/>
+				<Opinion target="pulpo con langostinos" category="FOOD#QUALITY" polarity="positive" from="66" to="87"/>
+			</Opinions>
+		</sentence>
+		<sentence id="44207c7a-98ac-47a8-965f-75170ec47e47">
+			<text>Perfecta relación calidad-precio, servicio muy atento y comida exquisita.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="34" to="42"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="56" to="62"/>
+			</Opinions>
+		</sentence>
+		<sentence id="21a7d38e-241b-4a0a-b837-a5f64100927e">
+			<text>A ver si cambian pronto la ley y podemos degustar la buena cocina sin alteraciones apestosas como la del tabaco… </text>
+			<Opinions>
+				<Opinion target="cocina" category="FOOD#QUALITY" polarity="positive" from="59" to="65"/>
+				<Opinion target="tabaco" category="AMBIENCE#GENERAL" polarity="negative" from="105" to="111"/>
+			</Opinions>
+		</sentence>
+		<sentence id="031a5338-025f-4063-a4f4-d9c133b6d518">
+			<text>Seguramente volveremos </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a5f755ea-0f6e-4f56-bb71-dab35c16d91b">
+			<text>hace unos dias cenamos cuatro personas todas coincidimos en lo mismo, el poco dinamismo y simpatia del servicio, después la cena; el arroz caldoso, los chipirones no podían saber mas a amoniaco, la ensalada normal,vamos lo mejor el sorbete de mandarina y 30euros para esa calidad es desproporcionado totalmente.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="negative" from="103" to="111"/>
+				<Opinion target="chipirones" category="FOOD#QUALITY" polarity="negative" from="152" to="162"/>
+				<Opinion target="ensalada" category="FOOD#QUALITY" polarity="neutral" from="198" to="206"/>
+				<Opinion target="sorbete de mandarina" category="FOOD#QUALITY" polarity="positive" from="232" to="252"/>
+				<Opinion target="calidad" category="FOOD#PRICES" polarity="negative" from="272" to="279"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9fbda2a1-9d32-42ec-bc49-2c8368105f64">
+			<text>El servicio es muy amable y diligente y el entorno (estuvimos en la sala privado) agradable.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="3" to="11"/>
+				<Opinion target="entorno" category="AMBIENCE#GENERAL" polarity="positive" from="43" to="50"/>
+			</Opinions>
+		</sentence>
+		<sentence id="305f9dc0-17b7-4f00-8463-34c38257a3cb">
+			<text>Muy amable todo el personal, limpio y la comida muy buena y con varios menus para elegir junto con la carta.</text>
+			<Opinions>
+				<Opinion target="personal" category="SERVICE#GENERAL" polarity="positive" from="19" to="27"/>
+				<Opinion target="limpio" category="AMBIENCE#GENERAL" polarity="positive" from="29" to="35"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="41" to="47"/>
+				<Opinion target="menus" category="FOOD#STYLE_OPTIONS" polarity="positive" from="71" to="76"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ee892a48-9b4a-4401-a2a0-275d0d524653">
+			<text>Es un Restaurante muy recomendable.</text>
+			<Opinions>
+				<Opinion target="Restaurante" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c78b138-2050-453a-923f-1d95c6df5854">
+			<text>Salimos encantadas del restaurante.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="RESTAURANT#GENERAL" polarity="positive" from="23" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cf0dfd00-c391-493b-bd2e-41e36879818c">
+			<text>Una pena para las instalaciones tan excelentes que hay. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="16cd6907-7598-4fe2-8010-5c843184076b" OutOfScope="TRUE">
+			<text>Sali fascinada, por la mañana realize la envoltura, estuve un ratito en el gimnasio.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="1ff467a0-f9d8-490b-929b-3bfce34471a8">
+			<text>Teniendo en cuenta que iba con 2 personas muy mayores no era el sitio idóneo donde acomodarnos.</text>
+			<Opinions>
+				<Opinion target="sitio" category="AMBIENCE#GENERAL" polarity="negative" from="64" to="69"/>
+			</Opinions>
+		</sentence>
+		<sentence id="453a2b37-5dc0-4248-9924-c7e453920563">
+			<text>Local casi perfecto, cocina impecable, cantidad más que abundante, extensa carta (comida y vinos) y precio adecuado a lo que oferta.</text>
+			<Opinions>
+				<Opinion target="Local" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="5"/>
+				<Opinion target="cocina" category="FOOD#QUALITY" polarity="positive" from="21" to="27"/>
+				<Opinion target="carta" category="FOOD#STYLE_OPTIONS" polarity="positive" from="75" to="80"/>
+				<Opinion target="carta" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="75" to="80"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="53eea72f-5240-4333-8fad-f3c990518444">
+			<text>El ambiente es agradable y el servicio rápido y amable.</text>
+			<Opinions>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="11"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="30" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dab49e59-6fc8-4261-8bcc-3bd0b6771420">
+			<text>Cena de negocio a más de 50 € pp y de primeros: longaniza de vic?</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="90f05c1b-f451-4d95-875d-95d7d0ddb2a4">
+			<text>Lo recomiendo muy contento. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="acb9bac0-ca42-4407-a9f9-b9ca3b7f2925" OutOfScope="TRUE">
+			<text>Sí Manolo, tienes razón, no me he explicado bien, quería decir que no es un precio bajo como para poder dar todo por “bueno”, que hay que exigir un poco más.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="a2193a42-0c85-4917-bf6c-f27c96d50da5" OutOfScope="TRUE">
+			<text>Las opiniones que leí, antes de ir, me confundieron totalmente.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="5ef0158f-dfc9-470b-96b0-d3c7bc265a7b">
+			<text>Sencillamente, me ha encantado!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2061646c-121e-4ff1-8426-a748acc386f5">
+			<text>Servicio amable</text>
+			<Opinions>
+				<Opinion target="Servicio" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="11a68fdb-8152-4375-b215-6c62467660d3">
+			<text>Creo que la ventilación era bastante buena, aunque  no sé lo que ocuriría si hubiera mayor número de fumadores o más compulsivos. </text>
+			<Opinions>
+				<Opinion target="ventilación" category="AMBIENCE#GENERAL" polarity="positive" from="12" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8c306272-8205-4749-84c4-c7355e761cea">
+			<text>Recomiendo la paella de marisco y la sangria de cava.</text>
+			<Opinions>
+				<Opinion target="paella de marisco" category="FOOD#QUALITY" polarity="positive" from="14" to="31"/>
+				<Opinion target="sangria de cava" category="DRINKS#QUALITY" polarity="positive" from="37" to="52"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6a36ed81-0749-4235-97ec-34418652121f">
+			<text>Le voy a intentar explicar el porqué de su estrellato, y la forma de entender este tipo de restaurante (cosa que con todos los respetos no es posible para a todo el mundo porque así es la vida).</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="35698901-bee2-4c67-bf35-a6a8be50d1e4">
+			<text>Estuve este sabado pasado cenando y he de felicitar tanto al restaurante como al camarero que nos atendio y por supuesto la comida.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="RESTAURANT#GENERAL" polarity="positive" from="61" to="72"/>
+				<Opinion target="camarero" category="SERVICE#GENERAL" polarity="positive" from="81" to="89"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="124" to="130"/>
+			</Opinions>
+		</sentence>
+		<sentence id="24a90a3a-ce0e-4c7f-a17f-94ab8762c11b">
+			<text>para no volver </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7d33944a-6d90-4328-bc1c-a987433d0610">
+			<text>Las sardinas a la brasa espectaculares.</text>
+			<Opinions>
+				<Opinion target="sardinas" category="FOOD#QUALITY" polarity="positive" from="4" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a92962f5-a0d3-4da1-9d41-f8ed880ca4bf">
+			<text>Solicité en la reserva terraza y creo que estuve en una de las mejores mesas con terraza.</text>
+			<Opinions>
+				<Opinion target="mesas" category="AMBIENCE#GENERAL" polarity="positive" from="71" to="76"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0ac16544-cdd2-4a54-88e1-c22d4c078831">
+			<text>Yo estuve ayer.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="7eb11cef-a1a9-407e-8bae-1656b2ea0cff">
+			<text>La comida de calidad.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="3" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ec26ea14-4ea5-478a-970b-00e373911295">
+			<text>fui con unos clientes erabamos 8 y nos encanto.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c84ce8f3-77b7-4c39-b734-36aed116992c">
+			<text>&lt;-&gt;Nada negativo.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e4d7f8e9-8054-461a-acfc-4dae0f9a8d80" OutOfScope="TRUE">
+			<text>Enhorabuena!!, ahora sí lo has entendido. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="e4c51f0f-b1bd-432a-b85e-bb8a0544c7fa">
+			<text>Sirven platos deliciosos, ya sean nuevos o tradicionales.</text>
+			<Opinions>
+				<Opinion target="platos" category="FOOD#QUALITY" polarity="positive" from="7" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dc0c15d1-a5c5-43db-b9c3-8b35d1a3b815">
+			<text>Primer plato simplon estilo cuartelero.</text>
+			<Opinions>
+				<Opinion target="Primer plato" category="FOOD#QUALITY" polarity="negative" from="0" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9f88f4c7-304d-4e86-a235-be9baa643e6f">
+			<text>para describir a este ya clásico en Barcelona.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="c8ffb70f-090a-4cf3-a44e-dca813d2e7de">
+			<text>Pero donde si que destaca este restaurante es sin duda en su EXTENSISIMA bodega con unos abanicos de precios mas que accesible para cualquier bolsillo ya que hay innumerables vinos que no pasan de los 20 euros aunque desde luego si buscamos algo mas de nivel desde luego el sitio y sobre todo su sumiller responden con gran eficacia y nivel.</text>
+			<Opinions>
+				<Opinion target="bodega" category="DRINKS#PRICES" polarity="positive" from="73" to="79"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aa338b54-822f-480d-a4ea-e39e7d2bbb31">
+			<text>[…] sábado estuve cenando en el nuevo restaurante Q-Art (hacer click para ver la crítica), desastroso, no volveré.</text>
+			<Opinions>
+				<Opinion target="restaurante Q-Art" category="RESTAURANT#GENERAL" polarity="negative" from="38" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="87c3e4d4-4b29-4056-8d36-aa1ce1f282d3">
+			<text>Todo estuvo muy bien</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3ae2bb92-e011-471e-8520-a31d50fee7fd">
+			<text>Destacar los arroces, la caldereta de bogavante, las zamburiñas al horno y los platos de "picoteo" y los pescados en general.</text>
+			<Opinions>
+				<Opinion target="arroces" category="FOOD#QUALITY" polarity="positive" from="13" to="20"/>
+				<Opinion target="caldereta de bogavante" category="FOOD#QUALITY" polarity="positive" from="25" to="47"/>
+				<Opinion target="zamburiñas al horno" category="FOOD#QUALITY" polarity="positive" from="53" to="72"/>
+				<Opinion target="platos de &quot;picoteo" category="FOOD#QUALITY" polarity="positive" from="79" to="97"/>
+				<Opinion target="pescados" category="FOOD#QUALITY" polarity="positive" from="105" to="113"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f4d11a0b-9a42-489c-b791-168d9d6ce99d">
+			<text>Pero la estrella se la llevó lo que en la carta era “ensalada ventresca, piquillo y cebolla” solicitamos cambiar el piquillo por tomate y nos trajeron “ensalada con varias lechugas,piquillos, cebolla, espárragos, un pelín de ventresca y UN TOMATITO CHERRY.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="c0e2c59d-35f9-4637-8aa8-14bb959e8dc0" OutOfScope="TRUE">
+			<text>Otra cosa sería censura y coacción. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="01f79f22-82e6-4622-ad89-f9badb811f84">
+			<text>A pesar de ser un restaurante de pescado y marisco, mi marido encontró buenísimo el filete a la pimienta verde que pidió.</text>
+			<Opinions>
+				<Opinion target="filete a la pimienta verde" category="FOOD#QUALITY" polarity="positive" from="84" to="110"/>
+			</Opinions>
+		</sentence>
+		<sentence id="93772f0a-d7c1-4727-9b49-87e2ef702cae">
+			<text>comimos el domingo 20 de octubre y tenemos que decir que estuvo genial, probamos una ensalada con bonito escabechado de la casa muy bueno, las carnes muy bien elaboradas, los postres casi sobraban, pero había que hacer un esfuerzo que mereció la pena y bastantes vinos para poder elegir.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="ensalada con bonito escabechado de la casa" category="FOOD#QUALITY" polarity="positive" from="85" to="127"/>
+				<Opinion target="carnes" category="FOOD#QUALITY" polarity="positive" from="143" to="149"/>
+				<Opinion target="postres" category="FOOD#QUALITY" polarity="positive" from="175" to="182"/>
+				<Opinion target="vinos" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="263" to="268"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f7551ff1-f91e-4c04-a193-0d434a8590a6">
+			<text>por lo demás 10.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3e0db9f3-5a50-451c-bae2-101ec5dd27d9">
+			<text>Ya hemos repetido y volveremos a hacerlo. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="04722cb6-c1fa-4289-bebb-b32b23865282">
+			<text>Ha sido todo excelente, la calidad, los tiempos, el ambiente (quizas demasiado iluminado) y el servicio.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="neutral" from="52" to="60"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="95" to="103"/>
+				<Opinion target="tiempos" category="SERVICE#GENERAL" polarity="positive" from="40" to="47"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="13be2d24-a779-4623-aeae-f923387e7f7b">
+			<text>Recomendable totalmente. </text>
+			<Opinions>
+				<Opinion target="Recomendable totalmente." category="RESTAURANT#GENERAL" polarity="positive" from="0" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="016c36b0-0abe-493f-bf4b-6a4a8055d2d8">
+			<text>Solo una crítica (constructiva)</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="edd7e138-6066-4064-b29a-2c9b8d510ac5">
+			<text>Menú calçotada muy bien, dejando repetir, buena relación calidad-precio-calidad.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="fd318489-6f24-449c-a843-504ebf927d6c">
+			<text>Para beber: un vino que recomienda la casa, el Viña Salceda Reserva 2010 D.O.C.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="ddd829f6-813d-451c-8745-689cdf36bd54" OutOfScope="TRUE">
+			<text>No será la primera vez que salgo gratamente sorprendido de una no-recomendación, y eso que en algunas ocasiones eran de toda confianza.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="64522e1b-0b6f-40fd-aaaf-bc0d27c73c69">
+			<text>Excelente, como siempre.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e5f39c2-f1ee-485d-b38e-1691c2c583b9" OutOfScope="TRUE">
+			<text>El balneario como tal está muy bien, para eso no hay queja.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="941f0446-2090-4a9b-9201-ec3f532198ec">
+			<text>pueden mejorar la limpieza.</text>
+			<Opinions>
+				<Opinion target="limpieza" category="AMBIENCE#GENERAL" polarity="negative" from="18" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="44f36f73-ae55-4eb4-a530-c2be8682709f">
+			<text>El servicio, mas que correcto.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="3" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0aa0409e-8521-4269-a0e9-ee567f79497f" OutOfScope="TRUE">
+			<text>No diré que no hay cavas catalanes malos, que los hay, pero en general los aragoneses son muy malos y su precio se ha ido a las nubes, creo que sobre todos por su aumento de consumo debido a politiqueos. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="2aef3e02-3874-405f-b141-6b49f8262659">
+			<text>Fuimos a cenar en Agosto a la Matilde.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="548ebe37-b8f6-4565-a141-3f80bcb1040d">
+			<text>Totalmente recomendable.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ed3cd016-801c-4df3-8b74-df8ad62fd5e5">
+			<text>La calidad de la comida es muy buena así como el servicio.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="17" to="23"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="49" to="57"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ca2a2bb8-d6f7-4921-b3f7-6e7c8ce24abb">
+			<text>No importaba mucho que fuera del grigo, dado que el agua de la zona es excelente; pero por ello se nos facturó 2,50 euros.</text>
+			<Opinions>
+				<Opinion target="NULL" category="DRINKS#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="12c5e44c-c457-4bc5-bca4-258fe74b00f0">
+			<text>Me hicieron hueco en unas mesas altas de la cafetería. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="add6c59d-807a-4344-9d0e-4e801419c47b">
+			<text>Justito.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="bfa3f2d3-39d2-4ae6-8371-202cb6987a08">
+			<text>Creo q cuando se va a un restaurante de ese nivel y hay un cambio en el menú, se debe advertir al presentar la carta, y q si se hace después, se deben dar opciones para cambiar de plato si a algún comensal no le gusta.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="511c46a8-3736-4e5d-8bdd-145a30a9ff8a">
+			<text>Una maravilla como está decorado.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c3c91d89-3eea-4a52-b7d3-ecbd3e7120a6">
+			<text>De segundo magret de pato y el postre no lo recuerdo, eso sí, recuerdo que ni fu ni fa.</text>
+			<Opinions>
+				<Opinion target="postre" category="FOOD#QUALITY" polarity="negative" from="31" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a3bdd77a-3fa2-47e9-a4c8-78b86177a995" OutOfScope="TRUE">
+			<text>Sinceramente, me parecen alucinantes algunos comentarios negativos sobre este restaurante.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="b03d2232-dd9b-4f9c-a544-ad1317046032">
+			<text>Era imprescindible cita previa, por lo que avisé con dos semanas de tiempo, eligiendo un martes por la noche.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="1d99112b-5948-4833-a772-3403c4b1f443">
+			<text>No fué así.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="bbb0a100-1fe2-461e-9c95-5c80a362ee14">
+			<text>Tras interesarme por ese ‘extra-coste’ del vino se me dice que ellos consideran que una botella de vino es cada 3 o 4, por lo que al pedir 3 e ir 6, se me cobra 1.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="67e22764-e336-41c0-b1ac-1b048a145617">
+			<text>Impersonal, lo peor que le puede pasar a un restaurante que quiere tener voz propia.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="AMBIENCE#GENERAL" polarity="negative" from="44" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ddd55d60-fa0f-42d6-a1fd-e97729d4932c">
+			<text>presa iberica 30 € así no se presenta la presa ibérica, no me ha gustado, lo peor los postres, merengue, fresas…9€.</text>
+			<Opinions>
+				<Opinion target="presa iberica" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="13"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="postres" category="FOOD#QUALITY" polarity="negative" from="86" to="93"/>
+				<Opinion target="merengue" category="FOOD#QUALITY" polarity="negative" from="95" to="103"/>
+				<Opinion target="fresas" category="FOOD#QUALITY" polarity="negative" from="105" to="111"/>
+			</Opinions>
+		</sentence>
+		<sentence id="448323cd-2428-4e7d-803c-51dce5606ebb" OutOfScope="TRUE">
+			<text>Muy buena descripción Pedro, no he estado todavía en el restaurante Colette, he leído algunas opiniones negativas y otras positivas, pero desde luego por lo que comentas es muy recomendable su cocina.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="91f0f588-9f7f-46b6-a0d8-6adac8e3a8bf">
+			<text>Al finalizar el menu no querian hacer el descuento porque decían que el descuento era para cenas completa no valia para platos combinados sin postre... </text>
+			<Opinions>
+				<Opinion target="menu" category="FOOD#PRICES" polarity="negative" from="16" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c326c5c-4d79-4f18-a734-a818f2c56261">
+			<text>Lo siento, pero no lo recomiendo en tales condiciones.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="048f9f56-cb83-448f-aa7a-d71cc2100e2f">
+			<text>Arroz muy bueno pero escasa ración.</text>
+			<Opinions>
+				<Opinion target="Arroz" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="Arroz" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3ede4734-2d24-4bdd-a734-c69459863419">
+			<text>Comimos dos menus calçotades muy buenos!</text>
+			<Opinions>
+				<Opinion target="calçotades" category="FOOD#QUALITY" polarity="positive" from="18" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d98eb839-2311-477b-9e49-0d64b975e828">
+			<text>Estuvieron encima en todo moneto y no hacia falta llamarles.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b0b765a9-e028-4988-9c16-70f2272c2daa">
+			<text>Estilo</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="343db5f5-c420-4419-9fca-cb10ca798516">
+			<text>Gran clasico de la barceloneta con un servicio inmejorable!!!</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="38" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bd1df637-6fa2-408f-914e-2bf5c4ae8cc6" OutOfScope="TRUE">
+			<text>Estuve en el otro, el q-art, y salí muy descontento del local ¿en el Colette hay zona de no fumadores?</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="b9f3d3a0-9a3a-435a-8ee6-5321b6096ca3">
+			<text>Muy muy bien, lo recomiendo….. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b2999cad-a252-413b-8580-1ba4ad45be8a">
+			<text>Muy buen sabor, en cualquier caso.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eca1f1a5-70fd-415e-8cc7-78c46fe2a7d6">
+			<text>El corte del jamon en lonchas mas finas!</text>
+			<Opinions>
+				<Opinion target="corte del jamon" category="FOOD#QUALITY" polarity="negative" from="3" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7d1a5097-6ae9-4571-95d8-2eb152c44e65">
+			<text>El servicio excelente.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="3" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="21aa0c79-7a49-45d3-a2f2-0cc590845d6d">
+			<text>Como siempre han estado a la altura, calidad precio perfecto y servicio inmejorable, extremadamente amables.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="63" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="73fbea24-d80d-4a4e-ad97-7fd4c542f938">
+			<text>También la rapidez en el servicio.</text>
+			<Opinions>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="25" to="33"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9b8f2295-687e-4cf3-a3d2-7976b2893575">
+			<text>Si bien agradecía que no fueran unas cantidades muy grandes, no es lo que se suele comer en casa.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e25b1c63-fa00-4949-903f-553041a3d058">
+			<text>El esfuerzo que hacen (y que tienen que hacer) restaurantes de este nivel de adaptarse a los tiempos y ofrecer menús cerrados a un precio asequible, no siempre es reconocido. </text>
+			<Opinions/>
+		</sentence>
+		<sentence id="e8e7fc61-7c88-4b21-a946-182ccd51801a">
+			<text>Tampoco he probado nunca unas pizzas al horno de leña tan buenas.</text>
+			<Opinions>
+				<Opinion target="pizzas" category="FOOD#QUALITY" polarity="positive" from="30" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5469e16e-d045-466a-a780-f28a7f2e3ad3">
+			<text>El descuento no se aplica a tapas (también en la carta), ni postres (tambien en la carta) ni bebidas (esto es normal).</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="5527be18-d757-4cc4-8978-b0de2c08c74b">
+			<text>&lt;+&gt;Nunca falla.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d8d158b6-3fd0-4c47-a7c5-7db48ac10f52">
+			<text>Hasta las 16h15 no nos adjudicaron la mesa.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="175920ca-5705-4ea3-aa9d-e68317612108">
+			<text>Es un lugar entrañable de Barcelona que hay que conocer, ambiente inigualable (pero ruidoso, no es para una cena íntima) y cosmopolita.</text>
+			<Opinions>
+				<Opinion target="lugar" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="11"/>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="conflict" from="57" to="65"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8fad945c-5bc2-4d7a-a078-0db78d0c2da2">
+			<text>Unico en Zaragoza, Ya era hora!!!.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="561b044d-742f-40a5-8158-5c93595d8f77">
+			<text>Nos encantó, llevamos clientes por el trabajo, y cenamos con fines de semana a solas... hasta hace poco volvimos con unos amigos y... qué decepción!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7af42b81-72b6-4ff5-a960-a3c4b151e3cb">
+			<text>La comida está buena y no es caro, pero el local es un poco lúgubre y falto de luminosidad.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="3" to="9"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="local" category="AMBIENCE#GENERAL" polarity="negative" from="43" to="48"/>
+			</Opinions>
+		</sentence>
+		<sentence id="288d8c23-1fe7-46c7-b8d3-97dbe8d02f87" OutOfScope="TRUE">
+			<text>Enhorabuena a Bal D’Onsera por conservar su estrella Michelin en el 2010 y lamento que se la hayan quitado al Lillas Pastia.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="325bf98e-ce63-4dfc-a65d-37c1a25d8629">
+			<text>Sin embargo, yo que soy de comer bastante, me daba la sensación de comer poco.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a218a5f6-667c-4a86-927e-7434484626d2" OutOfScope="TRUE">
+			<text>A mí y a muchas personas nos gusta comer bien y pasar una agradable velada, y no nos gusta que nos interrumpa interesandose si te gusta, si está todo correcto, si quiere algo más, etc.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="8e314b20-8858-405c-807b-f18cc7c4dff1">
+			<text>El local aco*edor y bien instalado.</text>
+			<Opinions>
+				<Opinion target="local" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fa43ae55-b4e7-49b6-b13e-fe79c0622a20">
+			<text>Un sitio tranquilo con pocas mesas.</text>
+			<Opinions>
+				<Opinion target="sitio" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="58b75949-aea7-498b-8f43-96010c4835ec">
+			<text>Paella mixta exquisita.</text>
+			<Opinions>
+				<Opinion target="Paella mixta" category="FOOD#QUALITY" polarity="positive" from="0" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a6ea2c2a-95f9-4a2e-b845-a5b4d661ea48" OutOfScope="TRUE">
+			<text>Para mí prohibitivo en estos tiempos, pero a pesar de todo no creo que ganen mucho dinero porque sólo hay cinco mesas.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="a29de0ac-5fed-4312-a4d6-c84e1a4e9a09">
+			<text>Empiezo:En este restaurante no trabajamos el rape, la gamba son del sur de la Bahía, los Langostinos de Sanlucar, todo lo referente al marisco y a los pescaitos nos lo mandan de Cádiz una empresa marinera, destacando los chocos y el cazón.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="6fc5eeed-cb63-49a2-aa44-22178e181d84">
+			<text>o ha sido un error?</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="b0a6af1a-7031-4133-bcac-939d6e779fee">
+			<text>Los segundos de la mesa fueron un solomillo, una presa ibérica, un canelos de ternasco y un rape.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="07113f9a-a20e-4c5a-802d-dd2d93c053d2">
+			<text>Nosotros no volveremos. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="46fa8b9d-dc4a-4139-bb8c-1d6413bd1940">
+			<text>recomiendo este sitio.Fui a cenar con mi novio por mi cumple,y samilos encantados,repetiremos seguro.</text>
+			<Opinions>
+				<Opinion target="sitio" category="RESTAURANT#GENERAL" polarity="positive" from="16" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="86ffbdb8-975f-4876-a5b0-9b0e19925dc4">
+			<text>Las carnes a la brasa son superiores.</text>
+			<Opinions>
+				<Opinion target="carnes a la brasa" category="FOOD#QUALITY" polarity="positive" from="4" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="774b36b5-85f4-4b7c-828d-770c712d2cfb">
+			<text>- Rape con couscous y chipirón.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="7577a102-ad3e-4700-a81c-9ff1c080da01">
+			<text>Sobresaliente.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="09348981-3d77-4378-8370-60f7842fe690">
+			<text>El local me encanta, el servicio muy bueno, la comida genial, aunque yo destacaría el huevo a 65 grados y el sashimi de atun que es para flipar y una torrija que te dan ganar de repetir, estuve allí el miércoles pasado con unas amigas y tenemos claro que volveremos , ah!</text>
+			<Opinions>
+				<Opinion target="local" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="24" to="32"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="47" to="53"/>
+				<Opinion target="huevo a 65 grados" category="FOOD#QUALITY" polarity="positive" from="86" to="103"/>
+				<Opinion target="sashimi de atun" category="FOOD#QUALITY" polarity="positive" from="109" to="124"/>
+				<Opinion target="torrija" category="FOOD#QUALITY" polarity="positive" from="150" to="157"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f6445296-9e2b-40fb-83ba-7bc1c739afb4">
+			<text>Muy caro, un querer ser y no poder.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ade08aaa-ace3-459b-aacf-c1f47fdf61e9">
+			<text>Así como el romesco, que era un poco "de bote".</text>
+			<Opinions>
+				<Opinion target="romesco" category="FOOD#QUALITY" polarity="negative" from="12" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3bf9cdcc-967b-4501-b862-ab514910dade">
+			<text>Relación calidad-precio fantástica.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ed260b5c-0acd-4064-bc65-15e1305a289e">
+			<text>Pero además, los dos platos que yo comí estaban francamente malos, no estaban bien elaborados (tostada de escalibada con codorniz y merluza braseada).</text>
+			<Opinions>
+				<Opinion target="platos" category="FOOD#QUALITY" polarity="negative" from="21" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e8e8d5dd-6f6d-4735-8e15-8c31abf86c06">
+			<text>Sin duda es un sitio que recomiendo. </text>
+			<Opinions>
+				<Opinion target="sitio" category="RESTAURANT#GENERAL" polarity="positive" from="15" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fc2d33b5-ae84-4585-8d15-8d10ee3525a9">
+			<text>Lo mejor, el sabor a brasa y la abundante cantidad de calçots.</text>
+			<Opinions>
+				<Opinion target="calçots" category="FOOD#STYLE_OPTIONS" polarity="positive" from="54" to="61"/>
+			</Opinions>
+		</sentence>
+		<sentence id="87c5802b-6ec9-4c4c-bcf3-e0fc3942dfcb">
+			<text>Como entrantes compartimos:- un carpaccio de buey de Kobe, excelente, sabrosísimo.- una tempura de comenillas rellenas de foie y alchofas- una cola entera de bogavante a la plancha con salsa de su coral (muy sabrosa, aunque un poco pasada de punto)Antes del segundo la casa nos ofreció un pinco de membrillo y queso en tempura presentado en un palo de canela encendido.</text>
+			<Opinions>
+				<Opinion target="carpaccio de buey de Kobe" category="FOOD#QUALITY" polarity="positive" from="32" to="57"/>
+				<Opinion target="cola entera de bogavante a la plancha con salsa de su coral" category="FOOD#QUALITY" polarity="neutral" from="143" to="202"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c2fb035-8d07-4a35-981b-456999c07e24">
+			<text>En realidad están tratando de que dejes la mesa lo antes posible para ocupar un segundo turno.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5595a956-28ff-43d6-bfa9-7f087ebad518">
+			<text>El restaurante "La Cullera de Boix" es excelente tanto por el ambiente como el servicio, no tuvimos ningún problema.</text>
+			<Opinions>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="62" to="70"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="79" to="87"/>
+			</Opinions>
+		</sentence>
+		<sentence id="18c46a32-bd4f-49e8-84db-eb0d75bec6b6">
+			<text>Extraordinario sabor y textura.</text>
+			<Opinions>
+				<Opinion target="sabor" category="FOOD#QUALITY" polarity="positive" from="15" to="20"/>
+				<Opinion target="textura" category="FOOD#QUALITY" polarity="positive" from="23" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2d1bbb99-342e-4604-af67-30cd1db1fe5f">
+			<text>He estado varias veces,el trato profesional y muy amable, en cuanto al producto, muy bien en calidad y cantidad, sin sorpresas </text>
+			<Opinions>
+				<Opinion target="trato" category="SERVICE#GENERAL" polarity="positive" from="26" to="31"/>
+				<Opinion target="producto" category="FOOD#QUALITY" polarity="positive" from="71" to="79"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2c0cf435-0ebc-4720-bad3-2bb2c3e6b365">
+			<text>Restaurante para no tirar cohetes pero en general sales satisfecho.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="3720eb32-7835-4f48-9ab1-05c49ddf2339">
+			<text>Ambiente agradable,servicio bueno y la relacion calidad precio buena.Buena elwccion. </text>
+			<Opinions>
+				<Opinion target="Ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="8"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="19" to="27"/>
+				<Opinion target="relacion calidad precio" category="FOOD#PRICES" polarity="positive" from="39" to="62"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0814bef7-d399-4d44-88ef-bbafb3ab9dde">
+			<text>Servicio profesional y cercano.</text>
+			<Opinions>
+				<Opinion target="Servicio" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8a1e1162-fd74-474e-bc3d-6017e0a1c90a">
+			<text>Eso si mucha mariconada de caramelos con lagrimas de acite pero como se te caiga un cubierto o avisas a la camarera, si la pillas, o te lo limpias tu.</text>
+			<Opinions>
+				<Opinion target="camarera" category="SERVICE#GENERAL" polarity="negative" from="107" to="115"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fca90ae5-0a92-44fa-ba2d-dc5ff6c5decf">
+			<text>El vino muy bueno y el postre de puding es algo delicioso aunque le sobraba casi toda la nata (de bote) que llevaba de acompañamiento; mereceria plantearse otra presentacion.</text>
+			<Opinions>
+				<Opinion target="vino" category="DRINKS#QUALITY" polarity="positive" from="3" to="7"/>
+				<Opinion target="postre de puding" category="FOOD#QUALITY" polarity="positive" from="23" to="39"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cd938de3-ce59-45bf-98ef-9804c7415b09">
+			<text>En general buen precio, buena cocina, buen servicio.</text>
+			<Opinions>
+				<Opinion target="cocina" category="FOOD#QUALITY" polarity="positive" from="30" to="36"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="43" to="51"/>
+				<Opinion target="precio" category="RESTAURANT#PRICES" polarity="positive" from="16" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e70fb901-4327-4cd8-8266-2b0f577b2f91">
+			<text>Calidad excelente, carta extensísima, servicio atento, instalaciones cuidadísimas y salones privados que ensalzan todo lo dicho.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="carta" category="FOOD#STYLE_OPTIONS" polarity="positive" from="19" to="24"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="38" to="46"/>
+				<Opinion target="instalaciones" category="AMBIENCE#GENERAL" polarity="positive" from="55" to="68"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0985cb09-cf05-4f9d-b9fb-ae2b1ab20625">
+			<text>La cena nos ha gustado mucho, tanto el menú como la presentación y el servicio.</text>
+			<Opinions>
+				<Opinion target="menú" category="FOOD#QUALITY" polarity="positive" from="39" to="43"/>
+				<Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="70" to="78"/>
+			</Opinions>
+		</sentence>
+		<sentence id="abd351fc-87c2-44a1-9147-28d6eba04868">
+			<text>Ambiente muy tranquilo, muy limpio, los platos les faltaba un poco mas de comida, para los precios elevados que tiene, pero en definitiva todo muy correcto, curiosa decoracion</text>
+			<Opinions>
+				<Opinion target="Ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="8"/>
+				<Opinion target="comida" category="FOOD#STYLE_OPTIONS" polarity="negative" from="74" to="80"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="decoracion" category="AMBIENCE#GENERAL" polarity="positive" from="165" to="175"/>
+			</Opinions>
+		</sentence>
+		<sentence id="20195092-34e4-4d5d-84b1-befb66452031">
+			<text>Además te leen aún más sugerencias.</text>
+			<Opinions>
+				<Opinion target="sugerencias" category="FOOD#STYLE_OPTIONS" polarity="negative" from="23" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ed457b29-3467-4b39-80a8-96820da6b1c8">
+			<text>Buena cara de vinos.</text>
+			<Opinions>
+				<Opinion target="vinos" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="14" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8dbcac6e-ca0c-4a35-8960-31bb49cf5949">
+			<text>En el vale descuento no pone nada de esto.</text>
+			<Opinions>
+				<Opinion target="vale descuento" category="SERVICE#GENERAL" polarity="negative" from="6" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cb63bab5-7913-428a-9a0a-a0acd003755a">
+			<text>El precio un tanto elevado pero razonable.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9750ac5b-e2c9-4311-bc58-c97f18ab12dd">
+			<text>-Bacalao al pil pil aireado: Ninguna objecion (es lo mejor que puedo decir).</text>
+			<Opinions>
+				<Opinion target="Bacalao al pil pil aireado" category="FOOD#QUALITY" polarity="neutral" from="1" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a828bc2c-9998-4e28-abdc-a353aabc257b">
+			<text>El 15/03/14 fui a cenar con la familia a lo que creia seguia siendo un buen restaurante.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="RESTAURANT#GENERAL" polarity="negative" from="76" to="87"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eeba8e5a-6860-4cbe-a609-0294cb09c150">
+			<text>Los precios son increíblemente razonables.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="baa771f7-08a3-45b8-be86-f0e9dbe50c6e">
+			<text>No le pongo un 10 por que es un poquito caro pero merece la pena ir.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="be181245-ebe0-45ea-bdce-d4a40ee256e2">
+			<text>Afirmar que en ese local se pueden degustar verdaderas delicias es una auténtica temeridad.</text>
+			<Opinions>
+				<Opinion target="delicias" category="FOOD#QUALITY" polarity="negative" from="55" to="63"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4a295ac0-8ffc-4be9-9620-e0d55e616412">
+			<text>se esmeran en hacerlo bien</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dd7b7483-f4c5-4b96-ab75-038a860034c0">
+			<text>Por esto mismo no doy un 10 en "calidad-precio", aunque la calidad sea excelente.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="04919f8d-4853-4e05-ba72-11f43d7edae5">
+			<text>Como ya he leído en algún comentario, de los pocos sitios donde se paga lo que se come, y se come bien, muy bien.</text>
+			<Opinions>
+				<Opinion target="lo que se come" category="FOOD#QUALITY" polarity="positive" from="72" to="86"/>
+			</Opinions>
+		</sentence>
+		<sentence id="93924692-6cbb-4382-87af-7931aaa17f43">
+			<text>Con lo cual en el comedor tienes que levantar mas la voz para oirte y se forma un ambiente que no lo que se espera de una estrella michelin. </text>
+			<Opinions>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="negative" from="82" to="90"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aee5a614-9df9-45cf-9cf3-b45db49f21f9">
+			<text>Comimos muy bien toda la familia, el entrecot espectacular.</text>
+			<Opinions>
+				<Opinion target="entrecot" category="FOOD#QUALITY" polarity="positive" from="37" to="45"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9a6c6f59-f7f9-4189-84e4-80abd8c0af05">
+			<text>Nunca me falla !!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="affd03af-0dad-4942-a9d7-c34b019310f1">
+			<text>&lt;-&gt;la cocina.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="7ca3ffdf-eb6e-4a0d-b5c6-c3bf6af3758f">
+			<text>Todo perfecto.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="366a1f03-d9eb-4aba-8410-37a7b352ecae">
+			<text>Hemos comido bastante bien.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b4e6a6d4-2eab-4a18-a3c3-85977f3aa6f9">
+			<text>(pense).El resultado no pudo ser mas decepcionante.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f68b4f8-7162-40e6-9d36-789e363a5739">
+			<text>El precio es bueno, nada exagerado.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="df62912a-e8ff-4df9-895d-30981586722c">
+			<text>Repetiremos seguro.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c51f4d28-250f-4a89-afe9-f0e79e0f6ff3">
+			<text>Realmente la comida exquisita y todo muy bien.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="13" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0ef0fef6-a016-462f-86db-bdb404093881">
+			<text>Realmente me sorprendio porque no habia ido nunca, eramos un grupo de 20 personas y fue genial, sitio muy acogedor, decoracion moderna, comida de calidad buena... Y un precio economico para ser Barcelona.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="sitio" category="AMBIENCE#GENERAL" polarity="positive" from="96" to="101"/>
+				<Opinion target="decoracion" category="AMBIENCE#GENERAL" polarity="positive" from="116" to="126"/>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="136" to="142"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f0d43857-d6ff-4b1c-9d02-0bb27d094aa6">
+			<text>La excusa del restaurante ha sido que el dia 1 de enero siempre hay mucho trabajo.</text>
+			<Opinions>
+				<Opinion target="restaurante" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="14" to="25"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0c2469a9-ad64-406d-a902-aaa37da64f86">
+			<text>Buena calidad y precio razonable.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="44cd7c2e-eb37-4437-b3e6-46c338b07d03">
+			<text>Fabuloso, muy atentos la comida excelente y un ambiente estupendo.</text>
+			<Opinions>
+				<Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="25" to="31"/>
+				<Opinion target="ambiente" category="AMBIENCE#GENERAL" polarity="positive" from="47" to="55"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b86ababc-82f4-48ed-8d26-4354954f3763">
+			<text>En general todo muy bien y recomendable.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c9c13148-44ef-43c4-bdaa-546aee7dae16">
+			<text>Sin dudarlo, volveremos!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+	</sentences>
+</Reviews>

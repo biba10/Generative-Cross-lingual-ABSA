@@ -1,0 +1,960 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence id="847dd813-2fe3-49da-9100-87a5b6f98800">
+			<text>Een kwestie van: Voutje, bedankt!!!!!</text>
+		</sentence>
+		<sentence id="fd821f8c-c2d4-412d-82d4-c19ebdc4fbb0">
+			<text>De kaart is zéér uitgebreid, wij komen zeker en vast terug!</text>
+			<Opinions>
+				<Opinion target="kaart" category="FOOD#STYLE_OPTIONS" polarity="positive" from="3" to="8"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="388beddb-5d67-49c6-a7a8-a040268b9dc6">
+			<text>Het hoofdgerecht komt met "grilled scottish beef served with soya sauce and chilli powder, seafood sauté with chilli and basilicum, sauthé of fish filet with coconut in banana leaves and fresh vegetables with sésame oil".</text>
+		</sentence>
+		<sentence id="9433b214-816e-4d2b-98e7-87d613b132ad">
+			<text>Dit is een vrij pittig soepje, aanvaardbaar gekruid en subtiel qua smaak.</text>
+			<Opinions>
+				<Opinion target="soepje" category="FOOD#QUALITY" polarity="positive" from="23" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ee423ffb-0fb7-4ecd-bc2b-0cfa2841fbf4">
+			<text>De ober Stijn spreekt ook Pools, wat soms goed van ps komt.</text>
+			<Opinions>
+				<Opinion target="ober stijn" category="SERVICE#GENERAL" polarity="neutral" from="3" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6961ef68-a1cb-4f4a-8b06-8545509e872b">
+			<text>Hij deed dit op een schitterende manier.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b83330de-d5c2-4dbc-b441-c6fb43d78032">
+			<text>Maar zelfs met deze beperkte kaart (4 hoofdgerechten, 4 voorgerechten en 2 desserts) waren er toch 2 gerechten niet beschikbaar!</text>
+			<Opinions>
+				<Opinion target="kaart" category="FOOD#STYLE_OPTIONS" polarity="negative" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1f462cc1-83f8-4978-ab3d-63d21153cfa4">
+			<text>Ik kom zeker graag terug!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="80583a87-2a4e-408d-a039-7fa287a88175">
+			<text>Via via hadden we gehoord dat we hier moesten zijn voor Wagye runder vlees.</text>
+		</sentence>
+		<sentence id="9bea1ee1-01e5-4fe1-b83a-297a6d6bc906">
+			<text>Hier is nog veel werk aan..</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="66d0e35f-4340-4438-909c-101d64e06c87">
+			<text>In dit restaurant lukt het wel.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="7" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9fb0e965-2d8b-45b5-abe5-922e17c17775">
+			<text>Een vers gekookt eitje, standaard perfect zacht gekookt, op verzoek iets harder.</text>
+			<Opinions>
+				<Opinion target="eitje" category="FOOD#QUALITY" polarity="neutral" from="17" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eefae59f-d2a1-4b66-a9c2-3beec395e3c8">
+			<text>Bij het betreden van dit restaurant, sprak men mij in het Frans aan.</text>
+		</sentence>
+		<sentence id="b2ea324d-3fb1-447e-94a1-0a7cc8967e3d">
+			<text>Als je jarig bent bent krijg je een gratis glas spumante, maar dit krijg je pas NA het eten ipv vooraf zoals het hoort met een aperitief.</text>
+		</sentence>
+		<sentence id="7368883c-abfa-46df-aed9-1b6f173ab93e">
+			<text>Een suggestie: serveer ook brood aub (dus niet enkel frites of patat, wat uiteraard ook lekker is)</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bce75429-347c-49fc-9a67-57c74b7e8b29">
+			<text>Na bij het hotel uitgecheckt te hebben zijn we naar het gezellige cafe getogen.</text>
+			<Opinions>
+				<Opinion target="cafe" category="AMBIENCE#GENERAL" polarity="positive" from="66" to="70"/>
+			</Opinions>
+		</sentence>
+		<sentence id="55e1d535-f8a5-4e16-ab99-b77f33f06a17">
+			<text>De irish coffee komt de baas inderdaad aan tafel maken, je betaalt er 10 euro voor en dit is ook gewoon té duur.</text>
+			<Opinions>
+				<Opinion target="irish coffee" category="DRINKS#PRICES" polarity="negative" from="3" to="15"/>
+				<Opinion target="baas" category="SERVICE#GENERAL" polarity="neutral" from="24" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="409ab4e9-fbc1-40ea-b991-33699e02b9c4">
+			<text>Kortom een prachtig kader voor de bende van San Miguel!</text>
+		</sentence>
+		<sentence id="fd077c7e-9bd0-4079-9205-b5b09f5cf159">
+			<text>Van het boottochtje, aangeboden aan het huwelijkskoppel, via de gezellige en uitermate spontane en vriendelijke bediening naar de superlekkere maaltijden en de blije gezichten van familie en vrienden tot de fantastische huwelijkstaart!</text>
+			<Opinions>
+				<Opinion target="maaltijden" category="FOOD#QUALITY" polarity="positive" from="143" to="153"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="112" to="121"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4dee2228-f3b0-4088-8bf0-d207adb5dd4e">
+			<text>Bij zo goed als elke Italiaan krijg je dit standaard op tafel!</text>
+		</sentence>
+		<sentence id="0395655a-a3f0-4a5d-a406-cc516204c649">
+			<text>Een aanrader voor een avond uit!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7374f0f2-b37e-490a-af86-a6c48e75004d">
+			<text>Ten eerste zijn we heel leuk ontvangen door het personeel.</text>
+			<Opinions>
+				<Opinion target="personeel" category="SERVICE#GENERAL" polarity="positive" from="48" to="57"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bbf454a3-9c12-400f-ae3c-87e1d84a18cd">
+			<text>We zijn hier al meerdere malen geweest en de kwaliteit is altijd dezelfde iets wat ergens anders wel eens durft tegenvallen.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="369cd564-3cce-4367-8fde-1956a3156de9">
+			<text>Dit restaurant staat bovenaan de lijst van restaurants in Ieper.</text>
+		</sentence>
+		<sentence id="16a0977f-697b-4209-b2d0-1a6a1acf835d">
+			<text>Maar het is ons gelukt!</text>
+		</sentence>
+		<sentence id="4e8737db-14a8-4d04-acd5-ab442e7a63cd">
+			<text>Ik heb dit restaurantje gevonden via tripadvisor.</text>
+		</sentence>
+		<sentence id="bea84b33-984a-4d46-a957-cf603c1490e6">
+			<text>Na afloop nog even naar het toilet, dat is geen aanrader.</text>
+			<Opinions>
+				<Opinion target="toilet" category="AMBIENCE#GENERAL" polarity="negative" from="28" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9ce6e3f7-e157-46b3-a706-ec13f69a626c">
+			<text>Als je om brood vraag krijg je een stapel boterhammen uit een plastic zak.</text>
+			<Opinions>
+				<Opinion target="brood" category="FOOD#QUALITY" polarity="negative" from="10" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e4f6fefd-66b5-412d-9a20-3ef7c1a70ad7">
+			<text>De frietjes... wel om in dezelfde sfeer te blijven als andere commentaren, zelfs deze in de MacDonalds zijn beter.</text>
+			<Opinions>
+				<Opinion target="frietjes" category="FOOD#QUALITY" polarity="negative" from="3" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="986dea7b-94b9-463e-9d13-c8e59438c872">
+			<text>Een fijne ontvangst, een mooie locatie, Het eten was zeer goed verzorgd en een fatsoenlijke portie!</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#STYLE_OPTIONS" polarity="positive" from="44" to="48"/>
+				<Opinion target="locatie" category="LOCATION#GENERAL" polarity="positive" from="31" to="38"/>
+				<Opinion target="ontvangst" category="SERVICE#GENERAL" polarity="positive" from="10" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4e848b8b-9719-4483-8859-c0bac09f2c74">
+			<text>Bon, benieuwd hoe lang deze omhooggevallen zaak stand houdt...</text>
+			<Opinions>
+				<Opinion target="zaak" category="RESTAURANT#GENERAL" polarity="negative" from="43" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b13e00ef-47c2-40b6-9385-6c12c1a6f09c">
+			<text>Vervolgens bij het afrekenen (Euro 100,--) werd niet gevraagd door de serveerster, of het ons had gesmaakt, dat was duidelijk want de borden waren niet leeg.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+				<Opinion target="serveerster" category="SERVICE#GENERAL" polarity="negative" from="70" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8d43fa2d-0e00-4dc2-9faa-330808be56ad">
+			<text>Ik vroeg de sommelier welke wijn hij voorstelde van rond de 50€.</text>
+		</sentence>
+		<sentence id="65434e7e-342b-4019-b26e-5a1715728c0b">
+			<text>Klasse maaltijden en positief qua prijs/kwaliteit.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="maaltijden" category="FOOD#QUALITY" polarity="positive" from="7" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b598822e-8396-4b37-bc56-7d0b45842b88">
+			<text>Reeds 5 keer geweest en steeds weer verrast Biryani met heerlijke gerechten: gevarieerd, kruidig en toch niet te pikant en alles tegen een eerlijke prijs.</text>
+			<Opinions>
+				<Opinion target="gerechten" category="FOOD#QUALITY" polarity="positive" from="66" to="75"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c3987ab-d92e-4e0e-8371-3b41a523b732">
+			<text>Het lijkt inderdaad bij binnenkomst eerder een café -en dat is het ook want je kan er gewoon iets drinken of eten.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a213bf1c-d4ba-4234-ac5f-99c2bcc59059">
+			<text>En enkele minuten later kwam de chef met 4 treffelijke stukjes vlees.</text>
+			<Opinions>
+				<Opinion target="vlees" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="63" to="68"/>
+				<Opinion target="chef" category="SERVICE#GENERAL" polarity="positive" from="32" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="57f71a70-5f81-4d8c-9701-de85a3876f19">
+			<text>De uitbaters leggen je er echt in de watten.</text>
+			<Opinions>
+				<Opinion target="uitbaters" category="SERVICE#GENERAL" polarity="positive" from="3" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="23c55e76-8f22-4e3a-971a-086066b7b121">
+			<text>Ik zou zeggen doe zo verder en ons zie zeker en vast nog terug.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="33f84cf3-5ce0-4387-9083-c04fd5ad80d0">
+			<text>Eerst voorgerecht besteld met drankje.</text>
+		</sentence>
+		<sentence id="5d34880d-e811-46f4-9661-634e0db3e85b">
+			<text>Wat geschrokken door het feit dat er maar 1 menu voorgesteld werd, maar o zo heerlijk gegeten en gedronken.</text>
+			<Opinions>
+				<Opinion target="NULL" category="DRINKS#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="negative" from="44" to="48"/>
+			</Opinions>
+		</sentence>
+		<sentence id="34ee0e03-899c-4483-8309-d191abc5c22e">
+			<text>Ik kreeg ik 2 mooi aangepaste gerechten.</text>
+		</sentence>
+		<sentence id="c52394ce-e86a-40d3-8124-6bf49464505c">
+			<text>Twee broodjes naar keuze.</text>
+		</sentence>
+		<sentence id="9ffc7834-cdf2-4bb8-b664-b3d2f534dd11">
+			<text>Kortom een absolute AANRADER!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3714f679-116e-4ce3-ad04-4a0baa034e9d">
+			<text>Waarom stond die dan niet op de kaart?</text>
+			<Opinions>
+				<Opinion target="NULL" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8b9685bc-3b3c-4947-b92d-dd1e76e7c84a">
+			<text>Vervolgen doen we met "chicken and vegetable wraped in rice paper, sweet and sour sauce".</text>
+		</sentence>
+		<sentence id="37206a18-87e1-4e38-bf28-2e106e62baa2">
+			<text>Geef hier jullie geld niet aan!!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="54c60a77-56c5-4262-9059-8ca24c725bec">
+			<text>Op zondagnamiddag is er "animatie" in de vorm van een "dinner show", een arrangementje dat €70,- kost, maar dan krijg je wel entertainment van schlagergoden à la Frank Galan, Danny Fabri, Paul Severs en tutti quanti.</text>
+		</sentence>
+		<sentence id="6a6fd727-4139-4161-90d4-3a1955c8cd5b">
+			<text>Toevallig terecht gekomen om te lunchen.</text>
+		</sentence>
+		<sentence id="10a6c2b4-7062-40ff-aa64-d8e3d9d5b977">
+			<text>Conclusie: ga hier als je veel tijd hebt, of als je gewoon een koffie/thee wil drinken terwijl je een boek leest.</text>
+		</sentence>
+		<sentence id="03dba9ed-a4a4-4014-97b6-87dc7a180765">
+			<text>Wij kwamen met 9 personen een hapje eten.</text>
+		</sentence>
+		<sentence id="1056ef4c-954c-4b51-b265-04035141fe50">
+			<text>Ik heb niets aan te merken op de kwaliteit van het eten maar het is gewoon te duur.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="neutral" from="51" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="36c27938-0895-4305-b98f-874d790e926a">
+			<text>Vrij nieuw restaurant, bestaat sinds 2013.</text>
+		</sentence>
+		<sentence id="65245227-19d1-41a3-aabb-cc1a4bf79a58">
+			<text>De pasta carbonara was niks meer dan een harde laag koude kaas, room en doorweekte spaghetti, en de pannenkoeken waren precies gemaakt in een pan dat ze al dagen niet hadden gewassen.</text>
+			<Opinions>
+				<Opinion target="pannenkoeken" category="FOOD#QUALITY" polarity="negative" from="100" to="112"/>
+				<Opinion target="pasta carbonara" category="FOOD#QUALITY" polarity="negative" from="3" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="445c70d7-bd54-441d-ac2c-8086bdd90634">
+			<text>Voor fijnproevers en mensen die eens iets anders willen dan mosselen friet.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f61e8bf6-bbce-4859-8aa6-6f36258c9fd2">
+			<text>Leuke muziek, kortom een hele goede keuze.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="muziek" category="AMBIENCE#GENERAL" polarity="positive" from="6" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3337fbef-9540-4c3b-9ac8-79cfd70fce18">
+			<text>Bart de eigenaar doet de zaal en 1 kok maakt de gerechten.</text>
+		</sentence>
+		<sentence id="1bf2be12-7a1e-4524-8395-7095369df8c7">
+			<text>Bij het binnenkomen reeds verbaasd dat er vast tapijt ligt in heel het restaurant.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="AMBIENCE#GENERAL" polarity="negative" from="71" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cf7b4501-a672-4c7d-a6cd-07fac5c83b51">
+			<text>Maar het brood vind ik veeel te duur!</text>
+			<Opinions>
+				<Opinion target="brood" category="FOOD#PRICES" polarity="negative" from="9" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="13eb1182-969e-4d64-8269-6f2bebe6ea2c">
+			<text>We konden proeven van lam, kip en scampi's op verschillende manieren bereid.</text>
+			<Opinions>
+				<Opinion target="lam, kip en scampi's" category="FOOD#STYLE_OPTIONS" polarity="positive" from="22" to="42"/>
+			</Opinions>
+		</sentence>
+		<sentence id="31822653-0781-4fce-b719-4f6cc979b155">
+			<text>De vetnaad vlakbij het staartstuk van de zalm die hard wordt bij het roken was niet weggesneden door de keuken.</text>
+			<Opinions>
+				<Opinion target="zalm" category="FOOD#QUALITY" polarity="negative" from="41" to="45"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fc51cf8c-60f4-42b3-a46b-1452e8feeda5">
+			<text>Een echte verrijking voor de streek met een top keuken en een fantastische bediening!</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="75" to="84"/>
+				<Opinion target="keuken" category="FOOD#QUALITY" polarity="positive" from="48" to="54"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c7d0b1d3-410b-4eec-9091-b6898943ea98">
+			<text>De bediening was zeer vlot.</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="3" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6e04a546-4ffd-4379-9d72-07e43013e8a0">
+			<text>Wij vertelden bij het begin te houden van de combinatie tapa en vis en hier werd helemaal niet op ingegaan: iberico, chorizo, manchego, Russiisch ei, champignons, tomaatjes...., gehaktballetjes in tomatensaus, allemaal lekker, echter niet authentiek...</text>
+			<Opinions>
+				<Opinion target="russiisch ei" category="FOOD#QUALITY" polarity="neutral" from="136" to="148"/>
+				<Opinion target="champignons" category="FOOD#QUALITY" polarity="neutral" from="150" to="161"/>
+				<Opinion target="chorizo" category="FOOD#QUALITY" polarity="neutral" from="117" to="124"/>
+				<Opinion target="manchego" category="FOOD#QUALITY" polarity="neutral" from="126" to="134"/>
+				<Opinion target="iberico" category="FOOD#QUALITY" polarity="neutral" from="108" to="115"/>
+				<Opinion target="tomaatjes" category="FOOD#QUALITY" polarity="neutral" from="163" to="172"/>
+				<Opinion target="gehaktballetjes in tomatensaus" category="FOOD#QUALITY" polarity="neutral" from="178" to="208"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a1868931-8a7a-4f20-9e07-87ec098908c8">
+			<text>Gelukkig was er nog een tafeltje voor 2 peronen vrij in de veranda dus dit was ok.</text>
+		</sentence>
+		<sentence id="8d1bc3a5-549b-4700-90ae-2a1f9a80d74f">
+			<text>hier eten is een belevenis.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5e3de5ca-8f86-471e-bdcd-e5f4bd53ef0b">
+			<text>-Verzorgde en toch familiale bediening, oogstrelende variaties in bordjes en steeds die kleine smaakbommetjes die zorgen voor culinair genot</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="29" to="38"/>
+				<Opinion target="variaties" category="FOOD#STYLE_OPTIONS" polarity="positive" from="53" to="62"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4d8e601f-3464-4f6a-ba52-d97f12573470">
+			<text>Enig adresje waar je lekkere pastrami kan eten, wordt geserveerd met een speciaal sausje en op dikke sneden brood.</text>
+			<Opinions>
+				<Opinion target="sausje" category="FOOD#QUALITY" polarity="neutral" from="82" to="88"/>
+				<Opinion target="pastrami" category="FOOD#QUALITY" polarity="positive" from="29" to="37"/>
+				<Opinion target="brood" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="108" to="113"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eac6b746-5617-4e4b-83ec-95706625f8a8">
+			<text>We hebben iets te vieren en besluiten dit te gaan doen bij Sombat.</text>
+		</sentence>
+		<sentence id="4ff12b93-51a0-4428-a429-6b07dcf6e5b2">
+			<text>Maar van het personeel kon er ook geen glimlachje af.</text>
+			<Opinions>
+				<Opinion target="personeel" category="SERVICE#GENERAL" polarity="negative" from="13" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d5891783-e3fb-4703-a716-0ecdf30c2db8">
+			<text>Er kon blijkbaar nog zelfs geen simpele "allo allo" van af.</text>
+		</sentence>
+		<sentence id="b8218ea7-be07-4aad-a943-832edb51fd9f">
+			<text>Ook dit jaar ter gelegenheid van het vuurwerkfestival naar jarenlange traditie weer bij Wim's gaan dineren.</text>
+		</sentence>
+		<sentence id="7906b9e4-027c-4d08-a825-4e1eab9828ed">
+			<text>Vuile dieven!!</text>
+		</sentence>
+		<sentence id="64c13f47-c31d-4d55-a78d-f629ca336cf8">
+			<text>Een aanrader!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2f0e5c2a-0469-43ff-8bd2-700707263fbb">
+			<text>In de kamers is er visgeur en keukenlawaai.</text>
+		</sentence>
+		<sentence id="fd284bed-56e0-4178-b230-d69783f920e1">
+			<text>waar te beginnen??</text>
+		</sentence>
+		<sentence id="646d90c3-a38c-402c-a91e-64c21fd48601">
+			<text>Onze ontdekking van het jaar.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6d3bb0aa-b31a-403d-aa09-62b6d9b322bd">
+			<text>Zeer lekker gegeten.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e282ffd4-4a9d-4df3-ba14-6ef66524bc84">
+			<text>De kwaliteit van het eten was heerlijk en net als de sfeer alsof je bij vrienden thuis o bezoek was.</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="positive" from="21" to="25"/>
+				<Opinion target="sfeer" category="AMBIENCE#GENERAL" polarity="positive" from="53" to="58"/>
+			</Opinions>
+		</sentence>
+		<sentence id="637e2fd4-d8ad-4f33-9d10-e8db2521adbb">
+			<text>Met andere woorden een echte aanrader!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d8e8039e-dcc3-4e7a-9a2f-207cf196cb24">
+			<text>Je krijgt meer dan waard voor je geld!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="63eacf1a-21bb-4e55-9775-b1ea6428051c">
+			<text>Ons uur middagpauze was al bijna om dus vroegen we om de rekening.</text>
+		</sentence>
+		<sentence id="e86530c6-99f2-44b9-8bdd-927df46f4a44">
+			<text>Een schitterend kader met uitzicht op de graslei (inderdaad, Coeur d'Artichaut is niet langer in Onderbergen gevestigd, maar op de Korenlei!).</text>
+			<Opinions>
+				<Opinion target="kader" category="AMBIENCE#GENERAL" polarity="positive" from="16" to="21"/>
+				<Opinion target="kader" category="AMBIENCE#GENERAL" polarity="positive" from="16" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="39be6e73-6cf6-4da6-8207-0d431d82e1dd">
+			<text>Jammer volgende keer maar eens een kijkje nemen op de grote markt in Herentals daar is ook een gezellige tapas bar.</text>
+		</sentence>
+		<sentence id="09c8c0d2-2d93-45e8-935e-df2e63b12df5">
+			<text>Mateo is niet voor niets verkozen tot beste pizza-bakker van Oost-Vlaanderen.</text>
+			<Opinions>
+				<Opinion target="mateo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="89a1a4c7-501e-4713-9490-2e2305c6fb4e">
+			<text>Wij komen zeker terug!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="61e955f3-155b-4026-b651-f6a18312f859">
+			<text>Prijs/kwaliteit best prima.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cc098e7f-6c03-43e3-83b5-732415d45d09">
+			<text>Eerst maanden getracht om met de voucher van social deal te reserveren, via website social deal niet mogelijk, daarna telefonisch geprobeerd, werd zeer onbeleefd afgeblaft dat ik maar met computer moest reserveren, weer geprobeerd, geen mogelijkheid, na schriftelijk beklag bij social deal dan toch eindelijk aan een reservering geraakt.... wat zagen we daar... zeer vuil, slechte smaken, verschrikkelijke bediening, gerechten die op kaart stonden werden plots met andere groenten geserveerd, en toch... personeel "zit of staat" er genoeg, maar ze komen niet van hun plaats....</text>
+			<Opinions>
+				<Opinion target="gerechten" category="FOOD#STYLE_OPTIONS" polarity="negative" from="417" to="426"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="negative" from="406" to="415"/>
+				<Opinion target="smaken" category="FOOD#QUALITY" polarity="negative" from="381" to="387"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="personeel" category="SERVICE#GENERAL" polarity="negative" from="504" to="513"/>
+			</Opinions>
+		</sentence>
+		<sentence id="477a8d6c-946f-46d3-bf3f-9318e0583036">
+			<text>Geen top-restaurant maar toch een aanrader, zeker voor de oervlaamse bon-vivant met grotere honger.</text>
+			<Opinions>
+				<Opinion target="top-restaurant" category="RESTAURANT#GENERAL" polarity="neutral" from="5" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ab3907ec-3154-489f-bb00-5384e6533c27">
+			<text>Aperitief OK -ongeveer 7' nadien komen de aperitiefhapjes...OK kan gebeuren.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="neutral" from="0" to="0"/>
+				<Opinion target="aperitief" category="DRINKS#QUALITY" polarity="neutral" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e8839b3-b00c-4435-b769-68e5ace550f7">
+			<text>Vanaf dit punt wist ik dat de avond niet zou worden wat we ons ervan hadden voorgesteld.</text>
+		</sentence>
+		<sentence id="5588694f-305a-4588-93a8-9a138bf958d3">
+			<text>Het concept is zeer origineel.</text>
+			<Opinions>
+				<Opinion target="concept" category="RESTAURANT#GENERAL" polarity="positive" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6b15b906-af67-4b34-afbc-82155b37d920">
+			<text>Jammergenoeg kan je 's middags enkel de lunch krijgen, maar wouden dit restaurant per sé proberen en zijn dus voor de daglunch gegaan.</text>
+		</sentence>
+		<sentence id="51203f42-e7ac-43dd-b958-bd85fa900bbc">
+			<text>Het eten is er puur Grieks, de bediening ontzettend vriendelijk en attent.</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="neutral" from="4" to="8"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="31" to="40"/>
+			</Opinions>
+		</sentence>
+		<sentence id="09dcf917-2637-43c8-b806-21f3070865ee">
+			<text>Als je leest dat sommigen "niet durven bestellen omdat ze misschien 1 euro moeten opleggen als ze het niet op krijgen", of "enkel water" hebben gedronken, dan mogen die "enkel-met-korting"-mensen van mij voor een groot stuk wegblijven, zodat de rest vlugger bediend wordt.</text>
+		</sentence>
+		<sentence id="54431ad2-d6d2-4f03-85a4-f9af334afb2a">
+			<text>Het concept op zich lijkt misschien eerst een beetje vreemd, en velen denken dat ze niet genoeg zullen hebben.</text>
+			<Opinions>
+				<Opinion target="concept" category="RESTAURANT#GENERAL" polarity="negative" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a4092b5f-6054-42c5-a7f7-621384357b94">
+			<text>Wij eten regelmatig in de Parma, één van de klassieke Leuvense restaurants.</text>
+		</sentence>
+		<sentence id="cd89726e-61e3-4df3-b87c-a11626f49966">
+			<text>Mijn echtgenote was er heel de namiddag slecht van en zelf ook wee gevoel in de maag</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b18b9771-a72a-439e-b3e5-212ea769ce53">
+			<text>Voor de rest weinig creatieve keuken.</text>
+			<Opinions>
+				<Opinion target="keuken" category="FOOD#STYLE_OPTIONS" polarity="negative" from="30" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d238e645-4708-47b6-93b7-5062387e5fe3">
+			<text>Hij kende de muziek van Servais maar wist niet dat het van Servais hier nog stonk.</text>
+		</sentence>
+		<sentence id="f9995cd1-28b1-4c60-bbce-776f27fd60f5">
+			<text>Het maandmenu was heel fijn.</text>
+			<Opinions>
+				<Opinion target="maandmenu" category="FOOD#QUALITY" polarity="positive" from="4" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="553518f5-f64d-47a9-b96c-b06651c1296d">
+			<text>Na enige tijd wandelen door de straten rondom het plein zagen we een gezellig tentje en besloten naar binnen te gaan, het bleek de achteringang te zijn.</text>
+			<Opinions>
+				<Opinion target="tentje" category="AMBIENCE#GENERAL" polarity="positive" from="78" to="84"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f4c1b691-075a-4704-b442-477de3e55ea3">
+			<text>Een van de weinige zaken waar de klant nog echt koning is.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0a145a50-d2c0-4a3f-aa21-2ce3d5c4c0f1">
+			<text>Super lekker gegeten, goede bediening, sublieme wijn.</text>
+			<Opinions>
+				<Opinion target="wijn" category="DRINKS#QUALITY" polarity="positive" from="48" to="52"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="28" to="37"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b15340c8-7193-4b73-907a-f930529e9ef3">
+			<text>Toen ik vroeg of men Nederlands sprak, was het antwoord 'non'.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0c2cab2e-9562-4bdc-a459-f16760b7f0ca">
+			<text>Het eten is fantastisch, zeer creatief, lekker, ik heb er geen woorden voor.</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aaaec79a-6854-4bc4-844c-c896b5865288">
+			<text>En aan het restaurant is een groot terras.</text>
+		</sentence>
+		<sentence id="4625b7f2-8a9a-470b-b13a-40a579c1e912">
+			<text>De dienstverlening is voorkomend en beleefd, zij het aan de timide kant.</text>
+			<Opinions>
+				<Opinion target="dienstverlening" category="SERVICE#GENERAL" polarity="neutral" from="3" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="81af0007-2078-4f23-92e1-7c1d3eaf8cb0">
+			<text>Ze probeerde nog van alles aan te smeren tijdens de maaltijd.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5e0849bf-467c-44af-baf5-d35534b37dc2">
+			<text>Waarna een via iemand anders van de bediening de communicatie een tweede maal naar de keuken gaat.</text>
+		</sentence>
+		<sentence id="a7306276-aedb-4505-b837-2a36ae5c41b5">
+			<text>hele lekkere patisserie!</text>
+			<Opinions>
+				<Opinion target="patisserie" category="FOOD#QUALITY" polarity="positive" from="13" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5150f0bd-dbab-4fab-ac97-66db66511ccf">
+			<text>slechte en onvriendelijke bediening, eten was ronduit slecht.</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="negative" from="37" to="41"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="negative" from="26" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="685ab15b-9acf-4b65-bdd4-1a5543defda7">
+			<text>Gelegen in Schoot vlak bij de toegangspoort natuurpark de Merode en Gerhagen, op 6 km wandelafstand van de abdij van Averbode.</text>
+		</sentence>
+		<sentence id="08ddda01-4c8f-4a3c-810f-bdf0d56cef3c">
+			<text>Leuk ingericht, genoeg keuze, goed prijs/kwaliteitverhouding.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="keuze" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="23" to="28"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9105d4a7-bef3-4d2f-9191-5035c4b6d1e9">
+			<text>Wij komen hier in elk geval NOOIT nog terug.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="28df83b0-9dd7-4651-a919-b722862729b2">
+			<text>We bestelden ook een flesje witte huiswijn en een fles water.</text>
+		</sentence>
+		<sentence id="25119350-4ea7-4a95-be89-315281357727">
+			<text>Op dat moment werd hij bijgetrede dr alle personeels leden en de patron, die laatste had zelfs de baseball knuppel mee uitgebracht.</text>
+			<Opinions>
+				<Opinion target="patron" category="SERVICE#GENERAL" polarity="negative" from="65" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6e2442f2-7fcd-4128-8515-c7a30cd0052d">
+			<text>Toen ik de opmerking maakte werd mij geantwoord dat de andere kant minder droog was.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fd119114-91f3-4026-842b-931036944153">
+			<text>Je merkt hier duidelijk dat hier superhoog opgeleide maar toch eenvoudige sympatieke mensen aan het werk zijn.</text>
+			<Opinions>
+				<Opinion target="mensen" category="SERVICE#GENERAL" polarity="positive" from="85" to="91"/>
+			</Opinions>
+		</sentence>
+		<sentence id="68a49c42-9415-4d4b-a2ee-59588b193d0f">
+			<text>Heel veel groenten.</text>
+			<Opinions>
+				<Opinion target="groenten" category="FOOD#STYLE_OPTIONS" polarity="positive" from="10" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8e39e0e6-a098-4e3a-a0b6-dabc2109680c">
+			<text>Vriendelijke gastvrouw en no nonsense bediening.</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="neutral" from="38" to="47"/>
+				<Opinion target="gastvrouw" category="SERVICE#GENERAL" polarity="positive" from="13" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b36d958c-88da-44ac-a587-f5842b427d5c">
+			<text>Jammer genoeg hebben we dit de laatste jaren steeds meer zien wegdeemsteren tot een niveau vér beneden alle peil: klant-onvriendelijke patron, slecht eten en geen service...</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="163" to="170"/>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="negative" from="150" to="154"/>
+				<Opinion target="patron" category="SERVICE#GENERAL" polarity="negative" from="135" to="141"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fad5d890-44c6-4038-9a65-2a364b5ac611">
+			<text>Neem daar een afsluiter bij met vanilleijs en bosbessen en de avond kan niet meer stuk.</text>
+		</sentence>
+		<sentence id="a0d134dc-bcd3-42a1-bbce-ff0068a44e0d">
+			<text>Nergens in Hasselt zijn de pannekoeken zo lekker als hier!!!!</text>
+			<Opinions>
+				<Opinion target="pannekoeken" category="FOOD#QUALITY" polarity="positive" from="27" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c6d32c2d-8802-4e4f-82e2-20d9743e2b8f">
+			<text>Eten is perfect, we zijn er dol op en hebben ervan genoten en we komen ooit nog terug zonder twijfel!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c68e7d68-a19c-43ca-9233-16561c6eaf12">
+			<text>Dienster deed haar best, maar de bazin (?) mag best een cursus onthaal volgen, bah bah.</text>
+			<Opinions>
+				<Opinion target="bazin" category="SERVICE#GENERAL" polarity="negative" from="33" to="38"/>
+				<Opinion target="dienster" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dbc2116a-0224-4e71-a8a1-0c4a278aee4a">
+			<text>Als we in de buurt zijn komen we zeker terug.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d287e530-3038-405d-99d3-bf39ddce5e12">
+			<text>Echt geen restaurant waardig!!!!</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="10" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fba22124-2177-4b8b-a1e6-60c27ee34d63">
+			<text>Als het goed is is het goed.</text>
+		</sentence>
+		<sentence id="a76f088f-749d-4aeb-8ff0-5aaa15eb389d">
+			<text>Alles was fijn en verzorgd.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="37c67f67-9bdd-4ac9-87c2-aa78cad44b50">
+			<text>Dus, waarschijnlijk een OK restaurant als je er niet met kinderen heengaat, en je het niet erg vindt dat de bediening zich nogal verwaand gedraagt.</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="negative" from="108" to="117"/>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="neutral" from="27" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="30457809-1698-449f-8910-6a4f2150695d">
+			<text>Een amuse was mss niet slecht geweest (als toevoeging aan de 5 flinters rauwe ham), maar soit.</text>
+			<Opinions>
+				<Opinion target="ham" category="FOOD#STYLE_OPTIONS" polarity="negative" from="78" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="823d1583-c138-4b9c-a6c1-ec812d5d00c0">
+			<text>Het eten was lekker.</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9a0edae6-c5e9-4afa-bc52-a4e4e4d6ca85">
+			<text>Nooit meer.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8377b911-680d-45c8-aef6-286a0a01ba37">
+			<text>Voor een schappelijke prijs serveert de chef ons zijn culinaire creaties waar zijn persoonlijke stijl tot zijn recht komt.</text>
+			<Opinions>
+				<Opinion target="culinaire creaties" category="FOOD#PRICES" polarity="positive" from="54" to="72"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f938591e-ccc1-439c-9495-36a19dbb1c41">
+			<text>Wij hebben meer dan een uur moeten wachten op ons eten.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="28c94a49-c89e-474e-bb55-5ba95efc1ab7">
+			<text>Wij komen hier nooit meer terug en raden het aan iedereen af.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e0d85d59-dcef-42bb-bfee-d1535e5c2a3e">
+			<text>Zonder van je geld.</text>
+		</sentence>
+		<sentence id="9f4b7540-374d-4b94-b9a9-66605615bc16">
+			<text>Ribbetjes excellent gekruid, hartige sausjes.</text>
+			<Opinions>
+				<Opinion target="ribbetjes" category="FOOD#QUALITY" polarity="positive" from="0" to="9"/>
+				<Opinion target="sausjes" category="FOOD#QUALITY" polarity="positive" from="37" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c99a40fe-5872-44f0-b844-485dbd442a1e">
+			<text>Maar wat we kregen was dus lekker.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="21adc327-d518-4f36-a86c-adf0c140da2d">
+			<text>Ook na het eten duurde het minstens nog 10 min (en een wenkgebaar van ons) voor de man onze borden kwam afruimen en ons vroeg of we nog iets wensten.</text>
+			<Opinions>
+				<Opinion target="man" category="SERVICE#GENERAL" polarity="negative" from="83" to="86"/>
+			</Opinions>
+		</sentence>
+		<sentence id="11a9c12d-b758-4a58-a11f-4845d206d702">
+			<text>'Wij wachten nog op vlees 'antwoordden wij.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a0232342-cc9a-4e15-9bae-e3810aa52fea">
+			<text>Bediening was keurig, ambiance sfeervol en gezellig.</text>
+			<Opinions>
+				<Opinion target="ambiance" category="AMBIENCE#GENERAL" polarity="positive" from="22" to="30"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="neutral" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="284c6e0a-37fa-4a60-a555-9fdb6696763a">
+			<text>Toen we uiteindelijk om 21u45 (na 2u15 wachten) onze steak kregen was de steak (die bleu gebakken moest zijn) eigenlijk koud.</text>
+			<Opinions>
+				<Opinion target="steak" category="FOOD#QUALITY" polarity="negative" from="73" to="78"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d66ba7b4-0218-4e39-88a0-414a05738ef4">
+			<text>De onvriendelijkheid van de dienster zowel bij het binnenkomen als gedurende onze hele maaltijd was ronduit ergerlijk en ook het klikklakken van haar schoenen trok enorm de aandacht van de aanwezige klanten zodat er niet meer ontspannen kon worden genoten van het eten.</text>
+			<Opinions>
+				<Opinion target="dienster" category="SERVICE#GENERAL" polarity="negative" from="28" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="104db829-f403-4181-8e2f-1989cb1375d2">
+			<text>Deze kwam even traag als de rest van de bediening, dus zijn we gaan betalen aan de bar.</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="negative" from="40" to="49"/>
+			</Opinions>
+		</sentence>
+		<sentence id="833bfed6-a329-4746-972b-911cd0f3b261">
+			<text>Een simpele sla als bijgerecht is niet meteen mijn motivatie om op restaurant te gaan.</text>
+			<Opinions>
+				<Opinion target="sla" category="FOOD#STYLE_OPTIONS" polarity="negative" from="12" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e518503-b35a-4e78-beac-c1f0fbd16854">
+			<text>Zeer vriendelijke en vlotte bediening.</text>
+			<Opinions>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="28" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f39613cf-6827-4531-b86e-300dc0295fca">
+			<text>Deskundige weetjes over de wijnen werden ons heel vriendelijk meegegeven en de gastvrijheid van mevrouw is hartverwarmend!</text>
+			<Opinions>
+				<Opinion target="mevrouw" category="SERVICE#GENERAL" polarity="positive" from="96" to="103"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2ff835e3-4edc-4f6d-ab2e-1f473752b33c">
+			<text>Heerlijk gegeten bij caffe internazionale.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f198639-66f1-4f43-a964-5175bd0e59e1">
+			<text>We kregen matig voer tegen Knokke- prijzen, die omdat het casino ernaast ligt nog eens extra over de kop waren gegaan.</text>
+			<Opinions>
+				<Opinion target="voer" category="FOOD#PRICES" polarity="negative" from="16" to="20"/>
+				<Opinion target="voer" category="FOOD#QUALITY" polarity="neutral" from="16" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="58616684-197a-49ce-ab53-8df9d4f5a78e">
+			<text>Bedienend personeel met vieze kleren, binnen zag het niet echt "proper" uit.</text>
+			<Opinions>
+				<Opinion target="bedienend personeel" category="SERVICE#GENERAL" polarity="negative" from="0" to="19"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f158c786-76ad-487b-bd6a-62b6d85e4cca">
+			<text>Niet veel later werd ook ons voorgerechtje geserveerd.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="235e99eb-04bb-426f-9be5-5089e2bf134f">
+			<text>We wisten dat we moesten reserveren tijdens het weekend, en ons tafeltje met zicht op zee (' t is te zeggen op de 3 rijen strandcabines) stond gedekt op ons te wachten.</text>
+		</sentence>
+		<sentence id="8b52cf18-c309-40c6-a4fd-cee51e0805ed">
+			<text>Dus nog over en weer naar een bankautomaat om deze minder gezellige avond af te sluiten.</text>
+		</sentence>
+		<sentence id="0d1cd8b0-b7c2-4023-aa58-50039c8903cd">
+			<text>De tomatensoep was lekker.</text>
+			<Opinions>
+				<Opinion target="tomatensoep" category="FOOD#QUALITY" polarity="positive" from="3" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a389ff56-ce28-4316-8480-54d75720bf68">
+			<text>Zelfingenomen eikels!</text>
+			<Opinions>
+				<Opinion target="eikels" category="SERVICE#GENERAL" polarity="negative" from="14" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4d1cce5d-3433-4de4-b006-12c2b073bd70">
+			<text>De bediening was goed en het interieur is in orde.</text>
+			<Opinions>
+				<Opinion target="interieur" category="AMBIENCE#GENERAL" polarity="neutral" from="29" to="38"/>
+				<Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="3" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c5af9640-ee8f-4251-a19d-c3119d1f85f5">
+			<text>Een absolute aanrader!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d283d86d-ed8e-4e1c-a183-42f2ca8cd0a6">
+			<text>3 haren (van de kok) tegen gekomen.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="430dda2f-9262-4d49-a107-dc846cdf6c38">
+			<text>De kok, Mateo is een Italiaan.</text>
+		</sentence>
+		<sentence id="42bb712b-0972-48f3-8f97-ff2ee9e1e0b6">
+			<text>Dit restaurant heeft een leuk concept, een warme inrichting en is niet toeristisch gelegen.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="LOCATION#GENERAL" polarity="positive" from="4" to="14"/>
+				<Opinion target="inrichting" category="AMBIENCE#GENERAL" polarity="positive" from="49" to="59"/>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="4" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7e208cee-d9b9-4ac2-8016-dce1798fde76">
+			<text>Zo hebben ze majalica (krulhaar) varkens en wagyu runderen.</text>
+		</sentence>
+		<sentence id="8cdc2e21-edcf-4983-b140-a899a5c5b1ab">
+			<text>Fijn en gezellig familiaal restaurant.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="AMBIENCE#GENERAL" polarity="positive" from="27" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aeefdf74-b3ab-48bd-bb14-193210b28925">
+			<text>Alles wordt op nog artisanale wijze bereid!</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4b23222b-9779-4994-9126-5255bbec0c28">
+			<text>Bij de derde gang was er geen crème brullée in het aanbod terwijl dit wel in de bon opgegeven was.</text>
+			<Opinions>
+				<Opinion target="derde gang" category="FOOD#STYLE_OPTIONS" polarity="negative" from="7" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2550e241-e726-4ce5-b224-1c07725f524c">
+			<text>Mij zien ze hier niet meer.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2d34ae41-126d-453b-ae5e-919d11e2973f">
+			<text>Op mijn vraag of ik een lijst kon zien, kreeg ik nogal nors de twee alternatieven herhaald.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b67c3b60-bd9c-458c-ad0a-546dc77b56f8">
+			<text>Jammer want het eten was goed te doen!</text>
+			<Opinions>
+				<Opinion target="eten" category="FOOD#QUALITY" polarity="neutral" from="16" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="43e83e4d-c4a2-4a47-9ad4-b11c92206724">
+			<text>zij beslissen hoeveel je eet, als je geluk hebt krijg je 4x3 porties, als ze er geen zin in hebben, zul je het met minder moeten doen!</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bd5ec073-374a-4cc9-a775-071827ba4757">
+			<text>Hun brood is heerlijk en geserveerd als bij gerecht met boter.</text>
+			<Opinions>
+				<Opinion target="brood" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="ff288df7-7ee8-4057-9654-6b6eeecd85ef">
+			<text>Veel gezelliger en betere service/prijs.</text>
+		</sentence>
+		<sentence id="f29d78e7-c401-420a-883e-198d03a1a329">
+			<text>Gamba's op Indische wijze is super lekker..</text>
+			<Opinions>
+				<Opinion target="gamba's op indische wijze" category="FOOD#QUALITY" polarity="positive" from="0" to="25"/>
+			</Opinions>
+		</sentence>
+	</sentences>
+</Reviews>

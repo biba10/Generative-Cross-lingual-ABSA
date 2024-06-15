@@ -1,0 +1,1670 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence id="b727dab4-436d-4037-8c22-56914a7c8491" OutOfScope="TRUE">
+			<text>U Štěpána jsem byl 4x</text>
+		</sentence>
+		<sentence id="05cd727a-0053-4405-a568-98504cd36cf6">
+			<text>Proberte se Štepáne!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7acebc67-33c1-43b4-95bb-213248b3bfa9">
+			<text>Vse bylo super</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="77ed7f91-f9c7-44e7-a830-4ecb37361090">
+			<text>Současně mne také velmi překvapila usměvavá obsluha a velmi zajímavé ceny piva v akci</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="44" to="51"/>
+				<Opinion target="piva" category="DRINKS#PRICES" polarity="neutral" from="74" to="78"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6d9adea1-a54e-4511-b1e3-a3994299f6ce">
+			<text>Mohu Vám říct,že lepší svíčkovou jsem ještě nejedla.</text>
+			<Opinions>
+				<Opinion target="svíčkovou" category="FOOD#QUALITY" polarity="positive" from="23" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b29474f5-61e3-465d-9ad2-1faf191b474a">
+			<text>Tak to jsme jeste nejak spolkli, treba ma jen zvlastni smysl pro humor? Ale kdyz 3 znas si objednalo jidlo a piti a ja "jenom" piti tak cisnik rekl "pan by mel jit nekam jinam kdyz si nic neda, nebude tady sedet zadarmo".... A to uz bylo opravdu moc.</text>
+			<Opinions>
+				<Opinion target="cisnik" category="SERVICE#GENERAL" polarity="negative" from="136" to="142"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c19f7874-205c-4206-87a3-af6b6c3cf1f6">
+			<text>Chutné polední menu, příjemný personál, hezká restaurace.</text>
+			<Opinions>
+				<Opinion target="menu" category="FOOD#QUALITY" polarity="positive" from="15" to="19"/>
+				<Opinion target="personál" category="SERVICE#GENERAL" polarity="positive" from="30" to="38"/>
+				<Opinion target="restaurace" category="AMBIENCE#GENERAL" polarity="positive" from="46" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aa48672a-b17f-43bf-833a-83998c6068e2">
+			<text>Rozdoně stojí za návštěvu!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="25176c90-d698-4ba2-8480-fa05ec031f1f">
+			<text>Malé místo, kde si můžete dát oběd! Jejich jídlo je fantastické a cenově dostupné a navíc bonusem je prezentace lepší než většina českých míst.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#PRICES" polarity="positive" from="43" to="48"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="43" to="48"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9666e78c-c72c-4417-b04b-379fb97d5ea0">
+			<text>Úžasný roastbeef, dobré pití, útulná restaurace, pěkná zahrádka a příjemná obsluha. Co víc si přát 👍🏻 SUPER</text>
+			<Opinions>
+				<Opinion target="roastbeef" category="FOOD#QUALITY" polarity="positive" from="7" to="16"/>
+				<Opinion target="pití" category="DRINKS#QUALITY" polarity="positive" from="24" to="28"/>
+				<Opinion target="restaurace" category="AMBIENCE#GENERAL" polarity="positive" from="37" to="47"/>
+				<Opinion target="zahrádka" category="AMBIENCE#GENERAL" polarity="positive" from="55" to="63"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="75" to="82"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bf9a949b-f2a9-45a4-be1d-28fb7e12d39a">
+			<text>Hodně prostorný</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eafb5892-1be7-4f59-b347-1f040d303c25">
+			<text>Velmi dobrá hodnota za peníze Typická kuchyně</text>
+			<Opinions>
+				<Opinion target="kuchyně" category="FOOD#PRICES" polarity="positive" from="38" to="45"/>
+				<Opinion target="kuchyně" category="FOOD#QUALITY" polarity="positive" from="38" to="45"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5a0cd673-fb54-44c5-8250-2a910689d609">
+			<text>Nice a cosy.Have dělat pořádek u baru.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="942e84e6-2e6e-4572-b1dc-f0a56fe16cc3">
+			<text>Lituji, že jsem si tyto recenze nepřečetl před rezervací místa</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0017723d-b1b5-4c35-b05b-fbf387683474" OutOfScope="TRUE">
+			<text>Taky nám volal známý, že se do restaurace nemůže dovolat, tak jsem z toho taky rozpačitá, protože mám taky voucher</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="31" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7fb3ffaa-9457-44e8-9430-2c7a28588bee">
+			<text>Letos KATASTROFA!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="139b8070-6fc2-40c3-9871-b0b4b6dae634">
+			<text>Hospodský je svérázný, ale rozhodně ne nepříjemný.</text>
+			<Opinions>
+				<Opinion target="Hospodský" category="SERVICE#GENERAL" polarity="neutral" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fe88fe34-5eb0-43cb-a4d4-d044d09ad64c">
+			<text>Příjemné prostředí</text>
+			<Opinions>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="9" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="852e016e-16c7-4152-a816-c9e2038efe55">
+			<text>Takze uz nikdy vice! A nikomu nedoporucuji!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="223b7d94-2ad7-477a-b114-214961ead950">
+			<text>Pak kdyz jsme potreti rekli at nam prinese napojovy listek odpovedel "nevite co chcete nebo co?".</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="462220b7-2d04-409c-987d-2f0a3ad21085">
+			<text>Hovězí vývar s knedlicky se k hovezimu masu ani nepřiblížil, knedlicky nedochucene, místo nudli nalamane spaghetti. Veprovy vrabec s houskovym knedlíkem a zelím....jedine maso bylo ucházející, jinak knedlík bez housky-rozpadající se a zelí naprosto odporna kejda rozlita po celém talíři. Opravdu nedoporucuji!</text>
+			<Opinions>
+				<Opinion target="Hovězí vývar s knedlicky" category="FOOD#QUALITY" polarity="negative" from="0" to="24"/>
+				<Opinion target="knedlicky" category="FOOD#QUALITY" polarity="negative" from="15" to="24"/>
+				<Opinion target="hovezimu masu" category="FOOD#QUALITY" polarity="negative" from="30" to="43"/>
+				<Opinion target="nudli" category="FOOD#QUALITY" polarity="negative" from="90" to="95"/>
+				<Opinion target="Veprovy vrabec s houskovym knedlíkem a zelím" category="FOOD#QUALITY" polarity="negative" from="116" to="160"/>
+				<Opinion target="maso" category="FOOD#QUALITY" polarity="neutral" from="171" to="175"/>
+				<Opinion target="knedlík" category="FOOD#QUALITY" polarity="negative" from="199" to="206"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="577a1bb9-98ef-4e18-8367-e9ab1338fc5a">
+			<text>Za mne mohu říct, že na Dynamo určitě nezanevřu i nadále a nedal bych na každý kec, co tady napíše kdejaký zamindrákovaný blb</text>
+			<Opinions>
+				<Opinion target="Dynamo" category="RESTAURANT#GENERAL" polarity="positive" from="24" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ecba5d2e-9817-437a-ab7f-1aa3c49a3830">
+			<text>Arogantni cisnik v prizemi, otravena a neochotna cisnice v 1. patre</text>
+			<Opinions>
+				<Opinion target="cisnik" category="SERVICE#GENERAL" polarity="negative" from="10" to="16"/>
+				<Opinion target="cisnice" category="SERVICE#GENERAL" polarity="negative" from="49" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="27bbe00e-4939-4e79-a95c-8f4f2874b98d">
+			<text>Vynikající meníčka a příjemná obsluha</text>
+			<Opinions>
+				<Opinion target="meníčka" category="FOOD#QUALITY" polarity="positive" from="11" to="18"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="30" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fc80f0e7-6eee-46a8-b9f9-e448e3ee2712">
+			<text>Straší vybavení ale útulné. Spíše pro nenáročné.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="09574029-42ee-4cb2-a136-6c0fbc8db38a">
+			<text>Hezké místo s mnoha možnostmi. Restaurace, lego muzeum a mnoho dalšího.</text>
+			<Opinions>
+				<Opinion target="místo" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f4a69487-ab73-4b47-ac86-befc1989d029">
+			<text>Zajdeme sem kazde prazdniny. Pizza dobra, ale i v centru Prahy (tam ceny zname a jsou zname jako vysoke) by byla pizza levnejsi nebo vetsiho prumeru.</text>
+			<Opinions>
+				<Opinion target="Pizza" category="FOOD#PRICES" polarity="negative" from="29" to="34"/>
+				<Opinion target="Pizza" category="FOOD#QUALITY" polarity="positive" from="29" to="34"/>
+				<Opinion target="Pizza" category="FOOD#STYLE_OPTIONS" polarity="negative" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f53dd1b3-5a08-42dc-84ad-355a3c125543">
+			<text>Dnes jsme navštívili restauraci u Štěpána a byli jsme unešeni</text>
+			<Opinions>
+				<Opinion target="restauraci u Štěpána" category="RESTAURANT#GENERAL" polarity="positive" from="21" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3852a4a6-dd11-48dc-856f-2fc1b51d1aca">
+			<text>Známí to štěstí měli, ale nebyli spokojeni s jídlem</text>
+			<Opinions>
+				<Opinion target="jídlem" category="FOOD#QUALITY" polarity="neutral" from="45" to="51"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4f007c64-97d4-4c3b-a392-a057d39b6918">
+			<text>Příjemný personál, jídlo vynikající. Hudba snad by mohla být trochu tišší. Jinak spokojenost.</text>
+			<Opinions>
+				<Opinion target="personál" category="SERVICE#GENERAL" polarity="positive" from="9" to="17"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="19" to="24"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b1210585-856f-4971-acac-9b0e42fd481f">
+			<text>Již nikdy a nikdo mě tam nedostane</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3569d637-aa28-43dd-9bf5-03472d1f4d49">
+			<text>Servírka přišla a sdělila nám, že došlo jídlo a že máme přijít jindy</text>
+			<Opinions>
+				<Opinion target="Servírka" category="SERVICE#GENERAL" polarity="negative" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6b52ca62-7df2-4214-b34c-83108706b8f6">
+			<text>Červené víno mi rovněž moc chutnalo a slečna, co nás obsluhovala, byla úžasná</text>
+			<Opinions>
+				<Opinion target="Červené víno" category="DRINKS#QUALITY" polarity="positive" from="0" to="12"/>
+				<Opinion target="slečna" category="SERVICE#GENERAL" polarity="positive" from="38" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="42c11412-fa4b-47c8-98ea-20ab9e96368d">
+			<text>Skvělá obsluha, příjemné prostředí.</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="7" to="14"/>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="25" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e58e6528-1f60-4138-af16-762978fa4b8f">
+			<text>Na zahrádce je příjemné posezení a spousta atrakcí pro děti.</text>
+			<Opinions>
+				<Opinion target="zahrádce" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="87359b0f-d0d2-40c3-aab1-073d166341f5">
+			<text>škoda, že jsem tyto recenze nečetl o pár dní dříve, ušetřil bych si minimálně čas</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fa62df7d-be18-4d8d-bf34-9575942b2673">
+			<text>Burger v Malešicích patří mezi TOP, které jsme s manželem ochutnali 😊 Nicméně nedá mi nezmínit se k blonďaté paní servírce, která je velice,ale velice nepříjemná. Majitelé restaurace by měli popřemýšlet jestli by nestalo za to obměnit zaměstnance, který nedělají dobré jméno tak supr restauraci.</text>
+			<Opinions>
+				<Opinion target="Burger" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+				<Opinion target="servírce" category="SERVICE#GENERAL" polarity="negative" from="114" to="122"/>
+			</Opinions>
+		</sentence>
+		<sentence id="11815dc5-46ad-4e13-9ea9-da0b6f81726e">
+			<text>Už jsme se jednou spálili v této resturaci a dlouhoooo zase nepůjdeme.</text>
+			<Opinions>
+				<Opinion target="resturaci" category="RESTAURANT#GENERAL" polarity="negative" from="33" to="42"/>
+			</Opinions>
+		</sentence>
+		<sentence id="95eebcc1-9676-49ba-bf79-9f20d5d5bb6d" OutOfScope="TRUE">
+			<text>Měli jsme zakoupené dva vouchery pro 4 lidi na směs steaků se zeleninovou oblohou, pečivem a pepřovou omáčkou</text>
+		</sentence>
+		<sentence id="ede59cb6-f563-4009-87d4-62cf734701f0">
+			<text>Přesolené jídlo</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="negative" from="10" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c2803f4e-c252-4160-8c71-f36b780820ba">
+			<text>No tak velka parada to teda nebyla,popovidame si o tom s majiteli at maji aspon zpetnou vazbu.</text>
+			<Opinions>
+				<Opinion target="majiteli" category="SERVICE#GENERAL" polarity="neutral" from="57" to="65"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9cd5e748-0cf8-4140-b6b7-b2935f49a163">
+			<text>Velmi přátelské služby a dobré jídlo.</text>
+			<Opinions>
+				<Opinion target="služby" category="SERVICE#GENERAL" polarity="positive" from="16" to="22"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="31" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4cd5e1cf-5e17-4d09-8076-0033ca18f10e">
+			<text>Chutově dobré, jídlo je podáváno na velkých talířích , ale porce je velmi malá cena odpovídá tak Alcronu</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#PRICES" polarity="negative" from="15" to="20"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="15" to="20"/>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="negative" from="59" to="64"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c60b835-c97f-4bfa-a72e-f47f2a8f2b25">
+			<text>Naprosto katastrofální jídlo, hamburger s hranolkami studený a nedopečený, porce malý a hoodně drahý.Navíc výběr pouze asi z 8 druhů jidel. Nedoporučuji</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="negative" from="23" to="28"/>
+				<Opinion target="hamburger s hranolkami" category="FOOD#QUALITY" polarity="negative" from="30" to="52"/>
+				<Opinion target="hamburger s hranolkami" category="FOOD#STYLE_OPTIONS" polarity="negative" from="30" to="52"/>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="negative" from="75" to="80"/>
+				<Opinion target="jidel" category="FOOD#STYLE_OPTIONS" polarity="negative" from="133" to="138"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b36e981f-2e67-4d90-8e81-618caad5b66e">
+			<text>Super obsluha,výborné jídlo!</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="6" to="13"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="22" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4b31a201-e8dc-4da8-afea-c411fec36ed0">
+			<text>Verte mi, ze opravdu neznam restauraci, kde by bez drivejsiho ohlaseni , na vas kuchar cekal, az se vam zaraci dorazit a to tesne , pred zaviranim kuchyne</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="28" to="38"/>
+				<Opinion target="kuchar" category="SERVICE#GENERAL" polarity="neutral" from="80" to="86"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a1ecf8dc-9427-4241-918b-468881a85921">
+			<text>Exotická atmosféra, hodně cizinců, narvano.</text>
+			<Opinions>
+				<Opinion target="atmosféra" category="AMBIENCE#GENERAL" polarity="positive" from="9" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4a88e4d9-aa5d-46b9-955f-49c102f33b02">
+			<text>smrad,špína,bez ubrusu,celkově je vidět,že na čistotu se nedbá</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8b2ebdff-4279-495e-a5ae-8c434fb5ebc0">
+			<text>Bylo tam čisto, obsluha příjemná.</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="16" to="23"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="91d2be58-a8bf-49da-8237-f9f47e37fadb">
+			<text>Jsem místní, mám to z Velhartic sotva deset kilometrů a dobrých restaurací na sušicku by člověk napočetl na prstech jedné ruky</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cb30ca67-2855-49c4-afdb-8982e533016c">
+			<text>Objednaná variace domácího pečiva se mezitím na stole neobjevila.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6d2ad917-6cf4-4af0-bdc0-9766acb047e2">
+			<text>Byli jsme na voucher a taky velké zklamání.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0b47df2e-e862-4d4e-8737-90d470531463">
+			<text>Nebyla jsem v té chvíli jediná,kdo si na špinavé ubrusy stěžoval</text>
+			<Opinions>
+				<Opinion target="ubrusy" category="AMBIENCE#GENERAL" polarity="negative" from="49" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4fe5e19d-0d64-4459-b8ae-113883f83d64">
+			<text>Nejlepší a nejpohodlnější kavárna.</text>
+			<Opinions>
+				<Opinion target="kavárna" category="RESTAURANT#GENERAL" polarity="positive" from="26" to="33"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ac6f72c3-10e4-4e41-938a-1930759319f0">
+			<text>Měl jsem zde i sraz se spolužáky a všichni jsme byli spokojeni jak s jídlem a pitím, tak i obsluhou.</text>
+			<Opinions>
+				<Opinion target="jídlem" category="FOOD#QUALITY" polarity="positive" from="69" to="75"/>
+				<Opinion target="pitím" category="DRINKS#QUALITY" polarity="positive" from="78" to="83"/>
+				<Opinion target="obsluhou" category="SERVICE#GENERAL" polarity="positive" from="91" to="99"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d71c1ebb-f26b-4388-909a-968b8ef45e17">
+			<text>Tuto restauraci už fakt nikdy více</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="negative" from="5" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7a2e7aca-cfc1-40df-9aa1-00579c261b15">
+			<text>Nebudu popisovat detaily, nevkusné vyzdobéné okolí i interiér, přístup profi personálu, který nedodá přípory a po dopití sklenky se po 10 min musíte dožadovat se zvýšeným hlasem pozornosti číštíka, aby bylo možné objednat další nápoj - na dokreslení stačí asi toto: vývar studený, opravdu studený - s bohatou hrstí křupavé = nedovařené mrkve , a navíc jsem čekala domácí nudle - za 55Kč, o dalším už raději ne, mimo servis tohoto zařízení jsem jinak měla moc hezký den.</text>
+			<Opinions>
+				<Opinion target="okolí" category="LOCATION#GENERAL" polarity="negative" from="45" to="50"/>
+				<Opinion target="interiér" category="AMBIENCE#GENERAL" polarity="negative" from="53" to="61"/>
+				<Opinion target="personálu" category="SERVICE#GENERAL" polarity="negative" from="77" to="86"/>
+				<Opinion target="číštíka" category="SERVICE#GENERAL" polarity="negative" from="189" to="196"/>
+				<Opinion target="vývar" category="FOOD#QUALITY" polarity="negative" from="266" to="271"/>
+				<Opinion target="mrkve" category="FOOD#QUALITY" polarity="negative" from="336" to="341"/>
+				<Opinion target="nudle" category="FOOD#QUALITY" polarity="negative" from="371" to="376"/>
+				<Opinion target="servis" category="SERVICE#GENERAL" polarity="negative" from="416" to="422"/>
+				<Opinion target="zařízení" category="RESTAURANT#GENERAL" polarity="negative" from="430" to="438"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="44d0e79b-91b9-4dfb-bf76-799f7f27d6d7">
+			<text>Nikdy více!!!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e662d73c-0c56-4d17-a862-22352b73edae">
+			<text>PIZZERII NAVŠŤEVUJI CELKEM ČASTO,ZÁLEŽÍ NA JAKOU PARTU NARAZÍTE,NA JEDNÉ SMĚNĚ USMĚVAVÉ,MILÉ SERVÍRKY A NA DRUHÉ JEDNA,KTERÉ NENÍ ROZUMĚT A DRUHÁ,KTERÁ HÁŽE KSICHTY,JAK STRAŠNĚ OBTĚŽUJETE,TO JE PAK LEPŠÍ TAM NECHODIT....</text>
+			<Opinions>
+				<Opinion target="PIZZERII" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="8"/>
+				<Opinion target="SERVÍRKY" category="SERVICE#GENERAL" polarity="positive" from="93" to="101"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="94c85c71-7fd4-4c0a-b42b-97fd7c7d7f0c">
+			<text>Nevím co se Vám nelíbí ,nemám peněz na zbyt,ale toto si opět někdy rádi zopakujeme</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="77e44618-dd48-4d74-9e72-2cb66e4fe29d">
+			<text>Na začátek jsme si objednali polévky kuřecí vývar a kulajdu se ztraceným vejcem - naprostý luxus.</text>
+			<Opinions>
+				<Opinion target="polévky" category="FOOD#QUALITY" polarity="positive" from="29" to="36"/>
+				<Opinion target="kuřecí vývar" category="FOOD#QUALITY" polarity="positive" from="37" to="49"/>
+				<Opinion target="kulajdu se ztraceným vejcem" category="FOOD#QUALITY" polarity="positive" from="52" to="79"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7dfb9b4d-edea-46de-a5d6-91c81bcdfc6a">
+			<text>Nnei tedy k zamysleni, jak je to mozne, vzdyt restaurace o vikendech dokaze uvarit az 300 jidel, to mate tolik svickove a hoveziho zadniho? Snad kazdy si musi uvedomit, ze pravda o Bio chovu, je jen skvely marketingovy tah z poradu Ano,sefe</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="neutral" from="46" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3a13f08e-f552-4694-9fcf-5827111156b7">
+			<text>Pivko je OK, studené, čistá sklenice. pak dostanu jídelní lístek ve formátu "wall of text" na A4, kde má býti jediná orientace asi dvacet různých barev a deset druhů písma - totálně nepřehledné..majitel či manažer restaurace tenhle jídelák asi musel dělat když frčel na LSD.</text>
+			<Opinions>
+				<Opinion target="Pivko" category="DRINKS#QUALITY" polarity="neutral" from="0" to="5"/>
+				<Opinion target="jídelní lístek" category="FOOD#STYLE_OPTIONS" polarity="negative" from="50" to="64"/>
+				<Opinion target="majitel" category="SERVICE#GENERAL" polarity="negative" from="195" to="202"/>
+				<Opinion target="manažer" category="SERVICE#GENERAL" polarity="negative" from="206" to="213"/>
+			</Opinions>
+		</sentence>
+		<sentence id="83adbd14-3def-42d7-a317-9422b85da8ae">
+			<text>NEDOPORUČUJI</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6d8e3924-0857-4df2-9846-f0e9d007a94d" OutOfScope="TRUE">
+			<text>Nevím tedy jetli některé názory není jen hloupá česká závist</text>
+		</sentence>
+		<sentence id="2475949a-be44-4036-9783-1ffae0a01bac">
+			<text>Já nevím jak ostatní, ale já chodím do Kulaťáčku každý týden už 2 roky ! a nemůžu si stěžovat.</text>
+			<Opinions>
+				<Opinion target="Kulaťáčku" category="RESTAURANT#GENERAL" polarity="positive" from="39" to="48"/>
+			</Opinions>
+		</sentence>
+		<sentence id="22079fca-723c-4383-a582-7c13fc3618ec">
+			<text>Takže podnik můžu doporučit, nicméně určitě to chce rezervaci včas</text>
+			<Opinions>
+				<Opinion target="podnik" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="808f2f3d-9a3b-4a21-b6bd-e72074fa8710">
+			<text>Příjemná restaurace v centru, kde se může najíst i našinec. Personál je milý a ochotný, obsluha v rámci možností rychlá. Polední menu je cenově přijatelné, vzhledem k poloze doslova pár kroků od Staroměstského náměstí. Jídlo bylo čerstvé a chutné, porce slušná. Z popisu přílohy "ragú z fenyklu, rajčat, brambor" jsem tedy očekávala rovnoměrné rozložení surovin, ve skutečnosti to byly brambory s omáčkou z rajčat, paprik a trochu fenyklu. Ale chuťově dobré, tak odpuštěno. Ocenila jsem automatický dotaz personálu na led v nápoji. Káva byla chutná, jemná a potěšil i ornament v mléčné pěně. Mohu s klidným svědomím doporučit.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="positive" from="9" to="19"/>
+				<Opinion target="Personál" category="SERVICE#GENERAL" polarity="positive" from="60" to="68"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="88" to="95"/>
+				<Opinion target="Polední menu" category="FOOD#PRICES" polarity="positive" from="121" to="133"/>
+				<Opinion target="poloze" category="LOCATION#GENERAL" polarity="positive" from="167" to="173"/>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="219" to="224"/>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="positive" from="248" to="253"/>
+				<Opinion target="přílohy" category="FOOD#STYLE_OPTIONS" polarity="positive" from="271" to="278"/>
+				<Opinion target="ragú z fenyklu, rajčat, brambor" category="FOOD#QUALITY" polarity="positive" from="280" to="311"/>
+				<Opinion target="ragú z fenyklu, rajčat, brambor" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="280" to="311"/>
+				<Opinion target="Káva" category="FOOD#QUALITY" polarity="positive" from="532" to="536"/>
+				<Opinion target="Káva" category="FOOD#STYLE_OPTIONS" polarity="positive" from="532" to="536"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="30058eb9-b5eb-4f4c-ad5b-877df57202b1">
+			<text>Jídlo strašné!!!!, personál celkem slušný</text>
+			<Opinions>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="negative" from="0" to="5"/>
+				<Opinion target="personál" category="SERVICE#GENERAL" polarity="neutral" from="19" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cb2b0f80-2e6f-4b65-af4c-563df8208fe7">
+			<text>dobry den tak tuhle restauraci bych vubec nedoporucil strasna obsluha pivo teple a pozor na vraceni penez radeji si vse spocitejte a jidlo to bych dal radejc prasatum no proste nula k nule</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="negative" from="20" to="30"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="negative" from="62" to="69"/>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="negative" from="70" to="74"/>
+				<Opinion target="jidlo" category="FOOD#QUALITY" polarity="negative" from="133" to="138"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e9320bda-9f9a-4df3-9db7-90b845c18219">
+			<text>Prý to nejde, tatarák kuchaři dělají NĚKOLIK DNÍ dopředu!!!!</text>
+			<Opinions>
+				<Opinion target="tatarák" category="FOOD#QUALITY" polarity="negative" from="14" to="21"/>
+				<Opinion target="kuchaři" category="SERVICE#GENERAL" polarity="negative" from="22" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4bd455a8-f4f5-4601-b69a-e4720b09e7b3">
+			<text>Obsluha ok, na závěr proběhlo trochu delší čekání na účet, ale i tak jednoznačně převažuje dobrý dojem.</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b51b4c8e-4ec4-4834-ba2a-4c491e6e4417">
+			<text>Jídlo výborné a výběr obrovský, steaky z kvalitního masa.</text>
+			<Opinions>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="Jídlo" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="5"/>
+				<Opinion target="steaky" category="FOOD#QUALITY" polarity="positive" from="32" to="38"/>
+				<Opinion target="masa" category="FOOD#QUALITY" polarity="positive" from="52" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="540d51b9-8813-4eac-8a4d-2eb672d00854">
+			<text>Jistě se k vám brzy vrátím a všem vřele tuto restauraci doporučuji</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="positive" from="45" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f8f28b69-c1aa-4a2d-a652-2d59eabe718b">
+			<text>Netradiční, ale originální. Fajn drinky, obsluha a celkově dobré místo.</text>
+			<Opinions>
+				<Opinion target="drinky" category="DRINKS#QUALITY" polarity="positive" from="33" to="39"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="41" to="48"/>
+				<Opinion target="místo" category="RESTAURANT#GENERAL" polarity="positive" from="65" to="70"/>
+			</Opinions>
+		</sentence>
+		<sentence id="49c4f196-7ec5-4c12-aaea-43867d24dd75">
+			<text>Na doporučení kolegů jsme s rodinou otestovali Qburger bar plni očekávání. Jedním slovem... V Y N I K A J I C I! Jídlo skvělé, obsluha příjemná, prostředí čisté, fresh. Rádi se vrátíme.</text>
+			<Opinions>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="113" to="118"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="127" to="134"/>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="145" to="154"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f6c54641-fc83-4c67-8222-b54c6dab1bcd">
+			<text>Pan majitel je podvodník</text>
+			<Opinions>
+				<Opinion target="majitel" category="SERVICE#GENERAL" polarity="negative" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="29d7c981-d6f7-4fe0-b6d0-eb32aae9abc3">
+			<text>Úžasné místo k odpočinku. Skvělé služby. Vysoká kvalita jídla a pití. Horní cenová kategorie.</text>
+			<Opinions>
+				<Opinion target="místo" category="AMBIENCE#GENERAL" polarity="positive" from="7" to="12"/>
+				<Opinion target="služby" category="SERVICE#GENERAL" polarity="positive" from="33" to="39"/>
+				<Opinion target="jídla" category="FOOD#QUALITY" polarity="positive" from="56" to="61"/>
+				<Opinion target="pití" category="DRINKS#QUALITY" polarity="positive" from="64" to="68"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ffc6b4d9-3de9-4335-ba67-a500c62ee1d8" OutOfScope="TRUE">
+			<text>Co se tyka opravdu vlastniho chovu, vsem bych rad vysvetlil situaci a udelal jednou pro vzdy jasno - ano, pan majitel ma opravdu nekolik kusu - okolo 50 ks kravicek a par byku, ale zajimave je, ze pocet je temer stale stejny</text>
+		</sentence>
+		<sentence id="663eb7cd-ed61-4f8c-9969-c8a3b7aa7532">
+			<text>Je to akorát zmedializované, maso dováží, nestíhá ho nechat odležet</text>
+			<Opinions>
+				<Opinion target="maso" category="FOOD#QUALITY" polarity="negative" from="29" to="33"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f70466d6-23bc-4de7-ad56-ae78f058823e">
+			<text>Atmosfera. Jidlo. Obsluha. Pouze pivo... :(  nemusim Budvar. Sorry</text>
+			<Opinions>
+				<Opinion target="Atmosfera" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="9"/>
+				<Opinion target="Jidlo" category="FOOD#QUALITY" polarity="positive" from="11" to="16"/>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="positive" from="18" to="25"/>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="negative" from="33" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1606d5c7-eae6-4bf2-bf3c-6ae1822dcb1f">
+			<text>Jak je v naší komunitě běžnou věcí, očekávál jsem příjemnou atmosféru.</text>
+			<Opinions>
+				<Opinion target="atmosféru" category="AMBIENCE#GENERAL" polarity="neutral" from="60" to="69"/>
+			</Opinions>
+		</sentence>
+		<sentence id="09f9be1b-9e43-4725-972b-ec7dd3a095b6" OutOfScope="TRUE">
+			<text>Můj postřeh z okolí, potkali jsme zde několik restaurací, ale ani u jedné nebyl takový provoz jako U Štěpána.</text>
+		</sentence>
+		<sentence id="54cfd7e3-4c14-4b98-a0ff-f80566926fa2">
+			<text>Taki skvělí hotýlek</text>
+			<Opinions>
+				<Opinion target="hotýlek" category="RESTAURANT#GENERAL" polarity="positive" from="12" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cffe4fea-f1b8-47df-903c-a565614312b2">
+			<text>Pivo žádná kvalita a jěště nás chtěli okrást.</text>
+			<Opinions>
+				<Opinion target="Pivo" category="DRINKS#QUALITY" polarity="negative" from="0" to="4"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1da313a0-de33-4f70-bdc9-c0af1e2ecbf1">
+			<text>Po druhé to už bylo horší, potřetí ještě horší a počtvrté jsem se jen ujistil, že sem už nepřijedu</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8bd2e9c9-dd90-42d8-a194-7fd6919d1d93" OutOfScope="TRUE">
+			<text>Všichni tři jsme si dali Tahjský salát s hovězím a k tomu Frankovku 2010, pozdní sběr.</text>
+		</sentence>
+		<sentence id="ed05999f-0851-4ce3-8416-64f4d59b2459">
+			<text>Krasne prostredi, prijemna obsluha, jidlo vinikajici 🙂</text>
+			<Opinions>
+				<Opinion target="prostredi" category="AMBIENCE#GENERAL" polarity="positive" from="7" to="16"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="27" to="34"/>
+				<Opinion target="jidlo" category="FOOD#QUALITY" polarity="positive" from="36" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a313810e-2763-4c99-a353-2c85df48b7ca">
+			<text>Jídlo bylo výborné, cena je super, donáška byla velmi rychlá, jídlo chutné a moooooooooc milá obsluha :-))))</text>
+			<Opinions>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="donáška" category="SERVICE#GENERAL" polarity="positive" from="35" to="42"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="94" to="101"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6e08ff36-05c4-4df7-8ad9-c0543bc25a6e">
+			<text>Obsluha nepříjemná , jídlo vypadalo lákavě ale po zjištění černého lasku v pokrmu a špinavého talíře se mi zvedl žaludek. Nikdy více</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="negative" from="21" to="26"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e6a1ac1-5145-4b55-a444-261d89866f3f">
+			<text>Krásný prostor, milá obsluha, velká nabídka, kočárek friendly :)</text>
+			<Opinions>
+				<Opinion target="prostor" category="AMBIENCE#GENERAL" polarity="positive" from="7" to="14"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="21" to="28"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0254da37-4f64-4f6b-954c-1d6906ea8ca4">
+			<text>navic co se tyka okradani, chodime sem tri roky a nikdy jsme okradeny nebyly, to je ale zahada hlavolamu vy chytráci, jídlo - kuchař Míša sice neumí bruslit ale jídlo děla nejlepší navíc v rekordnim čase a kuchyní udržuje ve vetší čistitě než je ta vaše, záchody - smrad jsme nikdy necítili navíc je tam ted jeden vyměněn, pivo- chutná skvěle a nedočkáte se podmíráku</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="118" to="123"/>
+				<Opinion target="kuchař" category="SERVICE#GENERAL" polarity="positive" from="126" to="132"/>
+				<Opinion target="kuchyní" category="AMBIENCE#GENERAL" polarity="positive" from="206" to="213"/>
+				<Opinion target="záchody" category="AMBIENCE#GENERAL" polarity="positive" from="255" to="262"/>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="323" to="327"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6c3ed6c3-aeca-4eb8-8bc0-4573f924b469">
+			<text>Co je tam novy person,jidlo super na urovni,pivicko jako kren,obsluha perfekto a o cistote ani nemluvim,toalety vonave a cistounke,davam same plusiky a uz se tesim,az tam vemu manzelku.</text>
+			<Opinions>
+				<Opinion target="person" category="SERVICE#GENERAL" polarity="positive" from="15" to="21"/>
+				<Opinion target="jidlo" category="FOOD#QUALITY" polarity="positive" from="22" to="27"/>
+				<Opinion target="pivicko" category="DRINKS#QUALITY" polarity="positive" from="44" to="51"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="62" to="69"/>
+				<Opinion target="toalety" category="AMBIENCE#GENERAL" polarity="positive" from="104" to="111"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ee06d7cf-9666-4358-8eb7-eca727953e72">
+			<text>Pohodová restaurace...chutné jídlo za dobré ceny.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="positive" from="9" to="19"/>
+				<Opinion target="jídlo" category="FOOD#PRICES" polarity="positive" from="29" to="34"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4653cd28-c52f-40dd-9e4e-5da01a4087fd">
+			<text>Nechapu jak mužete psát o tom v Tescu je levnějš to je jasný přece sněste si to tam na stojáka u regalu a vemte si sebou skladací židličku inteligente.Vždy jsem se tu dobře najedl a hojně žadná malá porce.prostě pecka.doporučuji.</text>
+			<Opinions>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="positive" from="199" to="204"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d01c0d69-a24c-4890-9093-4aaa3eccbde6">
+			<text>Restauraci jsme navštívili v létě a byli nadšeni. Dnešní návštěva se nenasla v tomto duchu, bylo poměrně chladno, jídlo průměrné, u cibulové polévky sýr téměř nebyl, hlavní chod velmi průměrný a dezert, flambované palačinky - velké minus, hmota, karamel nebyl cítit,......prostě špatně. Víno bylo výborné, což u francouzského vína se očekává. Je nám to líto, ale příští návštěvu si odpustíme.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="neutral" from="114" to="119"/>
+				<Opinion target="sýr" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="149" to="152"/>
+				<Opinion target="hlavní chod" category="FOOD#QUALITY" polarity="neutral" from="166" to="177"/>
+				<Opinion target="dezert" category="FOOD#QUALITY" polarity="negative" from="195" to="201"/>
+				<Opinion target="flambované palačinky" category="FOOD#QUALITY" polarity="negative" from="203" to="223"/>
+				<Opinion target="karamel" category="FOOD#QUALITY" polarity="negative" from="246" to="253"/>
+				<Opinion target="Víno" category="DRINKS#QUALITY" polarity="positive" from="287" to="291"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b80c5add-63a9-468d-880a-6b952407a2b5">
+			<text>Po hlavnim jidle jsme meli hlad,nu coz nejeli jsme 130 km aby jsme sli na hotel o hladu.</text>
+			<Opinions>
+				<Opinion target="jidle" category="FOOD#STYLE_OPTIONS" polarity="negative" from="11" to="16"/>
+			</Opinions>
+		</sentence>
+		<sentence id="591982f1-036c-478c-b69e-d9cd3ac4a9c1">
+			<text>jídlo nám vždy moc chutnalo, nestalo se, že by něco bylo špatné, ba naopak,chodíme rádi a často, ubrusy nemají, ale myslím, že se na ty krásné dřevěné stoly nehodí, hodnotím celkově za jedna, doporučuji</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="stoly" category="AMBIENCE#GENERAL" polarity="positive" from="151" to="156"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0cfc5a3b-2371-4a02-9940-6c40089e529c">
+			<text>Mají tu výborné dospělé pivo..číšníci nepříjemni a po upozornění na slanou polévku se dockate odpovědi -i ta druhá polévka je slaná,dneska si nevyberete..opravdu restaurace jak má být</text>
+			<Opinions>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="24" to="28"/>
+				<Opinion target="číšníci" category="SERVICE#GENERAL" polarity="negative" from="30" to="37"/>
+				<Opinion target="polévku" category="FOOD#QUALITY" polarity="positive" from="75" to="82"/>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="negative" from="162" to="172"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ef4e87aa-6751-4b79-9b16-5d5351bc9a03">
+			<text>Cisnik, ktery vypadal totalne zhuleny, snazil se nam lhat ohledne ceny na vino, a nasi prosby prinest napojovy listek proste ignoroval.</text>
+			<Opinions>
+				<Opinion target="Cisnik" category="SERVICE#GENERAL" polarity="negative" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a72c37f8-15e0-49e7-98f9-a0777668b76c">
+			<text>Jidlo super za super cenu. Obsluha na urovni. Jen kdyby trosku zlevnili napoje. Jinak jednicka s hvezdickou.</text>
+			<Opinions>
+				<Opinion target="Jidlo" category="FOOD#PRICES" polarity="positive" from="0" to="5"/>
+				<Opinion target="Jidlo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="positive" from="27" to="34"/>
+				<Opinion target="napoje" category="DRINKS#PRICES" polarity="negative" from="72" to="78"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fb459221-1d2d-4a3d-a8d0-1ab92bedce13">
+			<text>Příšerná obsluha, žádný výběr jidla</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="negative" from="9" to="16"/>
+				<Opinion target="jidla" category="FOOD#STYLE_OPTIONS" polarity="positive" from="30" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c1badc5b-42af-4d3a-b3fe-88ccb31dc75f">
+			<text>Po předkrmu jsem pil čistě přírodní fresh juice(vymačkané pomeranče) , byl dobrý, přírodní (lehce dražší- 90,-)</text>
+			<Opinions>
+				<Opinion target="fresh juice" category="DRINKS#PRICES" polarity="neutral" from="36" to="47"/>
+				<Opinion target="fresh juice" category="DRINKS#QUALITY" polarity="positive" from="36" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="740c238e-e2c6-457b-849c-f7bca94dfbac">
+			<text>Spíše chutnalo, jak kdyby bylo vařené a ne pečené</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b9ec4043-02ea-4f49-96af-6ed14c4cf6ed">
+			<text>jen se mohu ztotožnit se všemi okolo, skvělá obsluha, skvělé jídlo bezva jen mám výtku k trhanci takhle jej neznám babička i ve Vídni jej dělala jinak a byl to trhanec ne piškot</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="45" to="52"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="61" to="66"/>
+				<Opinion target="trhanci" category="FOOD#QUALITY" polarity="negative" from="89" to="96"/>
+				<Opinion target="piškot" category="FOOD#QUALITY" polarity="negative" from="171" to="177"/>
+			</Opinions>
+		</sentence>
+		<sentence id="612b2eca-5fa8-4709-b919-51b5a5330217">
+			<text>Mužu jen říct ano.super.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c9020e49-a4fd-45f8-a528-31b4c2e5b07a">
+			<text>Nic horšího jsem nejedl.Katastrofa.Objednáno 22.7.2016.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b8152c47-a78c-44ea-88f9-c46fd9423866">
+			<text>Taky nedoporučuji tento podnik.</text>
+			<Opinions>
+				<Opinion target="podnik" category="RESTAURANT#GENERAL" polarity="negative" from="24" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="88a841c2-624f-4a45-98a1-740af10e4fa7">
+			<text>polední menu, kantyna, řeznictví a výborné pivo 👍😊</text>
+			<Opinions>
+				<Opinion target="polední menu" category="FOOD#QUALITY" polarity="positive" from="0" to="12"/>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="43" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f3b804d-d51d-49db-ae5f-47cebbb9c8a2">
+			<text>Hodně se to tam změnilo, spíše k horšímu.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c93321b-2eed-4fa2-b463-3466aa33adc6">
+			<text>V restauraci Kulaták jsem byl s kolegy několikrát, to že je pivo vždy pod míru jsme si zvykli ( ostaní restaurace v okolí mají s mírou piva také problémy ), ale při poslední návštěvě nám bylo účtováno výrazně více piv než jsme vypili.</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="neutral" from="2" to="12"/>
+				<Opinion target="pivo" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="60" to="64"/>
+				<Opinion target="piv" category="DRINKS#PRICES" polarity="neutral" from="214" to="217"/>
+			</Opinions>
+		</sentence>
+		<sentence id="67a14c87-de77-4645-a332-9c4285e3cb17">
+			<text>Ale musím dodat, že jsme si pochutnali</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8bde3f11-02a0-40cf-9e87-3d045f585973">
+			<text>Nemá to chybu</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c2c2d978-71f1-4601-83d4-6afef680e78e">
+			<text>Skvělí instruktoři, prostředí, nálada i ceny. Doporučuji!</text>
+			<Opinions>
+				<Opinion target="instruktoři" category="SERVICE#GENERAL" polarity="positive" from="7" to="18"/>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="20" to="29"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3b50dce5-b89d-4e43-ab58-41a1dad5add0">
+			<text>Skvělé jídlo, ubytování a velmi milá obsluha.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="7" to="12"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="37" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="174a8ea0-d3d0-4682-a859-6e313e43d67b">
+			<text>Skvělá kavárna kupříkladu na učení, nebo jen intelektuální masturbaci nad knihou, či novinami na pohodlné pohovce. Pořádají se tu zajímavá setkání s alternativními umělci, či autorská čtení. Doporučuji si dát nápoj "Cesta na Sibiř". zahřeje na těle i na duši. K jídlu si můžete dát nějaké maličkosti jako je bábovka, utopenec, toustík, nebo hranolky sypané sýrem.</text>
+			<Opinions>
+				<Opinion target="kavárna" category="RESTAURANT#GENERAL" polarity="positive" from="7" to="14"/>
+				<Opinion target="Cesta na Sibiř" category="DRINKS#QUALITY" polarity="positive" from="216" to="230"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="20a2bf1d-3d6c-4a98-a22c-80620d95a70f">
+			<text>Do restaurace kodíme na obědy každý týden a jídlo je chutné a rychle hotové.</text>
+			<Opinions>
+				<Opinion target="obědy" category="FOOD#QUALITY" polarity="positive" from="24" to="29"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="44" to="49"/>
+				<Opinion target="jídlo" category="SERVICE#GENERAL" polarity="positive" from="44" to="49"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f8c305e1-306d-485f-befc-d167cf472137">
+			<text>Přiteplenej vlezlej provozní, lítal po restauraci jak raketa.</text>
+			<Opinions>
+				<Opinion target="provozní" category="SERVICE#GENERAL" polarity="negative" from="20" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fcf20c37-2b52-4fbd-8ae4-3e56544ec1a7">
+			<text>Všechno špatně.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="730914e1-382a-4d92-a6dc-7f837e5837bc">
+			<text>Než to uzavřeli , tak jsem tam často jezdíval na pivo .</text>
+			<Opinions>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="49" to="53"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2f436d85-c32a-406d-a5b2-e6eddc36fa81">
+			<text>Teď ve středu jsem byl v restauraci na večeři bylo tam narváno lidmi, pomalu nebylo kde sedět a jídlo zabijačka byla super,koupil jsem si i domu</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="positive" from="25" to="35"/>
+				<Opinion target="večeři" category="FOOD#STYLE_OPTIONS" polarity="positive" from="39" to="45"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="96" to="101"/>
+				<Opinion target="zabijačka" category="FOOD#QUALITY" polarity="positive" from="102" to="111"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e48f83b8-a0e9-4ba2-b61d-cf94c9f99ce2">
+			<text>dost dobra pizza mexicana doporučuji servírky příjemný</text>
+			<Opinions>
+				<Opinion target="pizza mexicana" category="FOOD#QUALITY" polarity="positive" from="11" to="25"/>
+				<Opinion target="servírky" category="SERVICE#GENERAL" polarity="positive" from="37" to="45"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ecdb0747-da93-40f7-8ed7-f1068c6417fc">
+			<text>nakonec jsme si dopily jen to jedno pivo a sly k baru platit. to koukal...smutne. chtela jsem po nem kontakt ze si budu stezovat. dal mi vizitku a usmal se na me. ale ze si se mnou nechtel povidat vic mu nezapomenu.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1c6b5e8b-e6bc-4bcd-8b9f-6b607526665d">
+			<text>Pomalá obsluha, čekání 30minut na pivo je moc!!! Obsluha milá, jídlo dobré, až na to čekání</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="negative" from="7" to="14"/>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="positive" from="49" to="56"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="63" to="68"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6e4af53b-6cbe-4788-b4f9-d0eb745db83f">
+			<text>dlouho sem nejedl tak dobrou pizzu</text>
+			<Opinions>
+				<Opinion target="pizzu" category="FOOD#QUALITY" polarity="positive" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dc54d6be-47dc-4c1e-b3e5-1d2662d5823a">
+			<text>Pivo je drsně pod míru (vyzkoušeno ve večerních hodinách).</text>
+			<Opinions>
+				<Opinion target="Pivo" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="0" to="4"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f33edc0c-c043-404f-aacc-d95360dd9fd8">
+			<text>Pizza je dobrá, ale rukola je zcela bez chuti - chtělo by to lepšího dodavatele zeleniny.</text>
+			<Opinions>
+				<Opinion target="Pizza" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="rukola" category="FOOD#QUALITY" polarity="negative" from="20" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9e8ff5f7-466a-44be-97d9-2f5069eaf667">
+			<text>Jídlo fajn, pití fajn. Obsluha je na jedné směně hrozně super, na druhé je neochotná.</text>
+			<Opinions>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="pití" category="DRINKS#QUALITY" polarity="positive" from="12" to="16"/>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="neutral" from="23" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b43bbf3e-a13f-41ae-97e6-cafbf70e9b48">
+			<text>Bohužel jídlo ani obsluhu už tak pochválit nemůžeme.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="negative" from="8" to="13"/>
+				<Opinion target="obsluhu" category="SERVICE#GENERAL" polarity="negative" from="18" to="25"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4a0deca7-6cb4-4a61-8cf6-fb9a91e20d49">
+			<text>Za mě tedy spokojenost a nemám problém se tam jednou za rok vrátit</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0c9732d4-44d4-47bd-a8a8-e72cf020d0c0">
+			<text>Návštěva této restaurace je vždy zážitek. Chuťové buňky mají posvícení. Všem doporučuji ochutnat. Jistě se nezpletete.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="positive" from="14" to="24"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="64dd9d5f-bd51-4818-9596-e14c6ac98dbb">
+			<text>Příjemná obsluha, příznivé ceny, hezké prostředí...doporučuji</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="9" to="16"/>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="39" to="48"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="823fa0b9-5bbc-4d5d-9208-7c5f5edb414d">
+			<text>Obsluha pomalá, neochotná, maso úpně jinak propečené, než sme chtěli.</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+				<Opinion target="maso" category="FOOD#QUALITY" polarity="negative" from="27" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="358872ff-f7a7-47f8-b297-1678955af478">
+			<text>Kdo Vám v dnešní době nabídne výběr z 5 sklutečně fresh jídel, která mají i super chuť</text>
+			<Opinions>
+				<Opinion target="jídel" category="FOOD#QUALITY" polarity="positive" from="56" to="61"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5158e42b-9177-4d01-af75-b8ea81d22649" OutOfScope="TRUE">
+			<text>muj nazor je takovy jsou lepsi restaurace nez je tenhle treba brodway super vari , dobre ceny jidla hodne</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2fd52a3f-3ee8-422b-83bf-b585c518d45e">
+			<text>Tento týden jsme tam měli sraz spolužáků,všichni jsme byli velmi spokojeni,servírka jako vždy velmi rychlá a ochotná,jídlo vynikající</text>
+			<Opinions>
+				<Opinion target="servírka" category="SERVICE#GENERAL" polarity="positive" from="75" to="83"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="117" to="122"/>
+			</Opinions>
+		</sentence>
+		<sentence id="11541345-47a0-40d1-b096-57aed0893d41" OutOfScope="TRUE">
+			<text>V pátek 17.5.13 jsme byli na večeři U Štěpána</text>
+		</sentence>
+		<sentence id="69599a73-b070-4109-9605-c84d97d74efc">
+			<text>Ještě v žádné z restaurací tohoto typu jsem se nesetkala s tak milým přístupem.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fa355f8b-1e7c-49c2-aa88-e8c527e1b2f9">
+			<text>Nepředstavitelné!Špatně zahraná komedie</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f97e6fc1-5207-4f0c-aa13-d253c7cabb98">
+			<text>Velmi dobré jídlo i saké.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="12" to="17"/>
+				<Opinion target="saké" category="DRINKS#QUALITY" polarity="positive" from="20" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d7c2de5b-0475-4f8a-af7c-c6ec017b3f80">
+			<text>Az kdyz jsem tam volala, voucher nezminovala tak najednou volno meli, rezervace nebyl problem ale kdyz jsem na konci hovoru voucher zminila, nastalo vykrucovani se</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="63d52a59-8cde-4a3d-80c2-882b2ab8944b">
+			<text>Obsluha strašná</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="700c4327-e9ea-4867-8509-d2a16a0eede5">
+			<text>návštěvě jsem si objednala žebra - nejhorší žebra co jsem jedla, vysušený kus masa, jako kámen, tymián to nevidělo, přítel byl opět spokojen</text>
+			<Opinions>
+				<Opinion target="žebra" category="FOOD#QUALITY" polarity="negative" from="27" to="32"/>
+				<Opinion target="masa" category="FOOD#QUALITY" polarity="negative" from="78" to="82"/>
+				<Opinion target="tymián" category="FOOD#STYLE_OPTIONS" polarity="negative" from="96" to="102"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4158cf52-6ba7-4dee-84cc-3fc469942cbc">
+			<text>Vinikajici kavárny</text>
+			<Opinions>
+				<Opinion target="kavárny" category="RESTAURANT#GENERAL" polarity="positive" from="11" to="18"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c16c765-9d4b-49a2-bdb7-1b245be17ca1">
+			<text>Ta kachna byla jako z gumy, nedalo se to jíst</text>
+			<Opinions>
+				<Opinion target="kachna" category="FOOD#QUALITY" polarity="negative" from="3" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4f4ee247-fe70-4555-bc21-de1baa4b4f9e">
+			<text>Perosnál je velmi milý a o hosty se stará. Jídlo je možná trochu dražší, ale zato je to ohromná porce - jako ženská jsem neměla šanci to sníst :) Meníčko vhodné spíš pro masožravce. Pivo na ucházející, jelikož se jedná o Staropramen :) Velký výběr.</text>
+			<Opinions>
+				<Opinion target="Perosnál" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+				<Opinion target="Jídlo" category="FOOD#PRICES" polarity="neutral" from="43" to="48"/>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="positive" from="96" to="101"/>
+				<Opinion target="Pivo" category="DRINKS#QUALITY" polarity="neutral" from="182" to="186"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f53e0f9-90b6-4240-aa65-966442e85548">
+			<text>Po dobré večeři a celkově příjemném posezení jsme se odebrali do pokoje, který známe a jsme i tady spokojeni.</text>
+			<Opinions>
+				<Opinion target="večeři" category="FOOD#QUALITY" polarity="positive" from="9" to="15"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c0dfe4cb-0ffb-4e94-837b-ceaa5789409f">
+			<text>Ale přijde mi, že dost odbývají polední menu.</text>
+			<Opinions>
+				<Opinion target="polední menu" category="FOOD#QUALITY" polarity="negative" from="32" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f20a2f3-3c1a-478e-9120-164ab8159a81">
+			<text>Velmi pěkné místo a dobré služby, ne moc do tváře. Je to příjemné místo k odpočinku.  Řezný poplatek je velmi rozumný.  Chtěl bych vidět nějaké pohodlnější sezení v obýváku a možná i více číst přátelská světla, když si ráda užívám knihu s nápojem a doutníkem. Koneckonců, místo má „knihy“ v názvu ...  Nemohu říci nic o jejich doutnících a jak jsou uloženy, když jsem si přinesl vlastní.</text>
+			<Opinions>
+				<Opinion target="místo" category="AMBIENCE#GENERAL" polarity="positive" from="12" to="17"/>
+				<Opinion target="místo" category="RESTAURANT#GENERAL" polarity="positive" from="12" to="17"/>
+				<Opinion target="služby" category="SERVICE#GENERAL" polarity="positive" from="26" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ff91d9f3-ba89-4b6b-9dd9-d5b3d462c4b3">
+			<text>Pajzl o kterém si myslim, že je to jedna Velká popelnice bordelu, smradu a nechutnosti</text>
+			<Opinions>
+				<Opinion target="Pajzl" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="5"/>
+				<Opinion target="Pajzl" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ce4f7eb5-2b47-413a-a2f7-00f21b0cf5e1">
+			<text>Pivo se nedalo vůbec pít, hlavně, že nabízí více značek.</text>
+			<Opinions>
+				<Opinion target="Pivo" category="DRINKS#QUALITY" polarity="negative" from="0" to="4"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0c89752d-0ef0-49bf-aff1-0e0b603111d5">
+			<text>Druhá servírka naopak, usměvavá a milá.</text>
+			<Opinions>
+				<Opinion target="servírka" category="SERVICE#GENERAL" polarity="positive" from="6" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c37af322-5025-4ae1-8ba2-86a584ed19ca">
+			<text>Pěkná lokalita, ale velmi malá.</text>
+			<Opinions>
+				<Opinion target="lokalita" category="LOCATION#GENERAL" polarity="negative" from="6" to="14"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3092fd8d-f8d7-4b8c-a44d-7210250f786a">
+			<text>Jistě nejedná se o Alcron, ale rychlá a milá obsluha v osobě pana majitele, pro nás byla po přečtení předcházejících recenzí, velmi příjemným překvapením</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="45" to="52"/>
+				<Opinion target="majitele" category="SERVICE#GENERAL" polarity="positive" from="66" to="74"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="75359cc7-2163-4dbd-9be5-914d18afd3ad">
+			<text>Předkrm - pasta z lilků z nachos byla dobrá</text>
+			<Opinions>
+				<Opinion target="pasta z lilků z nachos" category="FOOD#QUALITY" polarity="positive" from="10" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="898bd93e-37d3-4f3e-b87e-808e01bdebe3">
+			<text>Proto nechápu negativní ohlasy, buď měli autoři vysloveně smůlu na nepovedenou porci, nebo jim nechutnalo s ohledem na vysoké ceny, či se jedná o příspěvky konkurence</text>
+			<Opinions>
+				<Opinion target="porci" category="FOOD#STYLE_OPTIONS" polarity="negative" from="79" to="84"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a571acef-af5e-4070-aab3-9ac3d9a865e1">
+			<text>Zkažené sushi,a aby to nebylo poznat,tak ho hodili do friťáku...proč ne.</text>
+			<Opinions>
+				<Opinion target="sushi" category="FOOD#QUALITY" polarity="negative" from="8" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e9ff1b09-905c-4fc2-8130-5a7d2db98ddb">
+			<text>Vystihnout lepsi dobu ohledne cekani, ale jinak super zazitek.Doporucuji vyzkouset👌</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a4a4c18a-7630-404f-a818-ec821668d6c3">
+			<text>Také jsme byly s přítelkyní nemile překvapeni nemožností se objednat po telefonu.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="82d7bad8-fb59-4918-942d-83d6a78da7dd">
+			<text>Byli jsme tímto chováním dost zaskočeni a změnili jsme názor o majitelích</text>
+			<Opinions>
+				<Opinion target="majitelích" category="SERVICE#GENERAL" polarity="negative" from="63" to="73"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1c7fffac-eff1-4cc6-8cfa-791d39a894a8">
+			<text>K tomu je připojena restaurace s názvem „Verona“, která má přijatelné ceny a vynikající jídlo. Mezi těmito dvěma bych navrhl vyzvednout Veronu.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="positive" from="20" to="30"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="88" to="93"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c043458f-ccf0-4c8c-b68f-37aad8e2c60a">
+			<text>V životě jsem nezažil horší obsluhu. Dřív byl podnik příjemné místo na jídlo i posezení, po poslední zkušenosti, kdy při placení na Vás personál řve přes celý bar, co že si to dovolujete, když se dožadujete zaplatit cenu dle jídelního a nápojového lístku a nikoli sumu, jež je o 100% vyšší než cena zde uvedená si říkám PROČ? Proč jinak dobrý bar musel takhle skončit... .</text>
+			<Opinions>
+				<Opinion target="obsluhu" category="SERVICE#GENERAL" polarity="negative" from="28" to="35"/>
+				<Opinion target="personál" category="SERVICE#GENERAL" polarity="negative" from="136" to="144"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="76481b5a-9e03-461f-a016-6a14a91807c6">
+			<text>tatarák jsme v restauraci Na scestí měli již po několikáté,včera 17.1. naposled</text>
+			<Opinions>
+				<Opinion target="tatarák" category="FOOD#QUALITY" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ca3e47c4-7184-4f3b-ab9d-6217fb95864d">
+			<text>Hledal jsem o této rest.neco nového,protože se tam chci stavit a vidím sama negativa.</text>
+			<Opinions>
+				<Opinion target="rest." category="RESTAURANT#GENERAL" polarity="negative" from="19" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ebc2adef-789e-46c7-8ba2-7cca7995351a">
+			<text>K Štepánovi jsme několik let jezdili na výborný steak s fazolkami, cibulovou krustou</text>
+			<Opinions>
+				<Opinion target="Štepánovi" category="RESTAURANT#GENERAL" polarity="positive" from="2" to="11"/>
+				<Opinion target="steak s fazolkami, cibulovou krustou" category="FOOD#QUALITY" polarity="positive" from="48" to="84"/>
+			</Opinions>
+		</sentence>
+		<sentence id="089433d7-a93d-457b-95c6-5461654c3d21">
+			<text>Doporučuji vyzkoušet.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3e0825eb-abc4-4157-93a1-0895e3b7ba5c" OutOfScope="TRUE">
+			<text>Dnes jsem projížděl Kroměříží a zastavil jsem se zde na oběd.</text>
+		</sentence>
+		<sentence id="a907d105-8f61-487c-bace-7a1ffa64d97c">
+			<text>Velmi pěkný hotel, výborné jídlo, ale dost drahé.</text>
+			<Opinions>
+				<Opinion target="hotel" category="AMBIENCE#GENERAL" polarity="positive" from="12" to="17"/>
+				<Opinion target="jídlo" category="FOOD#PRICES" polarity="negative" from="27" to="32"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="27" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fa4b926a-cb3b-45c2-8feb-8366b27b9b49">
+			<text>Skvěle pivo a tradiční jídla.Super obsluha.</text>
+			<Opinions>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="7" to="11"/>
+				<Opinion target="tradiční jídla" category="FOOD#QUALITY" polarity="positive" from="14" to="28"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="35" to="42"/>
+			</Opinions>
+		</sentence>
+		<sentence id="92dcf5a3-a485-4bf5-8657-f9ac9bf890d0">
+			<text>Dobrá nabídka jídel i v pozdější dobu.</text>
+			<Opinions>
+				<Opinion target="jídel" category="FOOD#STYLE_OPTIONS" polarity="positive" from="14" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9af38681-7440-4055-8917-b8d566f5d2e2">
+			<text>Průměrná restaurace, lze se najíst. Neočekávejme gurmansky zážitek.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="neutral" from="9" to="19"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9b87c5a9-c85a-4234-a815-60bd94fb81ae">
+			<text>Hned při vstupu to zasmrdělo přažáckým akcentem číšníka,který mluvil spisovně až se mi z toho dělalo mdlo</text>
+			<Opinions>
+				<Opinion target="číšníka" category="SERVICE#GENERAL" polarity="negative" from="48" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="68afa8b5-1c26-4733-8359-d96210e0e31b">
+			<text>vdavala jsem se pote i ja a to uz jsme mely na zamecku v ostrave a opavdu to stalo zato jidlo super personal dobry opravdu vsichni jsme byly spokojeni</text>
+			<Opinions>
+				<Opinion target="zamecku v ostrave" category="RESTAURANT#GENERAL" polarity="positive" from="47" to="64"/>
+				<Opinion target="jidlo" category="FOOD#QUALITY" polarity="positive" from="88" to="93"/>
+				<Opinion target="personal" category="SERVICE#GENERAL" polarity="positive" from="100" to="108"/>
+			</Opinions>
+		</sentence>
+		<sentence id="83a29d90-5a24-4b3e-bc10-1f344ab9b135">
+			<text>Na čem jsem ale ztroskotal byla naprostá absence, dle zákona povinných "stavebně oddělených prostor pro kuřáky".</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b0ada51c-b375-4458-aef5-4ec0a2ffbb09">
+			<text>Skvělá velká zahrádka a k tomu i točená zmrzlina.</text>
+			<Opinions>
+				<Opinion target="zahrádka" category="AMBIENCE#GENERAL" polarity="positive" from="13" to="21"/>
+				<Opinion target="točená zmrzlina" category="FOOD#QUALITY" polarity="positive" from="33" to="48"/>
+			</Opinions>
+		</sentence>
+		<sentence id="46f4ce2c-06ac-4b60-b57e-3e4761198407">
+			<text>Oslavila jsem svátek-dobré jídlo a pití.DOPORUČUJI</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="27" to="32"/>
+				<Opinion target="pití" category="DRINKS#QUALITY" polarity="positive" from="35" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="917064d7-8c62-42bd-8d58-d26395314fe3">
+			<text>Jak můžou v dnešní době ještě existovat.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9eba5dd7-d744-408b-9515-5933f1741e49">
+			<text>Nejhorší pajzl, jaký jsem kdy viděl.</text>
+			<Opinions>
+				<Opinion target="pajzl" category="RESTAURANT#GENERAL" polarity="negative" from="9" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="52802963-ddb5-4318-83e3-efe763ff68a1">
+			<text>Obsluha byla po obě moje návštěvy milá.</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ceca2c40-e43a-467f-98af-b3a5e3056486">
+			<text>Pěkná nová restaurace. Plus je zahrádka, ale bohužel jídlo nás neoslovilo. Už při výběru jsme trochu měli problém. Jídlo jsme museli dosolovat a dochucovat pepřem :( Mezi polévkou a hlavním jídlem byla zbytečně veliká prodleva, a to nebyla restaurace zdaleka zaplněná. Obsluha nebyla příjemná, měli jsme pocit, že obtěžujeme.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="neutral" from="11" to="21"/>
+				<Opinion target="zahrádka" category="AMBIENCE#GENERAL" polarity="neutral" from="31" to="39"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="neutral" from="53" to="58"/>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="neutral" from="115" to="120"/>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="269" to="276"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8b01b01d-2b66-4e9e-bc3a-0421528c7962">
+			<text>Nenechte se zlákat voucherem, opravdu to za ty peníze nestojí!!! Takže vřele nedoporučujeme</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a530623d-bb75-4c7e-bfae-88de71b9c56d">
+			<text>Moje první a poslední návštěva v této restauraci.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3706e039-f7d4-4221-922a-700153641b86">
+			<text>Mňam zákusky i chlebíčky</text>
+			<Opinions>
+				<Opinion target="zákusky" category="FOOD#QUALITY" polarity="positive" from="5" to="12"/>
+				<Opinion target="chlebíčky" category="FOOD#QUALITY" polarity="positive" from="15" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a166dbf8-c9a0-42be-8fb4-4d8cd2b718d0">
+			<text>Nás v hospode u Štěpána bolo 10 ľudí, nikto z nás sa nesťažoval, všetko bolo ok a to sme si každý dali niečo iné, aby sme si vzájomne mohli ochutnať</text>
+			<Opinions>
+				<Opinion target="u Štěpána" category="RESTAURANT#GENERAL" polarity="positive" from="14" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5edbbdf4-9098-4515-b4ab-72b030fd3382">
+			<text>Restaurace je moc prijemna.. rychla usmivajici se obsluha a vyborne jidlo vzdy perfektne chutove vyvazene.. Byli jsme jiz nekolikrat a vzdy nadmiru spokojeni! :)</text>
+			<Opinions>
+				<Opinion target="Restaurace" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="10"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="50" to="57"/>
+				<Opinion target="jidlo" category="FOOD#QUALITY" polarity="positive" from="68" to="73"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6b9dd08a-e68d-4dc1-926c-a360437da216">
+			<text>Prý původní majitelka utekla i s penezi, a je po ní vyhlášeno pátrání</text>
+			<Opinions>
+				<Opinion target="majitelka" category="SERVICE#GENERAL" polarity="negative" from="12" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="605a24af-4760-4ace-94ab-0b1d658a5752">
+			<text>Jakoby se o nás číšník staral,ale přinesl nám zakalené víno,které tedy ochotně vyměnil</text>
+			<Opinions>
+				<Opinion target="číšník" category="SERVICE#GENERAL" polarity="positive" from="16" to="22"/>
+				<Opinion target="víno" category="DRINKS#QUALITY" polarity="negative" from="55" to="59"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4a47060b-a0f2-433d-8878-ebcfa7fab869">
+			<text>Neuvěřitelný výběr kvalitního pití za příznivé ceny. Plus skvělá kuchyně, zvláště polední menu dává smysl. Navíc je tu bezva klid i na jednání.</text>
+			<Opinions>
+				<Opinion target="pití" category="DRINKS#PRICES" polarity="positive" from="30" to="34"/>
+				<Opinion target="pití" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="30" to="34"/>
+				<Opinion target="kuchyně" category="FOOD#QUALITY" polarity="positive" from="65" to="72"/>
+				<Opinion target="polední menu" category="FOOD#QUALITY" polarity="positive" from="82" to="94"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e94176a9-8b8c-42c0-9e2a-4e78174080f6">
+			<text>Krásné místo a dobré jídlo</text>
+			<Opinions>
+				<Opinion target="místo" category="AMBIENCE#GENERAL" polarity="positive" from="7" to="12"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="21" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="27a57be3-d40d-4edd-aef8-1f7bc307cc7a">
+			<text>Výborně ochucené jídlo, kaše se rozplývala na jazyku, maso taktéž..</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="17" to="22"/>
+				<Opinion target="kaše" category="FOOD#QUALITY" polarity="positive" from="24" to="28"/>
+				<Opinion target="maso" category="FOOD#QUALITY" polarity="positive" from="54" to="58"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b1f3b672-2f60-4f39-84d2-1b7d2c22043a">
+			<text>Navštívil jsem tuto restauraci na doporučení kamarádky a nezdála se mi tak hrozná jak se píše v předešlích recenzích, provozní sice lítal po restauraci jako blázen, ale lepší než sedět nad prázdnym stolem a čekat na to než někdo ráčí přijít.</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="positive" from="20" to="30"/>
+				<Opinion target="provozní" category="SERVICE#GENERAL" polarity="neutral" from="118" to="126"/>
+			</Opinions>
+		</sentence>
+		<sentence id="513e2bfe-7f1b-4d23-9cec-d0297706b711">
+			<text>Kvalita super, předkrm přiměřený velikostí i chutí, maso z pupku jako dort, limonáda svěží neotřelá chuť.</text>
+			<Opinions>
+				<Opinion target="předkrm" category="FOOD#QUALITY" polarity="neutral" from="15" to="22"/>
+				<Opinion target="předkrm" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="15" to="22"/>
+				<Opinion target="maso" category="FOOD#QUALITY" polarity="positive" from="52" to="56"/>
+				<Opinion target="limonáda" category="DRINKS#QUALITY" polarity="positive" from="76" to="84"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ea77786e-ed9d-42c5-ba75-39ce951561ab">
+			<text>Klidné, útulné místo. Kolem borovice a jezera. Velmi chutné jídlo. K dispozici jsou lázně, fitness, bazén, sauna atd.</text>
+			<Opinions>
+				<Opinion target="místo" category="AMBIENCE#GENERAL" polarity="positive" from="15" to="20"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="60" to="65"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6fc79c1b-608b-4ce2-a7aa-201ea5f313c4">
+			<text>Po dlouhých peripetiích a scénách kolem ostatních hostů, se kterými skutečně bylo zacházeno tak, jak je níže popsáno, bylo jídlo přineseno</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ab431773-2a78-4ca9-8b01-def76341d0eb">
+			<text>Jen snad při rozměrech které mám,(180/120), je úzká ulička, dva takoví proti sobě prostě neprojdou.</text>
+			<Opinions>
+				<Opinion target="ulička" category="AMBIENCE#GENERAL" polarity="negative" from="52" to="58"/>
+			</Opinions>
+		</sentence>
+		<sentence id="93f40c1a-5d9e-4790-bf02-d8a8865b7ecc">
+			<text>Tento pajzl je fakt extrém.</text>
+			<Opinions>
+				<Opinion target="pajzl" category="RESTAURANT#GENERAL" polarity="negative" from="6" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2044684c-cfc7-4dbf-9f69-cf2235ca6b7f">
+			<text>Spokojenost a rádi zase někdy zavítáme</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="02fef5af-93f0-4c30-8235-fae73b16dd14">
+			<text>Koleno bylo teda už úplně extrémě nepoživatelné,(nic horšího jsem ještě nejedl),připadlo mi,že je uvařené už tak min. dva dny a potom jen ohřáté</text>
+			<Opinions>
+				<Opinion target="Koleno" category="FOOD#QUALITY" polarity="negative" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="478856f4-b99d-4c99-a63d-839e0fb82916">
+			<text>Při včerejší rezervaci pro odběr mi bylo personálem na tel. č. 775255985 řečeno, že jídlo mi udělají v ceně zaplaceného voucheru ale zaplatit musím znova, jelikož se změnil majitel a uhrazené peníze u Dejsito.cz obdržel ale s penězi zmizel</text>
+			<Opinions>
+				<Opinion target="majitel" category="SERVICE#GENERAL" polarity="negative" from="173" to="180"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f033b83c-7cec-4e39-a806-22a717c5a56f">
+			<text>Zklamáním ale bylo odklízení nádobí, dovážka čistého nádobí do baru.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="97a63cee-f63f-41c6-89d1-123e2810e427">
+			<text>S restaurací jsem spokojená, chodíme velmi často</text>
+			<Opinions>
+				<Opinion target="restaurací" category="RESTAURANT#GENERAL" polarity="positive" from="2" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c1970172-bbb0-4c98-b0fe-c7b8f1ecb1b6">
+			<text>Objednáno přes Dame Jidlo 1 Pizza jedno špagety bolognese a přílohu Kuře s tatarským bambusem se nedoporučuje a kuře bylo studené, bylo to horší než KFC. Pizza byla dobrá</text>
+			<Opinions>
+				<Opinion target="Pizza" category="FOOD#QUALITY" polarity="positive" from="28" to="33"/>
+				<Opinion target="Kuře" category="FOOD#QUALITY" polarity="negative" from="68" to="72"/>
+				<Opinion target="Kuře s tatarským bambusem" category="FOOD#QUALITY" polarity="negative" from="68" to="93"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ebaa9096-71d8-4d5b-ada9-5f443963ec3b">
+			<text>Přítelkyně měla stejný problém, kamarád měl studenej burger, snad jen jeho přítelkyně bylo spokojená</text>
+			<Opinions>
+				<Opinion target="burger" category="FOOD#QUALITY" polarity="negative" from="53" to="59"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d2e66bcd-397d-43e4-b463-938da01e1b38">
+			<text>Zarazilo nas spatne znaceni hospudky nikde zadna reklama.</text>
+			<Opinions>
+				<Opinion target="hospudky" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="28" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b5799104-1eaf-45fb-a256-f44c1b643aee">
+			<text>Byl jsem tam minulý rok během školní výpravy ... výborná kuchyně ... velmi milý personál ... samozřejmě italská kuchyně s italským personálem !!</text>
+			<Opinions>
+				<Opinion target="kuchyně" category="FOOD#QUALITY" polarity="positive" from="57" to="64"/>
+				<Opinion target="personál" category="SERVICE#GENERAL" polarity="positive" from="80" to="88"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4810dc05-0b26-4aae-bc11-3533131b9d82">
+			<text>To vše pro 4 osoby za neuvěřitelných 249 Kč</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="acc35dff-2729-4f82-b165-426becc61054">
+			<text>Obsluha nás úplně ignorovala</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8451aedc-9ad9-4a91-9878-e64e698db8f5">
+			<text>Malá nabidka</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="79de2b1b-e32e-4550-ac21-ea268529e5bd">
+			<text>Příjemná obsluha. Vynikající jídlo.</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="9" to="16"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ad19bea5-d525-42b2-be0e-47a4758dd28f">
+			<text>Zúčastnil sem svatební hostiny v této restauraci,na 60 hostů jedna milá a ubêhaná servírka,na polévku se čekalo hodinu, jídlo nic moc málo dochucene,ke konci majitel nepříjemný   k hostům slovy vypadněte, absolutně nedoporučuji k větším akcím.</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="negative" from="38" to="48"/>
+				<Opinion target="servírka" category="SERVICE#GENERAL" polarity="neutral" from="82" to="90"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="negative" from="120" to="125"/>
+				<Opinion target="majitel" category="SERVICE#GENERAL" polarity="negative" from="158" to="165"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6be791c3-59cf-4eb1-bf6d-73ecf96aa296">
+			<text>Super hospůdka, luxusní jídlo.</text>
+			<Opinions>
+				<Opinion target="hospůdka" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="14"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="24" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b6fcee8f-c05b-4c13-9470-77975bef8a47">
+			<text>Pajzl o kterém se zmiňuji je jedna Velká popelnice bordelu, smradu a nechutnosti</text>
+			<Opinions>
+				<Opinion target="Pajzl" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="5"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5ff6b9d3-7043-4cf1-a8c5-55b65b44fa33">
+			<text>Nechápu, jak je možné, když si zavolám a objednám na určitou hodinu, určité jídlo z voucheru, dostanu zcela něco jiného</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="0" to="0"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1965784c-5b6b-4cd5-a525-075e8843ff91">
+			<text>Za mě super</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a239c084-c49c-40cd-8ab6-e00012accb4e">
+			<text>Musím říct že se mi to nestalo už hodně dlouho,aby jsme s paní odcházeli takhle nadšeni.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7c552885-bfa5-4713-9c58-e074a96c0a43">
+			<text>Vynikající zahrádka,velký výběr piv.</text>
+			<Opinions>
+				<Opinion target="zahrádka" category="AMBIENCE#GENERAL" polarity="positive" from="11" to="19"/>
+				<Opinion target="piv" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="32" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3ee62721-f5fb-44e9-a800-0760f343a6a5">
+			<text>Když vstoupíte do restaurace. Cítíte se jako v Itálii. Je to všechno hezké a nové. Jídlo bylo vynikající a osobní bylo tak milé. Vrátím se znovu.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="AMBIENCE#GENERAL" polarity="positive" from="18" to="28"/>
+				<Opinion target="Jídlo" category="FOOD#QUALITY" polarity="positive" from="83" to="88"/>
+				<Opinion target="osobní" category="SERVICE#GENERAL" polarity="positive" from="107" to="113"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3704905d-135d-4377-ae7f-ecb1937371e0">
+			<text>Rozhodně NEDOPORUČUJI - tuto restauraci nikdy nenavštívíme</text>
+			<Opinions>
+				<Opinion target="restauraci" category="RESTAURANT#GENERAL" polarity="negative" from="29" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="52867d5d-bdc4-4807-aeac-4f2b500246d3">
+			<text>Opravdu zloději, přece si tohle nemůžeme nechat líbit</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="abe9d513-a830-4c23-8685-c1dc66741661">
+			<text>Vstřícná obsluha, příjemné prostředí, velký výběr jídla za slušné ceny, možnost vzít jídlo s sebou i objednat předem, možnost uplatnit stravenky, již lze platit kartou</text>
+			<Opinions>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="9" to="16"/>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="27" to="36"/>
+				<Opinion target="jídla" category="FOOD#PRICES" polarity="positive" from="50" to="55"/>
+				<Opinion target="jídla" category="FOOD#STYLE_OPTIONS" polarity="positive" from="50" to="55"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f0be3f6f-d250-4912-b69d-fcfd2df39920">
+			<text>Posezení velmi příjemné, i když je tedy fakt, že ve třetím patře je jídlo hodně cítit</text>
+			<Opinions>
+				<Opinion target="Posezení" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="8"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="neutral" from="68" to="73"/>
+			</Opinions>
+		</sentence>
+		<sentence id="736a9f71-8715-43e6-8ec8-53aa0c81c7a9">
+			<text>super pivko a pecena krkovicka</text>
+			<Opinions>
+				<Opinion target="pivko" category="DRINKS#QUALITY" polarity="positive" from="6" to="11"/>
+				<Opinion target="pecena krkovicka" category="FOOD#QUALITY" polarity="positive" from="14" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0b45f405-fd7e-47f2-af5c-5347a688198d">
+			<text>Nevím, jaký Sklípek to byl dřív, ale teď je to fajn hospůdka, kam se rádi vrátíme</text>
+			<Opinions>
+				<Opinion target="hospůdka" category="RESTAURANT#GENERAL" polarity="positive" from="52" to="60"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bd2be509-ffb1-45a1-bf12-221baa27770c" OutOfScope="TRUE">
+			<text>Byli jsme tam s přítelem na snídani.</text>
+		</sentence>
+		<sentence id="82268dec-374d-47ae-9517-ecc4e05405c2">
+			<text>Velmi příjemné prostředí, milá a ochotná obsluha, výborné jídlo. Delší čekání na jídlo byla jediná vada na kráse.</text>
+			<Opinions>
+				<Opinion target="prostředí" category="AMBIENCE#GENERAL" polarity="positive" from="15" to="24"/>
+				<Opinion target="obsluha" category="SERVICE#GENERAL" polarity="positive" from="41" to="48"/>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="58" to="63"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cbf22bb7-4ade-437c-b04e-20d83bd65463">
+			<text>Přijdu do docela pěkně vypadající hospody se najíst, požádam tedy po chvilce o pivko a jídelní lístek.</text>
+			<Opinions>
+				<Opinion target="hospody" category="AMBIENCE#GENERAL" polarity="positive" from="34" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f4552a5e-1cfb-4fa6-9c12-d4879f811d7b">
+			<text>Byli jsme u Štěpána 1.7. po dlouhém čekání na rezervaci</text>
+			<Opinions>
+				<Opinion target="u Štěpána" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="10" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ea96da88-532d-4bb7-9c59-952ef7aca2e0">
+			<text>Absolutně jsem nečekal že se tady vaří a už vůbec ne že se tedy vaří tak skvěle. Byli jsme velice nadšení.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d1e0811f-2a74-4da0-984a-7be5e739129d">
+			<text>Už při příjezdu mne zaujalo,že u hospody stála v podstatě jen pražská auta</text>
+			<Opinions>
+				<Opinion target="hospody" category="RESTAURANT#GENERAL" polarity="neutral" from="33" to="40"/>
+			</Opinions>
+		</sentence>
+		<sentence id="88b41721-55c0-48ce-81ee-d17acf08608f">
+			<text>Asi nejlepší restaurace v okolí. Vždy si vybírám z denních menu.</text>
+			<Opinions>
+				<Opinion target="restaurace" category="RESTAURANT#GENERAL" polarity="positive" from="13" to="23"/>
+				<Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="59" to="63"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d285c88a-2ef1-44ab-8777-d8743626129d">
+			<text>Tie ceny sú trošku vyššie, ale za kvalitu sa platí, takže proti tomu nič nemám</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4517f784-3ab8-45da-bbc1-2d90ab980aa9">
+			<text>Dobré jídlo, dobré pivo, vždy zabalené, takže rezervace se doporučuje.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="6" to="11"/>
+				<Opinion target="pivo" category="DRINKS#QUALITY" polarity="positive" from="19" to="23"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="52be2474-7c62-48a3-a44a-6fcd445b099c">
+			<text>Servírka byla drzá, arogantní a neochotná</text>
+			<Opinions>
+				<Opinion target="Servírka" category="SERVICE#GENERAL" polarity="negative" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cf37850b-6986-4937-ac13-836313ba58d7">
+			<text>Moc neosobní</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="01bb753a-0549-40f1-ac7c-883558139ab2">
+			<text>Obsluha drzá, opravit částku se jim nechtělo.</text>
+			<Opinions>
+				<Opinion target="Obsluha" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="61cea585-3eae-4e94-b47d-8d5df37daf6f">
+			<text>Nejlepší smažák!! NEJLEPŠÍ DOMACÍ TATARKA ❤😉</text>
+			<Opinions>
+				<Opinion target="smažák" category="FOOD#QUALITY" polarity="positive" from="9" to="15"/>
+				<Opinion target="DOMACÍ TATARKA" category="FOOD#QUALITY" polarity="positive" from="27" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e5bea730-6e74-4615-88cd-3c927a4a1aa7">
+			<text>Restaure Musta koira je pro Nás ta nejlepší volba</text>
+			<Opinions>
+				<Opinion target="Restaure Musta koira" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d02b73ba-c76a-482f-9fa9-92aef72c14ad">
+			<text>Pizza lehce potřená kečupem, tak 5 kousky masa, trochu síra....Okraje totálně suché...Rozhodně za to bych se styděl i já, dát to někomu na talíř...</text>
+			<Opinions>
+				<Opinion target="Pizza" category="FOOD#QUALITY" polarity="negative" from="0" to="5"/>
+				<Opinion target="kečupem" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="20" to="27"/>
+				<Opinion target="masa" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="42" to="46"/>
+				<Opinion target="síra" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="55" to="59"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e2d5e5cf-e3c1-440a-befd-edd6048b8e14">
+			<text>Vzhledem k tomu že sem chodím na jídlo pravidelně se známími a vždy se dobře najíme, nechápu kde se bere tolik negativních lidi co tady šíří pomluvy</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#QUALITY" polarity="positive" from="33" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e793e135-4c81-41a2-86e2-40ce894bfe80">
+			<text>Mám rád indické jídlo, proto postupně obcházím všechny po Brně dostupné. Light of india mě oslovila celkem příjemným interiérem. Čekal bych, že bude hrát autentická indická hudba, což se nekonalo ale hudba není to proč chodím do indických restaurací :) Na jídlo jsem čekal minimální dobu, což bylo dáno tím, že jsem v restauraci byl jediný (přece jen ve 2 hodiny odpoledne o víkendu je to normální). Co se týče jídla (chicken thali), tak bylo super. Chutnalo. A porce byla velká. Na pití byla pivo polička, které též OK. Během mé návštěvy si přišel objednat jídlo anglicky mluvící člověk, s čím si číšník moc nerozuměl (to by chtělo zlepšit). Cena za jídlo průměrná. Určitě se ještě někdy zajdu podívat.</text>
+			<Opinions>
+				<Opinion target="jídlo" category="FOOD#PRICES" polarity="neutral" from="16" to="21"/>
+				<Opinion target="chicken thali" category="FOOD#QUALITY" polarity="positive" from="418" to="431"/>
+				<Opinion target="porce" category="FOOD#STYLE_OPTIONS" polarity="positive" from="462" to="467"/>
+				<Opinion target="pivo polička" category="DRINKS#PRICES" polarity="neutral" from="493" to="505"/>
+				<Opinion target="číšník" category="SERVICE#GENERAL" polarity="neutral" from="598" to="604"/>
+			</Opinions>
+		</sentence>
+	</sentences>
+</Reviews>

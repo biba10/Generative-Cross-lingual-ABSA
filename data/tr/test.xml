@@ -1,0 +1,844 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence OutOfScope="TRUE" id="a550609c-622d-444e-b14b-48515aaf1a45">
+			<text>Ogle yumegi zaman roll sushi menu var.</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="2f0be04e-dfa2-4a37-9208-f28c552ab10b">
+			<text>33TL acaba icecek icinde.</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="ce48453b-03f8-4726-83ba-336cd7d771a0">
+			<text>Biraz once gittim .</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="d8a386b6-bdb4-4d38-981b-f4b8139a2f7b">
+			<text>Ama fiyat degisti olabilir.</text>
+		</sentence>
+		<sentence id="0ccab9d3-4b23-417e-9354-97862a124437">
+			<text>Serviste cok guzel.</text>
+			<Opinions>
+				<Opinion target="Serviste" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="de18c76f-ca3b-40d7-b693-a232e722159a">
+			<text>Ortam cok guzel.</text>
+			<Opinions>
+				<Opinion target="Ortam" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c949a77-12b3-45b7-8750-be98546e8df0">
+			<text>Lezzetliydi.</text>
+			<Opinions>
+				<Opinion target="" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bd78a33a-289f-4319-8664-ad2e298dde2d">
+			<text>En beğendigimiz sushico şubesi.</text>
+			<Opinions>
+				<Opinion target="sushico şubesi" category="RESTAURANT#GENERAL" polarity="positive" from="16" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="83d0f775-82ca-47d3-bc4c-bd8f832ac9aa">
+			<text>Bahçesi çok güzel ve ferah.</text>
+			<Opinions>
+				<Opinion target="Bahçesi" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="409588bd-a8e8-43f9-9713-94191a5ac818">
+			<text>Sushi ustasi cok becerikli ve şakaci :</text>
+			<Opinions>
+				<Opinion target="Sushi ustasi" category="SERVICE#GENERAL" polarity="positive" from="0" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="df3a12ac-a1be-4ad4-997c-2ea959ee03bc">
+			<text>) yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz</text>
+			<Opinions>
+				<Opinion target="servis" category="SERVICE#GENERAL" polarity="negative" from="25" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d394c9ed-f331-4fdf-8963-5907333ef0ea">
+			<text>Menü çeşitleri zengin.</text>
+			<Opinions>
+				<Opinion target="Menü çeşitleri" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="31d30928-8ecf-4f88-863b-d08938563164">
+			<text>Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan.</text>
+			<Opinions>
+				<Opinion target="mekan" category="AMBIENCE#GENERAL" polarity="positive" from="107" to="112"/>
+				<Opinion target="Fiyatları" category="RESTAURANT#PRICES" polarity="negative" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="24e08f69-1c71-4b74-a37e-5aae9a9b3e0f">
+			<text>Muhallebici ama...</text>
+		</sentence>
+		<sentence id="440b21d1-678c-4f1a-a119-a7874bc08533">
+			<text>- Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum.</text>
+			<Opinions>
+				<Opinion target="künefesini" category="FOOD#QUALITY" polarity="positive" from="62" to="72"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="5b08838f-93b2-460d-980e-28f9519d8dcc">
+			<text>Geçen sene haftada bir künefe yemege giderdim.</text>
+		</sentence>
+		<sentence id="c5558289-f59f-40c0-b5ab-1e5bbf87b288">
+			<text>Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.</text>
+			<Opinions>
+				<Opinion target="saç arasi" category="FOOD#QUALITY" polarity="positive" from="27" to="36"/>
+				<Opinion target="tavuk sis" category="FOOD#QUALITY" polarity="positive" from="41" to="50"/>
+				<Opinion target="ekmeklerde" category="FOOD#QUALITY" polarity="positive" from="60" to="70"/>
+				<Opinion target="biçak arasi" category="FOOD#QUALITY" polarity="positive" from="12" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2210c479-8b3b-4fcd-9001-9783996d26fd">
+			<text>Konyada yemedim ama yiyenlerinde begendigi bir mekan.</text>
+			<Opinions>
+				<Opinion target="mekan" category="RESTAURANT#GENERAL" polarity="positive" from="47" to="52"/>
+			</Opinions>
+		</sentence>
+		<sentence id="312adad0-a4b7-4beb-860d-56d16a43caab">
+			<text>Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor.</text>
+			<Opinions>
+				<Opinion target="Servis" category="SERVICE#GENERAL" polarity="negative" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7142bbe2-f2e7-417c-921a-a42e0657d756">
+			<text>35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de.</text>
+			<Opinions>
+				<Opinion target="kola" category="DRINKS#QUALITY" polarity="negative" from="54" to="58"/>
+			</Opinions>
+		</sentence>
+		<sentence id="84bfea4c-6ce2-4d7a-90f6-410d9c16141f">
+			<text>Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz.</text>
+			<Opinions>
+				<Opinion target="tatların" category="FOOD#QUALITY" polarity="positive" from="135" to="143"/>
+				<Opinion target="mekanın" category="RESTAURANT#GENERAL" polarity="positive" from="124" to="131"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ec434f02-38c6-47ae-a609-f254d91f534e">
+			<text>Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .</text>
+			<Opinions>
+				<Opinion target="Et" category="FOOD#QUALITY" polarity="positive" from="0" to="2"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6370affd-0b09-4f37-ac03-0212b680a149">
+			<text>Tatlılar da bir o kadar harikadır.</text>
+			<Opinions>
+				<Opinion target="Tatlılar" category="FOOD#QUALITY" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5a218c31-4112-4517-b2eb-cfd04cb6f7c7">
+			<text>Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir.</text>
+			<Opinions>
+				<Opinion target="Mekanın sahibi" category="SERVICE#GENERAL" polarity="positive" from="0" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2582a29e-2d8e-4ee4-a6ee-29ad6d0ebabd">
+			<text>Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti'den iyisi yoktur !</text>
+			<Opinions>
+				<Opinion target="yemek" category="FOOD#QUALITY" polarity="positive" from="47" to="52"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c510175-6b27-44a0-b2a4-b51b7e5ec8ee">
+			<text>Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun...</text>
+			<Opinions>
+				<Opinion target="lezzetleri" category="FOOD#QUALITY" polarity="positive" from="89" to="99"/>
+				<Opinion target="dekorasyonu" category="AMBIENCE#GENERAL" polarity="positive" from="63" to="74"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ccbd100c-357c-49f3-aebd-f8d63cf0dc6d">
+			<text>Servis kotu, mekan fazla aydinlik ve gurultulu.</text>
+			<Opinions>
+				<Opinion target="mekan" category="AMBIENCE#GENERAL" polarity="negative" from="13" to="18"/>
+				<Opinion target="Servis" category="SERVICE#GENERAL" polarity="negative" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d1a68092-ed38-4644-a95d-1c5bdeb2372a">
+			<text>Garsonlarin ilgisizligi cabasi.</text>
+			<Opinions>
+				<Opinion target="Garsonlarin" category="SERVICE#GENERAL" polarity="negative" from="0" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="005a6d76-80a9-4938-9afc-2d053b4a92c3">
+			<text>Yemekler soguk ve gec geliyor.</text>
+			<Opinions>
+				<Opinion target="Yemekler" category="FOOD#QUALITY" polarity="negative" from="0" to="8"/>
+				<Opinion target="geliyor" category="SERVICE#GENERAL" polarity="negative" from="22" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ff2df944-cbac-4228-be8b-955ad7f1d30b">
+			<text>Tek guzelligi Marina manzarasi.</text>
+			<Opinions>
+				<Opinion target="Marina manzarasi" category="AMBIENCE#GENERAL" polarity="positive" from="14" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9f36aeec-e05c-4e0b-bf91-3af5be853334">
+			<text>Bide Cikolatali Karayip katlarini met etmeden yapamiycam.</text>
+			<Opinions>
+				<Opinion target="Cikolatali Karayip katlarini" category="FOOD#QUALITY" polarity="positive" from="5" to="33"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b489b877-bd10-4aea-8695-c424ef0c770a">
+			<text>İstikrarli.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f934dc4e-7966-47ef-997f-b99442a325fd">
+			<text>- Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar?</text>
+			<Opinions>
+				<Opinion target="susi" category="FOOD#QUALITY" polarity="negative" from="42" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="8ff83594-6271-44fe-b914-6a9e33a99b39">
+			<text>So so - Çok bir sey beklemeyin, Quick China kadar iyi degil.</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="373a02ab-622a-4c4c-8cfa-128800fe47f7">
+			<text>Bu akimin öncülerinden; ancak Quick China bence Sushico'yu solladi.</text>
+		</sentence>
+		<sentence id="7dc01481-8236-4957-9514-884996b490d6">
+			<text>Sushiler gene basarili; ama yemekler ciddi anlamda bozuldu.</text>
+			<Opinions>
+				<Opinion target="Sushiler" category="FOOD#QUALITY" polarity="positive" from="0" to="8"/>
+				<Opinion target="yemekler" category="FOOD#QUALITY" polarity="negative" from="28" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="fdfeb56c-5ab2-4e12-8b57-10ebf64143c4">
+			<text>Sanirim ahçi isten ayrildi.</text>
+		</sentence>
+		<sentence id="b7dddd19-baa8-493e-8dda-18b39c45f83b">
+			<text>Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda.</text>
+			<Opinions>
+				<Opinion target="yemeklerinizz" category="FOOD#QUALITY" polarity="positive" from="34" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="670a9042-8ae6-4048-9b24-0948afc69909">
+			<text>Garsonlarin servis sunumunda hersey dört dört lük.</text>
+			<Opinions>
+				<Opinion target="Garsonlarin" category="SERVICE#GENERAL" polarity="positive" from="0" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="69fa003a-f7c2-4702-a985-82d1bc3ce681">
+			<text>Tesekkur ediyorum.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="a46d41d4-b25d-4d8a-977e-ffcade234e7b">
+			<text>Calisanlara ve sizlere.</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="cd8d8b6e-b45a-4b5e-97bc-e0ce8e452423">
+			<text>Cem Boyraz</text>
+		</sentence>
+		<sentence id="327f3442-2b71-4480-9b6a-95e0919a0c4b">
+			<text>Tavsiye bicak arasi yemeniz .</text>
+			<Opinions>
+				<Opinion target="bicak arasi" category="FOOD#QUALITY" polarity="positive" from="8" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="40d408e9-cbc2-485a-978f-eef17abdfc64">
+			<text>Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .</text>
+			<Opinions>
+				<Opinion target="lezzetler" category="FOOD#STYLE_OPTIONS" polarity="positive" from="72" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="df71c855-3339-4bea-9f98-8dd51b83b75a">
+			<text>Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim.</text>
+			<Opinions>
+				<Opinion target="Çikolatalı Saray muhallebisi" category="FOOD#QUALITY" polarity="positive" from="0" to="28"/>
+				<Opinion target="krem karamel" category="FOOD#QUALITY" polarity="positive" from="31" to="43"/>
+				<Opinion target="ayva tatlısından" category="FOOD#QUALITY" polarity="positive" from="47" to="63"/>
+			</Opinions>
+		</sentence>
+		<sentence id="82899d56-0cca-4aa1-b5cb-7b2129796458">
+			<text>Bu konuda onların eline kolay kolay kimse su süremez.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b984dfae-f679-4513-8fe3-9394c0b2a16c">
+			<text>Çok açsanız pilav üstü döneri deneminizi tavsiye ederim.</text>
+			<Opinions>
+				<Opinion target="pilav üstü döneri" category="FOOD#QUALITY" polarity="positive" from="12" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="24ddd87a-6511-43a4-94d7-a50e4080782e">
+			<text>Sadece teras katı oturulabilir olan bi şubesi.</text>
+			<Opinions>
+				<Opinion target="şubesi" category="AMBIENCE#GENERAL" polarity="negative" from="39" to="45"/>
+			</Opinions>
+		</sentence>
+		<sentence id="adfe5b43-346c-48a7-ad91-956a4da87dd3">
+			<text>Diğer katlara pekte gerek yokmuş.</text>
+			<Opinions>
+				<Opinion target="katlara" category="RESTAURANT#GENERAL" polarity="negative" from="6" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="82a79df7-febc-4115-92bf-6111fed9bdfc">
+			<text>Çalışanlar oldukca ilgili alakalı .</text>
+			<Opinions>
+				<Opinion target="Çalışanlar" category="SERVICE#GENERAL" polarity="positive" from="0" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cebbf0a6-6b47-45a3-b133-5ec0d7139701">
+			<text>fiyatlar aynı yani normal .</text>
+			<Opinions>
+				<Opinion target="fiyatlar" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="424a6958-7e58-4afc-84c4-038f1ecc8081">
+			<text>teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz.</text>
+			<Opinions>
+				<Opinion target="teras katında" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="562a0d64-8d21-457f-a8ba-66d314c5bf94">
+			<text>Denemek lazim - Ögle arasinda is yerinden arkadaslar ile gittik.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="53304317-3918-4633-ac9f-d9b2b4d82142">
+			<text>Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus.</text>
+			<Opinions>
+				<Opinion target="fiyatlar" category="FOOD#PRICES" polarity="negative" from="58" to="66"/>
+				<Opinion target="Biçak arasi" category="FOOD#QUALITY" polarity="positive" from="0" to="11"/>
+				<Opinion target="saç arasi" category="FOOD#QUALITY" polarity="positive" from="17" to="26"/>
+				<Opinion target="garsonlar" category="SERVICE#GENERAL" polarity="negative" from="37" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="68ef4219-1b9d-4eb6-90ab-d29402146677">
+			<text>Ama gene de gitmek lazim.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2f22c081-8efb-45a2-8ac6-31740141b5af">
+			<text>Etli ekmeğinin Konya'daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan/dı.</text>
+			<Opinions>
+				<Opinion target="Etli ekmeğinin" category="FOOD#QUALITY" polarity="positive" from="0" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3c000abe-13fc-45d2-b306-7ec5917c5744">
+			<text>Başakşehir şubesi açıldığından beri o eski Ovalı değil.</text>
+			<Opinions>
+				<Opinion target="Başakşehir şubesi" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="1d0a3a1f-b830-43d7-b97f-0e60bec39ad4">
+			<text>Başakşehir'deki açık ara daha iyi.</text>
+		</sentence>
+		<sentence id="f80d2a50-b34d-41e0-87a2-8a471e1ebcb7">
+			<text>mekanın yeri çok güzel.</text>
+			<Opinions>
+				<Opinion target="mekanın yeri" category="LOCATION#GENERAL" polarity="positive" from="0" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a9219ddc-c41e-4b70-82a7-e9cf353f19e7">
+			<text>çalışanları kibar.</text>
+			<Opinions>
+				<Opinion target="çalışanları" category="SERVICE#GENERAL" polarity="positive" from="0" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8733ded4-14d3-4dbc-be01-ab58ebfcc6b9">
+			<text>lezzetine güvenebileceğiniz bir zincir zaten.</text>
+			<Opinions>
+				<Opinion target="lezzetine" category="FOOD#QUALITY" polarity="positive" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="76074fb0-ec59-4abd-8b55-98ba78388c8b">
+			<text>deniz ürünleri salatası çok lezzetli.</text>
+			<Opinions>
+				<Opinion target="deniz ürünleri salatası" category="FOOD#QUALITY" polarity="positive" from="0" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e37bcef6-f1cc-46d0-a86b-750add10876f">
+			<text>ahtapot, karides, kalamar, somon füme ; ne ararsanız var içinde.</text>
+			<Opinions>
+				<Opinion target="ahtapot karides kalamar somon" category="FOOD#STYLE_OPTIONS" polarity="positive" from="-1" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="971e3943-d517-43ae-887f-229836e94077">
+			<text>sağlıklı ve hafif.</text>
+			<Opinions>
+				<Opinion target="" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9b6249ad-2dc6-40d7-aa3e-b0ba2870e861">
+			<text>Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan.</text>
+			<Opinions>
+				<Opinion target="mekan" category="RESTAURANT#GENERAL" polarity="negative" from="93" to="98"/>
+			</Opinions>
+		</sentence>
+		<sentence id="870a471e-0e43-4554-ad84-2297912bb39f">
+			<text>Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta.</text>
+			<Opinions>
+				<Opinion target="aksesuarlar" category="AMBIENCE#GENERAL" polarity="negative" from="89" to="100"/>
+				<Opinion target="mekan" category="AMBIENCE#GENERAL" polarity="negative" from="51" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="902cc674-d2fc-4da5-8fb6-919066bbe3b7">
+			<text>Yemeklere gelince döner tatsız tuzsuz, et köfte Pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi.</text>
+			<Opinions>
+				<Opinion target="döner" category="FOOD#QUALITY" polarity="negative" from="18" to="23"/>
+				<Opinion target="kırmızı et" category="FOOD#QUALITY" polarity="negative" from="83" to="93"/>
+				<Opinion target="et köfte" category="FOOD#QUALITY" polarity="negative" from="39" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="004d849b-fd72-4db0-9fcf-6aad7c890df5">
+			<text>Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı.</text>
+			<Opinions>
+				<Opinion target="künefe" category="FOOD#QUALITY" polarity="negative" from="6" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fdea032b-5763-4ead-8602-ffcba9924a8d">
+			<text>Illa kebap yemek istiyorsanız başka tercihlere yönelin derim...</text>
+			<Opinions>
+				<Opinion target="kebap" category="FOOD#QUALITY" polarity="negative" from="5" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="59965fa1-1fab-47dc-b98b-afe19f1f8097">
+			<text>Uzun zamandir gitmemistim ve iyi ki gitmemisim.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3a706399-f236-4f7d-938b-876dd87b8d71">
+			<text>Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl.</text>
+			<Opinions>
+				<Opinion target="lahmacunu tavugu" category="FOOD#QUALITY" polarity="negative" from="10" to="26"/>
+				<Opinion target="hesap" category="FOOD#PRICES" polarity="negative" from="45" to="50"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eeaafe02-a3b9-4280-be12-b81ef3c998ea">
+			<text>Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode</text>
+			<Opinions>
+				<Opinion target="design" category="AMBIENCE#GENERAL" polarity="negative" from="24" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="47116cd4-9ce7-437a-ae3b-542f1c99cb59">
+			<text>100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda.</text>
+			<Opinions>
+				<Opinion target="1600 tl" category="RESTAURANT#PRICES" polarity="negative" from="34" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="db826491-c835-425b-b08d-e014dcd9f186">
+			<text>kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun</text>
+			<Opinions>
+				<Opinion target="kahve ve caylar" category="DRINKS#PRICES" polarity="negative" from="0" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="69526d64-2855-4e78-94ce-8ecd7bd1ef21">
+			<text>Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli.</text>
+			<Opinions>
+				<Opinion target="oturumu" category="AMBIENCE#GENERAL" polarity="positive" from="40" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f7f71165-a780-4647-b023-03cadd762c87">
+			<text>Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor.</text>
+			<Opinions>
+				<Opinion target="servis" category="SERVICE#GENERAL" polarity="negative" from="51" to="57"/>
+				<Opinion target="personel" category="SERVICE#GENERAL" polarity="negative" from="28" to="36"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a22b076f-18af-444b-9fe9-fd93ebcbf515">
+			<text>Yemekleri gayet güzel</text>
+			<Opinions>
+				<Opinion target="Yemekleri" category="FOOD#QUALITY" polarity="positive" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6c3e6e81-7b92-436e-afb4-a962e2e45820">
+			<text>İftar servisini çok zayıf bulduk.</text>
+			<Opinions>
+				<Opinion target="İftar servisini" category="SERVICE#GENERAL" polarity="negative" from="0" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f5284684-1586-427c-ae98-46b283971433">
+			<text>500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum.</text>
+			<Opinions>
+				<Opinion target="servis" category="SERVICE#GENERAL" polarity="negative" from="20" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="47f6842e-c348-493f-8ee3-66bb7d69990b">
+			<text>Ramazanda tavsiye etmiyorum.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e2006efc-75d8-4fd5-b760-6387de5e91bd">
+			<text>Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki.</text>
+			<Opinions>
+				<Opinion target="çalışanları" category="SERVICE#GENERAL" polarity="positive" from="42" to="53"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c4c9240e-54c9-4dc7-8291-539a562462f1">
+			<text>Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .</text>
+			<Opinions>
+				<Opinion target="fiyata" category="RESTAURANT#PRICES" polarity="positive" from="3" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="27bae2f9-9f96-4bfc-bc97-3a9a93c6926e">
+			<text>Mekan hiç boğucu degil gayet güzel</text>
+			<Opinions>
+				<Opinion target="Mekan" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="1afd233c-3ebf-43f8-bc30-a290006ce79a">
+			<text>Akrabalar bizi goturdu.</text>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="01c13235-6233-45ff-a242-53da2eb1cccc">
+			<text>Burasi turkiyedeki eti restoran olarak mukenmel restorant biriymis.</text>
+		</sentence>
+		<sentence id="59ebd6bc-03e8-4c67-ab85-d0a32dabf660">
+			<text>Tabi ki et yemekler hepsi cok harika.</text>
+			<Opinions>
+				<Opinion target="et yemekler" category="FOOD#QUALITY" polarity="positive" from="8" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="05767962-0ad9-48e0-abcf-89099f7dc9c4">
+			<text>Tarihi bina da begendim.</text>
+			<Opinions>
+				<Opinion target="Tarihi bina" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="78e300fb-9703-423b-abc0-48ed7ba2805b">
+			<text>Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim.</text>
+			<Opinions>
+				<Opinion target="Bıçak arası" category="FOOD#QUALITY" polarity="positive" from="30" to="41"/>
+				<Opinion target="Tereyağlı Mercimek Çorbası" category="FOOD#QUALITY" polarity="positive" from="0" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3f6bcd0c-7fc5-4189-a0ea-ba1965dcba82">
+			<text>Her Şubesi'nde aynı kaliteyi yakalamışlar.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e449ba9-81ff-42ec-8133-e46b207b6c14">
+			<text>Sadece döner olayını pek yapamıyorlar.</text>
+			<Opinions>
+				<Opinion target="döner" category="FOOD#QUALITY" polarity="negative" from="7" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f386381b-3f22-4914-b246-727551d9b029">
+			<text>Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor.</text>
+			<Opinions>
+				<Opinion target="ambiyans" category="AMBIENCE#GENERAL" polarity="positive" from="57" to="65"/>
+			</Opinions>
+		</sentence>
+		<sentence id="20ebb10c-1cac-42ca-badf-358109b0faca">
+			<text>Farkli tatlar icin dusunulebilinir.</text>
+			<Opinions>
+				<Opinion target="tatlar" category="FOOD#STYLE_OPTIONS" polarity="positive" from="7" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f7a44af-111c-4ef9-ae53-0a97ab886be0">
+			<text>Tavuklarin iri dogranmis olmasi pek hos degil.</text>
+			<Opinions>
+				<Opinion target="Tavuklarin" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f445a94d-283e-4426-ade9-50012781e43c">
+			<text>Pilavda su tadi aliyorsunuz.</text>
+			<Opinions>
+				<Opinion target="Pilavda" category="FOOD#QUALITY" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d809e385-782b-4024-a365-75adb568cd82">
+			<text>Bir de üstüne 9,5 TL veriyorsunuz.</text>
+			<Opinions>
+				<Opinion target="9,5 TL" category="RESTAURANT#PRICES" polarity="negative" from="14" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="0ef6a690-0ba8-4c9a-a1b4-b1f9ac22caa5">
+			<text>Afiyet oldu mu simdi bana :</text>
+		</sentence>
+		<sentence id="33f1173a-0f95-4118-a85c-8af5ebcbc2db">
+			<text>Tercih etmem - Pazar günü kahvalti için gittim.</text>
+			<Opinions>
+				<Opinion target="kahvalti" category="FOOD#QUALITY" polarity="negative" from="26" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3711d59e-07a2-41dd-bef5-76458783fe29">
+			<text>Daha önce Nisantasi'nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim.</text>
+			<Opinions>
+				<Opinion target="kahvalti" category="FOOD#QUALITY" polarity="positive" from="63" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7c3019d3-5b70-44ed-8fb9-3eaeaedea670">
+			<text>Ama bu sefer Beyoglu'nda ki subede hiç memnun kalmadim.</text>
+			<Opinions>
+				<Opinion target="Beyoglu'nda ki subede" category="RESTAURANT#GENERAL" polarity="negative" from="13" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="67b71362-8c5e-4c23-bb2a-6a60e3a4052d">
+			<text>Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey.</text>
+			<Opinions>
+				<Opinion target="Garsonlari" category="SERVICE#GENERAL" polarity="positive" from="21" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a3da8563-aeaa-4ef3-b31a-618700e31a32">
+			<text>Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !</text>
+			<Opinions>
+				<Opinion target="fiyatlar" category="FOOD#PRICES" polarity="negative" from="6" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5ca56b88-d8ce-40fa-941d-e246d2dca60e">
+			<text>Konumu, manzarası, lezzeti şahane...</text>
+			<Opinions>
+				<Opinion target="lezzeti" category="FOOD#QUALITY" polarity="positive" from="19" to="26"/>
+				<Opinion target="manzarası" category="AMBIENCE#GENERAL" polarity="positive" from="8" to="17"/>
+				<Opinion target="Konumu" category="LOCATION#GENERAL" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4ef09cfe-3c90-4a33-beb1-9ba0e0847e45">
+			<text>Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu...</text>
+			<Opinions>
+				<Opinion target="lahmacun" category="FOOD#QUALITY" polarity="positive" from="27" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c8f04c8e-5451-4d55-af18-b64fcf4eded8">
+			<text>Kebapları zaten muazzam :</text>
+			<Opinions>
+				<Opinion target="Kebapları" category="FOOD#QUALITY" polarity="positive" from="0" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="55ba7dce-084f-4c47-aada-aa15e74413b8">
+			<text>Yani en basitinden en zoruna...</text>
+		</sentence>
+		<sentence id="c51476a1-d5ab-4f04-bc8c-eeadcd58de22">
+			<text>Hepsi harika...</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f9c6c3cc-2929-40ab-90a4-9ee7ff774f72">
+			<text>Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :</text>
+			<Opinions>
+				<Opinion target="mekan" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="55" to="60"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="86e75fa1-6065-45ca-ae02-d15fe8a6b117">
+			<text>Bu mekan newyorkta olsa yemek yemek için bir sene önceden rezervasyon yaptırmak gerekirdi.</text>
+		</sentence>
+		<sentence id="2e412f9e-dff2-4ce8-842e-e7855de5f9b0">
+			<text>Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar.</text>
+			<Opinions>
+				<Opinion target="salonlar" category="AMBIENCE#GENERAL" polarity="positive" from="12" to="20"/>
+				<Opinion target="garsonlar" category="SERVICE#GENERAL" polarity="positive" from="42" to="51"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fefacf03-8e2f-48d2-a9fd-6bd680265621">
+			<text>Etler için yoruma gerek yok.</text>
+			<Opinions>
+				<Opinion target="Etler" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3b8e5d9b-1495-4798-969c-1577f76615fb">
+			<text>Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız.</text>
+			<Opinions>
+				<Opinion target="kuzu kol" category="FOOD#QUALITY" polarity="positive" from="36" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c01d8e7-fd57-4465-badf-acb9d906f710">
+			<text>zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim.</text>
+			<Opinions>
+				<Opinion target="koyu ayranı" category="DRINKS#QUALITY" polarity="positive" from="91" to="102"/>
+				<Opinion target="imambayıldı" category="FOOD#QUALITY" polarity="positive" from="31" to="42"/>
+				<Opinion target="zeytinyağlılar" category="FOOD#QUALITY" polarity="positive" from="0" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8ee7145f-a164-4a49-8872-68f010fa8d91">
+			<text>İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika'da yer iseniz 3 kat fazlasını ödemek zorundasınız.</text>
+			<Opinions>
+				<Opinion target="fiyatlara" category="RESTAURANT#PRICES" polarity="neutral" from="3" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="d31fe275-4b21-46f9-a3cb-8247de84abfb">
+			<text>Mahalle lokantasi - Yillardan beri Sushico Nisantasi'nda.</text>
+		</sentence>
+		<sentence id="ee6789ff-0bb9-45bb-8c23-236f0a272036">
+			<text>Ara sira gidilebilecek bir lokanta.</text>
+			<Opinions>
+				<Opinion target="lokanta" category="RESTAURANT#GENERAL" polarity="neutral" from="27" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8c2102be-8b9f-4494-9904-1eb09c44fcf0">
+			<text>Susileri belli bir seviyede her zaman, asagi düsmüyor.</text>
+			<Opinions>
+				<Opinion target="Susileri" category="FOOD#QUALITY" polarity="positive" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1895e1a0-23fe-46d1-a9b0-37bfce00ec9c">
+			<text>Çin yemekleri de fena degil.</text>
+			<Opinions>
+				<Opinion target="Çin yemekleri" category="FOOD#QUALITY" polarity="positive" from="0" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="643e5604-f0b4-467c-8185-e7a76b37b817">
+			<text>sabahları börekleri.</text>
+		</sentence>
+		<sentence id="03359d6e-78d3-49e0-a89c-29391d43a7b4">
+			<text>öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan.</text>
+			<Opinions>
+				<Opinion target="öğle ve akşam yemekleriyle" category="FOOD#QUALITY" polarity="positive" from="0" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9a062639-444b-4343-914a-c3611d4b12c1">
+			<text>tatlılarını övmeye gerek bile görmüyorum.</text>
+			<Opinions>
+				<Opinion target="tatlılarını" category="FOOD#QUALITY" polarity="positive" from="0" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c1f01954-a3ee-4c44-b9e9-13641defca1f">
+			<text>yazın dondurması da denenmeli.</text>
+			<Opinions>
+				<Opinion target="dondurması" category="FOOD#QUALITY" polarity="positive" from="6" to="16"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5ab30090-fa88-4cf9-af68-02df9e8f9353">
+			<text>Sütlü tatlilari mükemmel diyebilirim.</text>
+			<Opinions>
+				<Opinion target="Sütlü tatlilari" category="FOOD#QUALITY" polarity="positive" from="0" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="44b0ce66-f36f-46c6-aa94-96a6ccae7560">
+			<text>Çayi güzel.</text>
+			<Opinions>
+				<Opinion target="Çayi" category="DRINKS#QUALITY" polarity="positive" from="0" to="4"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3a8b8487-4c95-4520-9eca-e8825debfbb8">
+			<text>Döneri çogu insan tarafindan sevilmese de ben seviyorum.</text>
+			<Opinions>
+				<Opinion target="Döneri" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2999bcac-af70-4920-be8f-bb0509b3e69a">
+			<text>Ama iskenderi güzel degil.</text>
+			<Opinions>
+				<Opinion target="iskenderi" category="FOOD#QUALITY" polarity="negative" from="4" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="93822dd8-18e1-4a6d-a734-94d32ee8b948">
+			<text>Sos isini beceremiyorlar.</text>
+			<Opinions>
+				<Opinion target="Sos" category="FOOD#QUALITY" polarity="negative" from="0" to="3"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8a8f55f1-fb60-4112-bf62-280d875bf98f">
+			<text>Yanindaki yogurt güzel ama.</text>
+			<Opinions>
+				<Opinion target="yogurt" category="FOOD#QUALITY" polarity="positive" from="10" to="16"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fbc663ba-f69a-4443-ac9c-19866d40b8be">
+			<text>Bazen gereksiz derecede çok kalabalik olabiliyor.</text>
+			<Opinions>
+				<Opinion target="" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="406fbbfa-26e0-4512-8e85-8612e0d0cb70">
+			<text>Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan.</text>
+			<Opinions>
+				<Opinion target="ambiyans" category="AMBIENCE#GENERAL" polarity="positive" from="63" to="71"/>
+				<Opinion target="lezzet" category="FOOD#QUALITY" polarity="positive" from="53" to="59"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7a04a996-cf5b-4790-b581-a5fee7b16291">
+			<text>Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul'da yediklerim arasında en iyilerdendi.</text>
+			<Opinions>
+				<Opinion target="Lahmacun ve içliköfte" category="FOOD#QUALITY" polarity="positive" from="0" to="21"/>
+				<Opinion target="dolmaları" category="FOOD#QUALITY" polarity="positive" from="32" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cea7b5ed-ce2d-44c9-9a17-f9bf83414f2c">
+			<text>Etler malzeme, marinasyon, pişirme ve sunum açısından çok başarılı.</text>
+			<Opinions>
+				<Opinion target="Etler" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="Etler" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="84af742a-eb7c-4334-82d1-db5dfc5e2c6d">
+			<text>Özellikle fıstıklı kebap favorim.</text>
+			<Opinions>
+				<Opinion target="fıstıklı kebap" category="FOOD#QUALITY" polarity="positive" from="10" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3d9798d1-3521-4cc6-8214-74ffaee3f77c">
+			<text>Katmer de muazzam.</text>
+			<Opinions>
+				<Opinion target="Katmer" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="590527d6-e449-4e9b-aa25-4266e6180901">
+			<text>Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz.</text>
+			<Opinions>
+				<Opinion target="Ambiyans ve dekorasyon" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="22"/>
+				<Opinion target="sipariş" category="FOOD#STYLE_OPTIONS" polarity="positive" from="119" to="126"/>
+			</Opinions>
+		</sentence>
+		<sentence id="42cadd1a-ae54-461a-b7e9-377e26f4fa1d">
+			<text>Manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor.</text>
+			<Opinions>
+				<Opinion target="Manzara" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="7"/>
+				<Opinion target="yemekler" category="FOOD#QUALITY" polarity="neutral" from="14" to="22"/>
+				<Opinion target="porsiyon miktarı" category="FOOD#STYLE_OPTIONS" polarity="negative" from="38" to="54"/>
+			</Opinions>
+		</sentence>
+		<sentence OutOfScope="TRUE" id="491f1478-33d3-4c78-8c79-e1996479965a">
+			<text>happymoons daha iyi daha uygun we porsiyonları çok büyük.</text>
+		</sentence>
+		<sentence id="50c87760-5ad6-4996-8fc0-c5c60b1ef675">
+			<text>çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor</text>
+			<Opinions>
+				<Opinion target="koku" category="AMBIENCE#GENERAL" polarity="negative" from="33" to="37"/>
+				<Opinion target="garsonlar" category="SERVICE#GENERAL" polarity="negative" from="61" to="70"/>
+				<Opinion target="yemekleri" category="FOOD#QUALITY" polarity="neutral" from="46" to="55"/>
+				<Opinion target="kahvaltısı" category="FOOD#QUALITY" polarity="negative" from="79" to="89"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1a082e1f-e466-4250-93fa-b116d51fb2e7">
+			<text>Çalışanlar kesinlikle çok nezih.</text>
+			<Opinions>
+				<Opinion target="Çalışanlar" category="SERVICE#GENERAL" polarity="positive" from="0" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5ea77a88-b7ec-4717-913d-032ab6a2af22">
+			<text>Çayı da güzel yapıyorlar yanına da su böreği .</text>
+			<Opinions>
+				<Opinion target="Çayı" category="DRINKS#QUALITY" polarity="positive" from="0" to="4"/>
+				<Opinion target="su böreği" category="FOOD#QUALITY" polarity="positive" from="35" to="44"/>
+			</Opinions>
+		</sentence>
+		<sentence id="68eff88d-ae91-47fe-bb9c-c9305471e750">
+			<text>Tavsiye ederim.</text>
+			<Opinions>
+				<Opinion target="" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4dea806a-bb9d-40ca-bc73-2ff6c0caa4df">
+			<text>Istiklal Caddesi'ne girdiğinizde solda kalıyor.</text>
+			<Opinions>
+				<Opinion target="solda" category="LOCATION#GENERAL" polarity="neutral" from="33" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5e76be96-3765-4c69-bf3e-c89d2e5a31df">
+			<text>Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa...</text>
+			<Opinions>
+				<Opinion target="mekanların" category="AMBIENCE#GENERAL" polarity="positive" from="27" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ebf84803-baab-4235-8568-64f32a3c0329">
+			<text>Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum.</text>
+			<Opinions>
+				<Opinion target="buranın" category="RESTAURANT#GENERAL" polarity="positive" from="21" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ac688462-a3c4-4db5-b9fb-f17010345896">
+			<text>Klasik lezzetler...</text>
+			<Opinions>
+				<Opinion target="lezzetler" category="FOOD#QUALITY" polarity="positive" from="7" to="16"/>
+			</Opinions>
+		</sentence>
+	</sentences>
+</Reviews>

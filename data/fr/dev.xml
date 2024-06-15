@@ -1,0 +1,1106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence id="7f1c5088-1752-4f2c-a8fb-d8de73bbdeae">
+			<text>Le cadre vient d'être rafraichi il y a quelques semaines et la maison à colombage qui abrite le restaurant a été rénovée également, bref : Que du positif.</text>
+			<Opinions>
+				<Opinion target="cadre" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+				<Opinion target="maison à colombage" category="AMBIENCE#GENERAL" polarity="positive" from="63" to="81"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="267876fa-516d-4294-b923-81f2596963ba">
+			<text>Dans mon assiette: la cuisine est un délice.</text>
+			<Opinions>
+				<Opinion target="cuisine" category="FOOD#QUALITY" polarity="positive" from="22" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e06d87ea-cf91-4942-b272-7d8348c219b7">
+			<text>Les frites sont molles, dommage aussi, pour un resto qui sert des plats accompagnés de pommes de terre.</text>
+			<Opinions>
+				<Opinion target="frites" category="FOOD#QUALITY" polarity="negative" from="4" to="10"/>
+				<Opinion target="plats" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="66" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="226ce5ce-cdfa-4447-abd9-bcbf3f48a178">
+			<text>Nous y sommes allés deux fois en quinze jours et avant varié les plats choisis.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="af60af8c-fc56-472a-aa53-47e66203ba7b">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="3684849b-eb50-448a-85d7-4acc4a52d343">
+			<text>Heureusement la qualité de la cuisine rattrape cela mais quel gâchis pour ce petit resto italien avec une magnifique terrasse et des produits frais.</text>
+			<Opinions>
+				<Opinion target="terrasse" category="AMBIENCE#GENERAL" polarity="positive" from="117" to="125"/>
+				<Opinion target="cuisine" category="FOOD#QUALITY" polarity="positive" from="30" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b89379c6-405d-46eb-99fe-04bd11714f66">
+			<text>Côté boullabaisse, on vous présente un énorme plateau de poisson avant la cuisson.</text>
+			<Opinions>
+				<Opinion target="boullabaisse" category="FOOD#STYLE_OPTIONS" polarity="positive" from="5" to="17"/>
+				<Opinion target="plateau de poisson" category="FOOD#STYLE_OPTIONS" polarity="positive" from="46" to="64"/>
+			</Opinions>
+		</sentence>
+		<sentence id="57a6806f-5ce2-4847-9c25-82ec44a7190f">
+			<text>Le prix est raisonnable pour la quantité mais le service est tellement horrible que du coup on a trouvé ça cher.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="quantité" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="32" to="40"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="49" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c591c871-652f-49a8-9033-551452523296">
+			<text>Compter environ 20€ pour un oeuf cocotte (même pas cuit correctement), un plat comprenant environ 50g de poulet et 3 haricots verts et deux rondelles de pomme de terre et une salade de fruit...</text>
+			<Opinions>
+				<Opinion target="oeuf cocotte" category="FOOD#PRICES" polarity="negative" from="28" to="40"/>
+				<Opinion target="oeuf cocotte" category="FOOD#QUALITY" polarity="negative" from="28" to="40"/>
+				<Opinion target="plat" category="FOOD#STYLE_OPTIONS" polarity="negative" from="74" to="78"/>
+				<Opinion target="plat" category="FOOD#PRICES" polarity="negative" from="74" to="78"/>
+			</Opinions>
+		</sentence>
+		<sentence id="58ecef60-d6bb-4055-b465-e20f3fb8c270">
+			<text>Le service est déplorable et tout le restaurant se prend pour un 3* alors que la nourriture est vraiment très très mauvaise!!</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="3" to="10"/>
+				<Opinion target="nourriture" category="FOOD#QUALITY" polarity="negative" from="81" to="91"/>
+			</Opinions>
+		</sentence>
+		<sentence id="728b9d37-8db8-4b6e-9ea5-010793a56581">
+			<text>Le tout pour 22 € par personne</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2fea16c5-f5ca-4b0b-bc55-a4b859ae1135">
+			<text>Un déjeuner parfait !</text>
+			<Opinions>
+				<Opinion target="déjeuner" category="RESTAURANT#GENERAL" polarity="positive" from="3" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="04b808ab-d1e4-45db-9aec-d1af886fecb8">
+			<text>Nous sommes dans le classique du genre avec peu de surprise et des prix plutôt élevés.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2656823e-9ad7-482b-af25-2aef8b59ebe9">
+			<text>Les hamburgers sont vendus entre 12 et 16 euros ce qui est beaucoup trop pour des préparations très industrielles : pain durci par la cuisson, pas de légumes dans le sandwich et frites qui ne sont pas faites maison.</text>
+			<Opinions>
+				<Opinion target="hamburgers" category="FOOD#PRICES" polarity="negative" from="4" to="14"/>
+				<Opinion target="préparations" category="FOOD#QUALITY" polarity="negative" from="82" to="94"/>
+				<Opinion target="pain" category="FOOD#QUALITY" polarity="negative" from="116" to="120"/>
+				<Opinion target="sandwich" category="FOOD#STYLE_OPTIONS" polarity="negative" from="166" to="174"/>
+				<Opinion target="frites" category="FOOD#QUALITY" polarity="negative" from="178" to="184"/>
+			</Opinions>
+		</sentence>
+		<sentence id="016e2e7c-8443-4aad-a683-ccb54fec3004">
+			<text>Il y peut y avoir des sauces "sur etagere" dans les plats cuisines</text>
+			<Opinions>
+				<Opinion target="sauces" category="FOOD#QUALITY" polarity="negative" from="22" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3f25fa90-cf28-4e6f-b794-02e074915da2">
+			<text>Quant à la nourriture, elle est horrible.</text>
+			<Opinions>
+				<Opinion target="nourriture" category="FOOD#QUALITY" polarity="negative" from="11" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a08fd347-21bf-4666-8a5b-682609a111e1">
+			<text>Les petites quantités des entrées sont frustrantes, car les saveurs sont excellentes mais elles sont bien dosées pour arriver jusqu'au dessert.</text>
+			<Opinions>
+				<Opinion target="entrées" category="FOOD#STYLE_OPTIONS" polarity="negative" from="26" to="33"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6daa6108-d7cc-415e-b0ed-30ad78c3fb0e">
+			<text>Le patron est bien sympa : on recommande sans hésiter.</text>
+			<Opinions>
+				<Opinion target="patron" category="SERVICE#GENERAL" polarity="positive" from="3" to="9"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="41ddfc86-7260-4d82-b958-9dfa3bc30a07">
+			<text>Des plats très copieux, des produits du terroir ainsi qu'un service impeccable plongés dans une très bonne ambiance.</text>
+			<Opinions>
+				<Opinion target="plats" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
+				<Opinion target="produits" category="FOOD#QUALITY" polarity="positive" from="28" to="36"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="60" to="67"/>
+				<Opinion target="ambiance" category="AMBIENCE#GENERAL" polarity="positive" from="107" to="115"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c9ed773-ab9a-48b7-8310-ee5aa40546bb">
+			<text>Et gout , pas du tout a la hauteur du prix !</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="af4673bf-2a1a-4556-a1c9-fc796eed27fb">
+			<text>Total 22€ le poisson, scandaleux !</text>
+			<Opinions>
+				<Opinion target="poisson" category="FOOD#PRICES" polarity="negative" from="13" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dac125a5-14a1-46b6-984c-6c50c163ae72">
+			<text>Si vous voulez vous régaler de la mise en bouche au dessert n'hésitez pas à pousser la porte et de demander une table à l'étage.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4b4490f5-05b5-49e4-951d-6e129cc0d830">
+			<text>Etait ce la fin de saison qui voulait cela?</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="27e2553b-3c6f-414d-891e-49733914701d">
+			<text>Je trouve regrettable également que tous les plats sont arrivés froids...</text>
+			<Opinions>
+				<Opinion target="plats" category="FOOD#QUALITY" polarity="negative" from="45" to="50"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7564ae61-a9f2-4ddc-b74e-1f3e387bad87">
+			<text>L'accueil et le service sont irréprochables : sympathique , pas du tout guindé ; jeune, généreux !</text>
+			<Opinions>
+				<Opinion target="accueil" category="SERVICE#GENERAL" polarity="positive" from="2" to="9"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="16" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d3747ce4-43f4-4f60-99cb-c408b5e64d05">
+			<text>Accueil zero</text>
+			<Opinions>
+				<Opinion target="Accueil" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="354e573b-b46b-47d7-bc9f-515be5c9d952">
+			<text>Cela reste quand même un bon resto, a tester.</text>
+			<Opinions>
+				<Opinion target="resto" category="RESTAURANT#GENERAL" polarity="positive" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9f8ff2c2-81da-4a24-9fd6-c9aa9b6e26ea">
+			<text>A éviter de toute urgence!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e9d10f0a-fa54-44fc-be12-94cf518969f4">
+			<text>Les tarifs sont au dessus de la moyenne Parisienne au regard de la prestation tout aussi banale.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9992208d-60d7-4b16-9030-31ff7d921e44">
+			<text>Un restaurant d'aspect extérieur agréable et bien situé qui nous a donné envie d'y dejeuner.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="3" to="13"/>
+				<Opinion target="restaurant" category="LOCATION#GENERAL" polarity="positive" from="3" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3117b4d1-1bb1-43ac-9aeb-595c41ca9e34">
+			<text>Dommage car les plats avaient l'air très bon contrairement aux sandwichs triangle du supermarché que nous avons dû manger en vitesse dans la rue !!</text>
+			<Opinions>
+				<Opinion target="plats" category="FOOD#STYLE_OPTIONS" polarity="positive" from="16" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4762c6ab-b67f-4113-92c9-b6a2deccf3e8">
+			<text>Boissons sans saveur, choix restreints, on se déplace pour trouver un serveur, on attend qu'il daigne à s'occuper de vous ... ex: un client est aller demander si on pouvait faire quelque chose pour l'insecte dans son plat, et bien non, s'est-il entendu dire, ce n'est pas de notre faute, on ne peut rien faire... service exceptionnel, si on en juge par ce fait divers!</text>
+			<Opinions>
+				<Opinion target="Boissons" category="DRINKS#QUALITY" polarity="negative" from="0" to="8"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="313" to="320"/>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="69161c1e-5d13-4414-b9bc-ce8a177976d2">
+			<text>- Le sourcing des produits est top</text>
+			<Opinions>
+				<Opinion target="produits" category="FOOD#QUALITY" polarity="positive" from="18" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ffbab21f-4e0d-455b-a8a9-0a2a4752397c">
+			<text>Je recommande ce restaurant qui est de loin le meilleur kebab de mulhouse .</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="17" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e0bb94e4-5755-4d50-84c2-a19d73c39f85">
+			<text>Dans ce quartier très touristique, ce petit restaurant sans prétention propose des plats peu onéreux et même une formule menu très accessible.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="44" to="54"/>
+				<Opinion target="plats" category="FOOD#PRICES" polarity="positive" from="83" to="88"/>
+				<Opinion target="formule menu" category="FOOD#PRICES" polarity="positive" from="113" to="125"/>
+				<Opinion target="quartier" category="LOCATION#GENERAL" polarity="neutral" from="8" to="16"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2124a3d7-5f0f-40ee-a048-8301e2a1fb89">
+			<text>Un cadre simple mais pourtant très authentique et étudié...un style américain années 70 tout en simplicité et goût.</text>
+			<Opinions>
+				<Opinion target="cadre" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2694a708-d095-4f43-9df4-67f628bd46b8">
+			<text>Depuis longtemps je voulais pousser la porte de cet endroit dans la zone portuaire de Bayonne et voilà nous l'avons fait!!!</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="d84c9a5b-280e-4858-9f9f-338e41298c9a">
+			<text>Je conseille fortement la cassolette de moules ou le boudin (s'il revient à la carte), mais dans l'ensemble, tout est bon.</text>
+			<Opinions>
+				<Opinion target="cassolette de moules" category="FOOD#QUALITY" polarity="positive" from="26" to="46"/>
+				<Opinion target="boudin" category="FOOD#QUALITY" polarity="positive" from="53" to="59"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5fc0c1da-84f9-4bea-a074-112e27af944c">
+			<text>What else ?</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6eabba5d-966e-4ecc-b28c-7def692781cd">
+			<text>Enfin, contrairement à ce que j'ai pu lire ici, le restaurant était particulièrement propre lors de mon passage.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="51" to="61"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8bcfeca8-baca-40a4-845a-6e10562addc2">
+			<text>Et c'est tout.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="57cb41f4-b90a-444b-9a2e-e6c77b3af388">
+			<text>Tiramisu a la fraise efficace en fin de dîner.</text>
+			<Opinions>
+				<Opinion target="Tiramisu a la fraise" category="FOOD#QUALITY" polarity="positive" from="0" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e813fe46-461c-40c9-97c8-3c543eff6a35">
+			<text>Un excellent petit resto avec des produits frais et plats faits maison, ce qui fait une carte réduite mais avec des plats avec un goût exquis.</text>
+			<Opinions>
+				<Opinion target="produits" category="FOOD#QUALITY" polarity="positive" from="34" to="42"/>
+				<Opinion target="carte" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="88" to="93"/>
+				<Opinion target="resto" category="RESTAURANT#GENERAL" polarity="positive" from="19" to="24"/>
+				<Opinion target="plats" category="FOOD#QUALITY" polarity="positive" from="52" to="57"/>
+			</Opinions>
+		</sentence>
+		<sentence id="396f89a9-e1b8-4fad-92ba-a9ffea1cfbe6">
+			<text>Cuisine bonne mais au final l'addition est salée</text>
+			<Opinions>
+				<Opinion target="Cuisine" category="FOOD#QUALITY" polarity="positive" from="0" to="7"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="83747a4e-4bdf-4209-bcb6-45bd1d1d3ff7">
+			<text>Choix de dessert quasi inexistant.</text>
+			<Opinions>
+				<Opinion target="dessert" category="FOOD#STYLE_OPTIONS" polarity="negative" from="9" to="16"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7f95c01a-5dd0-4388-975e-9d24b46ff86d">
+			<text>Pendant près de dix ans je n'y étais pas retourné et voila retour cette année et pas trop déçu bien que... comme je m'attendais à retrouver un temple de la gastronomie, la barre était un peu haute.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="302f22d6-3eac-4f63-8c1d-98b6e563d9ad">
+			<text>L'esprit convivial comme on aime.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="82f074bb-ca59-4c6c-80ff-21a86d57c4a6">
+			<text>Je n'y retournerais pas .</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ab0415a7-c014-459a-8fbe-ca72e4b30007">
+			<text>Nous n'avons goûté que les pizzas qui étaient quelconques.</text>
+			<Opinions>
+				<Opinion target="pizzas" category="FOOD#QUALITY" polarity="negative" from="27" to="33"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0c89103a-183f-4d8d-bef3-e5a6e88ee996">
+			<text>On s'est fait INSULTER par le responsable le 20 décembre 2014 c'est INADMISSIBLE !!!!</text>
+			<Opinions>
+				<Opinion target="responsable" category="SERVICE#GENERAL" polarity="negative" from="30" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="509bd571-aacb-4b34-850e-0a5b11a958cd">
+			<text>Bons cocktails et barman très sympa.</text>
+			<Opinions>
+				<Opinion target="cocktails" category="DRINKS#QUALITY" polarity="positive" from="5" to="14"/>
+				<Opinion target="barman" category="SERVICE#GENERAL" polarity="positive" from="18" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c77144a3-7ce9-4d72-bab0-82526655ddec">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="c6f6dcdb-100c-47b1-9f84-84120b316357">
+			<text>Je n'appelle pas ça un service digne d'un restaurants.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="23" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="79ed9e59-a6d3-4187-a1c6-87bac3380a5a">
+			<text>J'y retournerai quand même bien volontiers ; pour la qualité des pizzas :)</text>
+			<Opinions>
+				<Opinion target="pizzas" category="FOOD#QUALITY" polarity="positive" from="65" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9e49f6e3-7952-4cb8-bea1-7a63ff93dac5">
+			<text>patron atypique mais à connaître.</text>
+			<Opinions>
+				<Opinion target="patron" category="SERVICE#GENERAL" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f9f0d812-6168-4ed6-8f76-b38bba6e90f3">
+			<text>J'y suis allė avec des habitués qui m'en avait dit du bien et qu'elle ne fut pas notre déception:</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6e7b9396-f651-4ae1-92c0-869709f55ea0">
+			<text>Quelques-uns ont vu leur souris d'agneau pas bien cuite donc 2 bouteilles de rouges nous ont été offertes en compensation.</text>
+			<Opinions>
+				<Opinion target="souris d'agneau" category="FOOD#QUALITY" polarity="negative" from="25" to="40"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="45f91080-f6f6-4ead-8d7f-e5d2f70fb960">
+			<text>Ceci dit, la bonne humeur de la serveuse et la présentation des plats rattrapent un peu cet avis mitigé.</text>
+			<Opinions>
+				<Opinion target="serveuse" category="SERVICE#GENERAL" polarity="positive" from="32" to="40"/>
+				<Opinion target="plats" category="FOOD#STYLE_OPTIONS" polarity="positive" from="64" to="69"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9a3e69db-ec92-493e-bb06-e8a580ac16cb">
+			<text>2 heures dattentes minumum aucun service et patronne execrable !</text>
+			<Opinions>
+				<Opinion target="attentes" category="SERVICE#GENERAL" polarity="negative" from="10" to="18"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="33" to="40"/>
+				<Opinion target="patronne" category="SERVICE#GENERAL" polarity="negative" from="44" to="52"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d9cdb620-2da1-484a-95cc-d0c5402c8db8">
+			<text>Accueil très aimable et décor lounge plutôt cosy.</text>
+			<Opinions>
+				<Opinion target="Accueil" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+				<Opinion target="décor" category="AMBIENCE#GENERAL" polarity="positive" from="24" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ab64862d-3d04-4b38-b843-d3a086249a18">
+			<text>Cocktail trop sucré vs bon vin.</text>
+			<Opinions>
+				<Opinion target="Cocktail" category="DRINKS#QUALITY" polarity="negative" from="0" to="8"/>
+				<Opinion target="vin" category="DRINKS#QUALITY" polarity="positive" from="27" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f55e87a2-aff2-40e1-99bd-ab0f019494e0">
+			<text>C'est ma cantine j'adore !</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7abdebb9-de7b-4284-9570-df5cdbe0e1b8">
+			<text>Plat du jour alléchant, je choisie d'y rentrer.</text>
+			<Opinions>
+				<Opinion target="Plat du jour" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cdfa2b9e-be68-4101-a8c6-016a707ad1b5">
+			<text>Carte des vins sympa, on me refuse de corriger le tir sur un verre de vin servi plus généreusement précédemment (à 5,90€ le verre, le comportement du patron (?) est décevant).</text>
+			<Opinions>
+				<Opinion target="Carte des vins" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="0" to="14"/>
+				<Opinion target="patron" category="SERVICE#GENERAL" polarity="negative" from="150" to="156"/>
+				<Opinion target="verre de vin" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="61" to="73"/>
+				<Opinion target="verre de vin" category="DRINKS#PRICES" polarity="negative" from="61" to="73"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c5161d67-19b3-467a-aed2-21594d96b8e9">
+			<text>Des hamburgers, des pizzas succulentes, des brushettas, et une escalope milanaise exceptionnelle.</text>
+			<Opinions>
+				<Opinion target="hamburgers" category="FOOD#QUALITY" polarity="positive" from="4" to="14"/>
+				<Opinion target="pizzas" category="FOOD#QUALITY" polarity="positive" from="20" to="26"/>
+				<Opinion target="brushettas" category="FOOD#QUALITY" polarity="positive" from="44" to="54"/>
+				<Opinion target="escalope milanaise" category="FOOD#QUALITY" polarity="positive" from="63" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3941716a-7eb0-47e4-bb4d-3e24ca6bf543">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="7af2317d-c289-4983-b68f-57588952b9c1">
+			<text>Je suis un gourmand.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="3ad8c31b-65d7-41c1-be1a-9aac843fbe9c">
+			<text>Ici vous êtes reçu comme il se doit.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aede8087-66bb-4e35-92ff-122f3bf5b33d">
+			<text>Service de tres bonne qualité, restaurant agreable et cuisine delicieuse !</text>
+			<Opinions>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+				<Opinion target="restaurant" category="AMBIENCE#GENERAL" polarity="positive" from="31" to="41"/>
+				<Opinion target="cuisine" category="FOOD#QUALITY" polarity="positive" from="54" to="61"/>
+			</Opinions>
+		</sentence>
+		<sentence id="be58ee60-c362-40d8-901c-745cc95204d2">
+			<text>Restaurant que j’appréciais déjà en repas d'affaire.</text>
+			<Opinions>
+				<Opinion target="Restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="95992bba-56dc-42f3-9ab7-ec38ecedb057">
+			<text>Le spaguetti carbonara qui baigne dans la crème complètement liquide, l'accueil pas très agréable, je n'y retournerais pas.</text>
+			<Opinions>
+				<Opinion target="spaguetti carbonara" category="FOOD#QUALITY" polarity="negative" from="3" to="22"/>
+				<Opinion target="crème" category="FOOD#QUALITY" polarity="negative" from="42" to="47"/>
+				<Opinion target="accueil" category="SERVICE#GENERAL" polarity="negative" from="72" to="79"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="73074a03-82ad-4a9c-86b8-672271eefc16">
+			<text>Cantine bruyante et sans autre charme que celui, un peu ringard, des photos délavées des "people" qui fréquentèrent les lieux un jour.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9693c684-28b4-44cc-b41c-042dc34ca670">
+			<text>Aucun professionnalisme.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7218100a-9094-40ca-9114-b5a0a19a08ee">
+			<text>Ils savent mettre à l'aise les clients en leur donnant de bons conseils sans les déranger.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="16a4ec2c-fcbb-4163-a944-c9cded70d257">
+			<text>Les produits ne sont pas maison, ce qui se ressent sur le goût.</text>
+			<Opinions>
+				<Opinion target="produits" category="FOOD#QUALITY" polarity="negative" from="4" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="30ca89ba-598f-41af-ab52-96fb94ca6aee">
+			<text>Déjà venu il y a quelques années et en gardant un excellent souvenir nous avons décidé d'y retourner.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="94ec4d4b-45ea-43dd-a8ed-f0159daf0623">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="e12b03ac-92cb-455e-a65a-8e36bbf39b96">
+			<text>Rapport qualité-prix très honnête pour ce grand restaurant.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="48" to="58"/>
+			</Opinions>
+		</sentence>
+		<sentence id="530b3078-98ec-4e22-a00a-926f7df73a1b">
+			<text>L'intérieur est sympathique, l'ambiance chaleureuse, le service "à la bonne franquette".</text>
+			<Opinions>
+				<Opinion target="intérieur" category="AMBIENCE#GENERAL" polarity="positive" from="2" to="11"/>
+				<Opinion target="ambiance" category="AMBIENCE#GENERAL" polarity="positive" from="31" to="39"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="neutral" from="56" to="63"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4e66c237-166f-4158-b8a3-ecc75252af52">
+			<text>Menu Grands Gourmand, 2 plats, 4 € de supplément pour le fromage...</text>
+			<Opinions>
+				<Opinion target="fromage" category="FOOD#PRICES" polarity="negative" from="57" to="64"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e827087b-d6ad-4504-8632-c5e432bd9850">
+			<text>On repart donc repu et heureux d'avoir passé un bon moment pour pas trop cher (sur le port, c'est assez remarquable).</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="port" category="LOCATION#GENERAL" polarity="positive" from="86" to="90"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2302d5c3-3e2f-4a25-baae-dddaa99f2b44">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="6da971a2-b80c-4b1e-b7d0-2d913a7a587a">
+			<text>Mais dès que nous avons été installé ce fut un désastre.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a87970e0-f869-4a28-a449-68693b53a3cf">
+			<text>Les serveuses sont gentilles, le serveur ou chef de rang n'est pas professionnel.</text>
+			<Opinions>
+				<Opinion target="serveuses" category="SERVICE#GENERAL" polarity="positive" from="4" to="13"/>
+				<Opinion target="serveur" category="SERVICE#GENERAL" polarity="negative" from="33" to="40"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6ed6ccb1-209f-4bf6-9e51-70db7113272d">
+			<text>L'assiette de fromage, s'il vous reste un peu de place, est généreuse et excellente.</text>
+			<Opinions>
+				<Opinion target="assiette de fromage" category="FOOD#QUALITY" polarity="positive" from="2" to="21"/>
+				<Opinion target="assiette de fromage" category="FOOD#STYLE_OPTIONS" polarity="positive" from="2" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7705c718-b894-4e0c-8af2-4b6f801da75e">
+			<text>Surtout que le service y est rapide et plutôt agréable, les portions généreuses et le lieux vraiment joli.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="15" to="22"/>
+				<Opinion target="portions" category="FOOD#STYLE_OPTIONS" polarity="positive" from="60" to="68"/>
+				<Opinion target="lieux" category="AMBIENCE#GENERAL" polarity="positive" from="86" to="91"/>
+			</Opinions>
+		</sentence>
+		<sentence id="11abfdef-11c9-429f-b495-655e2938338c">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="ce99d7d5-a878-4205-b909-dc68ae702d77">
+			<text>Un restaurant où l'on a l'embarras du choix pour s'assoir.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="3" to="13"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3cdb038e-83b8-420d-acb3-31022681c3ed">
+			<text>Bon service, accueil chaleureux.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="4" to="11"/>
+				<Opinion target="accueil" category="SERVICE#GENERAL" polarity="positive" from="13" to="20"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aed0c16b-4453-4dc8-9c41-39bf4d831fd3">
+			<text>Le tout est certes pas donné mais un plat et un dessert restent abordables.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2f782457-bf69-4cba-8067-6d2ceeb61dc1">
+			<text>On aura compris donc un petit coup de coeur : allez y entre amis ou entre amoureux vous ne serez jamais déçus !</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c33fd156-ba9e-4cf6-b316-ad7cf03bd379">
+			<text>Il est remplacé par un autre avec mon accord.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="1af24e98-331c-4b76-8eb3-bbb05c6142cf">
+			<text>Les toilettes sont immondes et le service est désinvolte au possible.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="34" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="155c5b5e-c0fb-4448-a128-224a5aad61fe">
+			<text>L'explication de ce désastre pourrait provenir d'un repreneur peu scrupeuleux ?</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="80d1f2b4-1e2f-40e9-b729-82bfde39cab8">
+			<text>Sans parler de l'huile!</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="03b8aee2-4ad4-4d74-a335-e59abda5d3fc">
+			<text>Mais à une attitude un peu deplacé, limite gênante d'un dragueur grossier.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="848da1cb-d042-4db6-8224-3c6e2c8fe369">
+			<text>Je suis allé il y a quelques jours dans ce restaurant pour diner entre amis.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="e9e1a92b-2e5c-497f-8bfa-0e91a2bf6ef8">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="9d0e742a-4942-41a7-a0e9-ca9a99e9f4e3">
+			<text>Quant à nous, notre passage par les toilettes était mémorable, une heure d'attente (salle géante, 4 toilettes pour tout le monde, bien joué), une odeur nauséabonde et franchement une propreté plus que limite.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="04811443-e39d-43da-9d9c-d822fa768987">
+			<text>Un relationnel client naz!</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0a1049c1-5389-4e7d-9a1c-e7b5d03e7fb2">
+			<text>Un resto très sympa</text>
+			<Opinions>
+				<Opinion target="resto" category="RESTAURANT#GENERAL" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e81f5cc2-a783-4825-9868-2033051e33a4">
+			<text>Nous sommes venus diner en famille dans ce restaurant fin Novembre 2014.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="d3d11554-9b08-4204-a1e0-b05ef956e47a">
+			<text>Au deumerant, c est un endroit original pour fêter son anniversaire ...</text>
+			<Opinions>
+				<Opinion target="endroit" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="23" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="07e07a24-50a9-463b-92e4-76b86ca4a00c">
+			<text>Nourriture médiocre.</text>
+			<Opinions>
+				<Opinion target="Nourriture" category="FOOD#QUALITY" polarity="negative" from="0" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0d1add2a-ad0d-4904-8060-cc70a633d521">
+			<text>Mais ça, c'était avant.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0f40fd98-440d-47ba-bee5-9a6c48d52b7a">
+			<text>Des plats correctement servis, un pavé de turbot excellent et des prix corrects pour le quartier.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="pavé de turbot" category="FOOD#QUALITY" polarity="positive" from="34" to="48"/>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="16adf31b-386e-4107-8e78-6fadcc9e4430">
+			<text>De la bonne com !</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0b1663ae-e140-4b10-9b13-e7a2068f5e94">
+			<text>Amateur de fromage, lorsque je suis descendu dans la cave à fromage, en accés illimité, avec plus de 200 fromages à goûter, je me suis cru au paradis pour 32€.</text>
+			<Opinions>
+				<Opinion target="cave à fromage" category="FOOD#STYLE_OPTIONS" polarity="positive" from="53" to="67"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9ff7d42f-d197-41d6-934d-bbea1443ebfd">
+			<text>Salle déserte, nous étions 6 au total, un samedi soir...</text>
+			<Opinions>
+				<Opinion target="Salle" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="5"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ba1f8854-8e33-4dac-9528-2c7fefceefb5">
+			<text>Il suffirait de peu de chose pour améliorer l'ensemble.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a2a333a9-33ca-489b-ab4c-03ff5335907b">
+			<text>Avoir des artistes talentueux qui chantent de l'opéra juste à côté de nous, c'est magique !</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="57b65f01-d157-40fc-8e51-70f2af2799f9">
+			<text>Bref, pas mauvais, mais un peu décevant.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="184ff148-ac25-41f1-87ca-3ac65db1d7c6">
+			<text>Cela fait plusieurs fois qu'on y vient et on n'est jamais déçus, ni les proches qu'on y amène.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e91d71fe-2749-47e8-ad07-e813ad0ad8f8">
+			<text>A l'heure de l'apéro c'est un lieu sympa bien situé au carré cathédrale.</text>
+			<Opinions>
+				<Opinion target="lieu" category="LOCATION#GENERAL" polarity="positive" from="30" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="81979eaf-11e8-467d-8b54-719b4e96f794">
+			<text>Vendredi, un burger.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="0ea06ec6-9ae5-47dd-9a6f-d60654348fae">
+			<text>Et les St Jacques étaient caoutchouteuses!</text>
+			<Opinions>
+				<Opinion target="St Jacques" category="FOOD#QUALITY" polarity="negative" from="7" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2368ea41-d701-4c25-b0d0-67498375e088">
+			<text>Les dessert sont à tomber avec le cheesecake au Toblerone !</text>
+			<Opinions>
+				<Opinion target="cheesecake au Toblerone" category="FOOD#QUALITY" polarity="positive" from="34" to="57"/>
+				<Opinion target="dessert" category="FOOD#QUALITY" polarity="positive" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a8a14a06-0f10-41b7-8307-f1859f72d99b">
+			<text>Quant à la salade de fruit acide et pétillante... je soupconne qu'ils y aient mis de l'orangina...</text>
+			<Opinions>
+				<Opinion target="salade de fruit" category="FOOD#QUALITY" polarity="negative" from="11" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6bccc4f4-1d9d-413f-b3ad-d742c50aee26">
+			<text>Et pour enrober le tout, un service avec le sourire du début à la fin :) !</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="28" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ed775153-b17e-45ab-a7c8-c2a4e7c8aadc">
+			<text>En plus, le tout servi par une serveuse très sympathique !</text>
+			<Opinions>
+				<Opinion target="serveuse" category="SERVICE#GENERAL" polarity="positive" from="31" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9ef4ec83-a233-4663-b248-e308f8816aba">
+			<text>Service très perfectible (lent, et mal organisé).</text>
+			<Opinions>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1191f261-e398-4fb4-9e07-1e947e54dc1d">
+			<text>Plus jamais cet attrape-touristes</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3a159818-5f82-49df-bb45-62dfca9b7fcb">
+			<text>Nous avons eu l'impression de deranger car il dit à son collègue "Pff ils veulent changer de place".</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5c736a5f-9216-439a-86fa-47ab0ad34255">
+			<text>très déçu : Vaisselle, décor un peu vieillot.</text>
+			<Opinions>
+				<Opinion target="décor" category="AMBIENCE#GENERAL" polarity="negative" from="23" to="28"/>
+				<Opinion target="Vaisselle" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="12" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7948caa3-91e8-44ce-b42c-d9caa556eac8">
+			<text>A la carte c'est beaucoup plus cher mais le choix est plus large.</text>
+			<Opinions>
+				<Opinion target="carte" category="FOOD#PRICES" polarity="negative" from="5" to="10"/>
+				<Opinion target="carte" category="FOOD#STYLE_OPTIONS" polarity="positive" from="5" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c42e6dbd-db82-4393-bf18-7707df9962cb">
+			<text>Je connais ce restaurant depuis de très nombreuses années pour y avoir amené des clients.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="282a6233-a245-42a6-8278-3ff614c3b518">
+			<text>idem sans bulle et un goût d'eau.</text>
+			<Opinions>
+				<Opinion target="NULL" category="DRINKS#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="59119682-aa8b-4d7c-ab11-761b4b89ecfa">
+			<text>service de cantine, la serveuse porte la "soupe" de poissons entre ses 2 mains par ce que l'assiette est chaude, sans liteau, sans classe vraiment</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+				<Opinion target="serveuse" category="SERVICE#GENERAL" polarity="negative" from="23" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="156da214-d861-4bf8-8acc-9657594dfa63">
+			<text>Autre point positif, un coût très raisonnable.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="821e909e-72b8-402b-aee0-cf0b287e3bd9">
+			<text/>
+			<Opinions/>
+		</sentence>
+		<sentence id="52f743d7-68a3-4989-9d7f-1edf38edec17">
+			<text>Choix de plats très classique, et qualité des plats médiocre.</text>
+			<Opinions>
+				<Opinion target="plats" category="FOOD#QUALITY" polarity="negative" from="9" to="14"/>
+				<Opinion target="plats" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="9" to="14"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6f8ec7be-075e-4571-8ae8-7fc4b5524713">
+			<text>- Les vins "bio" "naturel" souvent cher et dégueulasse</text>
+			<Opinions>
+				<Opinion target="vins" category="DRINKS#PRICES" polarity="negative" from="6" to="10"/>
+				<Opinion target="vins" category="DRINKS#QUALITY" polarity="negative" from="6" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4fbd9a23-0377-4218-980e-e34310b2b6c9">
+			<text>La vue est sublime, la salle est très agréable et tranquille.</text>
+			<Opinions>
+				<Opinion target="vue" category="LOCATION#GENERAL" polarity="positive" from="3" to="6"/>
+				<Opinion target="salle" category="AMBIENCE#GENERAL" polarity="positive" from="23" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1725a122-4594-42b6-b8f3-ce3a62a9a704">
+			<text>Le grand +, c'est l'accueil souriant des 2 serveuses, disponibles et connaissant bien les plats.</text>
+			<Opinions>
+				<Opinion target="serveuses" category="SERVICE#GENERAL" polarity="positive" from="43" to="52"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b444885e-d642-45f0-93de-bafc54cd174c">
+			<text>Service très lent et désordonné, cuisine surgelée et mauvaise, des assiettes banales qu'un enfant peut préparer et qui ne mettent pas en appétit ...</text>
+			<Opinions>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+				<Opinion target="cuisine" category="FOOD#QUALITY" polarity="negative" from="33" to="40"/>
+				<Opinion target="assiettes" category="FOOD#STYLE_OPTIONS" polarity="negative" from="67" to="76"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c38b77eb-b5da-47c6-82d6-94e8e0239692">
+			<text>De la bonne cuisine de grand mère qui tient au corps.</text>
+			<Opinions>
+				<Opinion target="cuisine" category="FOOD#QUALITY" polarity="positive" from="12" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ac6fb52f-2504-4bf6-a432-9bcf8b1050c8">
+			<text>Nous avons fait la remarque à la serveuse qui a transmis au cuisinier.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="634f7cc2-c9d4-40b8-b396-0433460d79f6">
+			<text>Repas de qualité et fait maison, très bon rapport qualité prix, juste à côté de la tour eiffel.</text>
+			<Opinions>
+				<Opinion target="Repas" category="FOOD#QUALITY" polarity="positive" from="0" to="5"/>
+				<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+				<Opinion target="tour eiffel" category="LOCATION#GENERAL" polarity="positive" from="83" to="94"/>
+			</Opinions>
+		</sentence>
+		<sentence id="43ea8275-c44c-4f61-bc0c-3e5511e1a139">
+			<text>Je le recommande grandement</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1b01c628-0462-49e4-976a-70c90d1b16e5">
+			<text>Le vin blanc était tout à fait adéquat et à un prix plus que raisonnable, 14 euros...</text>
+			<Opinions>
+				<Opinion target="vin blanc" category="DRINKS#QUALITY" polarity="positive" from="3" to="12"/>
+				<Opinion target="vin blanc" category="DRINKS#PRICES" polarity="positive" from="3" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6c2409f7-e595-4f52-b947-5f9637e469e7">
+			<text>Les 2 autres convives ont pris un bo bun composé d'un pauvre nem coupé en 4, salade,vermicelle et du bœuf que je ne donnerai même pas à mon chien.</text>
+			<Opinions>
+				<Opinion target="bo bun" category="FOOD#STYLE_OPTIONS" polarity="negative" from="34" to="40"/>
+				<Opinion target="bœuf" category="FOOD#QUALITY" polarity="negative" from="101" to="105"/>
+			</Opinions>
+		</sentence>
+		<sentence id="902c49cd-d498-432b-9e4f-cccc8a6c6dd8">
+			<text>On attire les clients avec un panneau de photos de personnalités de passage dans le restaurant.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="88bc69fc-7ad8-4754-a6b9-5fbd71abfedc">
+			<text>Je peux comprendre qu'on nous ai oublié, les erreurs ça arrive mais il y a des manière de faire passer la pilule.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="68c52adf-8f7b-4b94-a830-481ba5f5b3fa">
+			<text>Rien de négatif à dire sur ce restaurant mais il ne sort pas de l'ordinaire.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="neutral" from="30" to="40"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3467eb72-ae9d-4409-997f-c970c916c19d">
+			<text>la pire expérience culinaire de Paris, avec une addition astronomique : ravioles de homard à 20 euros ( les ravioles devaient avoir au moins 3 jours) puis dos de cabillaud pas cuit sur veilles pommes de terre, assorti de roquette pas fraiche à 47 euros.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+				<Opinion target="ravioles de homard" category="FOOD#QUALITY" polarity="negative" from="72" to="90"/>
+				<Opinion target="ravioles de homard" category="FOOD#PRICES" polarity="negative" from="72" to="90"/>
+				<Opinion target="dos de cabillaud" category="FOOD#QUALITY" polarity="negative" from="155" to="171"/>
+				<Opinion target="pommes de terre" category="FOOD#QUALITY" polarity="negative" from="193" to="208"/>
+				<Opinion target="roquette" category="FOOD#QUALITY" polarity="negative" from="221" to="229"/>
+				<Opinion target="dos de cabillaud" category="FOOD#PRICES" polarity="negative" from="155" to="171"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f1d9c9e0-2471-4caa-8cb0-c736d2f5832d">
+			<text>La carte est courte, ce qui peut être un avantage ( turn-over important donc fraicheur des produits) mais se révèle un inconvénient quand il y a des produits manquants (la truffe ce jour-là), donc choix restreint.</text>
+			<Opinions>
+				<Opinion target="carte" category="FOOD#STYLE_OPTIONS" polarity="negative" from="3" to="8"/>
+				<Opinion target="produits" category="FOOD#STYLE_OPTIONS" polarity="negative" from="149" to="157"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b038e4b7-3354-4073-a45e-5c2164b3a991">
+			<text>Salade en entrée correct puis quelle déception pour le tartare !</text>
+			<Opinions>
+				<Opinion target="Salade" category="FOOD#QUALITY" polarity="neutral" from="0" to="6"/>
+				<Opinion target="tartare" category="FOOD#QUALITY" polarity="negative" from="55" to="62"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eb85b349-ef14-49b3-89a7-89f35f0e7a49">
+			<text>Cela me manque!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b8dd584a-9cb5-4cc4-b9ea-99abc2476c48">
+			<text>A deux pas du panthéon en plus, on se dit que ça va être touristique, mais non : un décor assez intime, rétro, avec de grands miroirs, la carte sur une ardoise à l'ancienne, les tables en beau bois...</text>
+			<Opinions>
+				<Opinion target="décor" category="AMBIENCE#GENERAL" polarity="positive" from="84" to="89"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b3919a88-9394-49bf-a655-91ea9d3381a2">
+			<text>Il nous a fait le coup, mais on a pu le constater ce soir là, ils ont fait le coup à au moins huit tables qui se sont plaintes.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="02a4872c-0328-4e1e-a027-22dab254b5c0">
+			<text>Tapas abordables, sauf pour l'assiette de manchego (cinq minces tranches pour 5€) et l'assiette de serrano (6 tranches pour 10€).</text>
+			<Opinions>
+				<Opinion target="Tapas" category="FOOD#PRICES" polarity="neutral" from="0" to="5"/>
+				<Opinion target="assiette de manchego" category="FOOD#STYLE_OPTIONS" polarity="negative" from="30" to="50"/>
+				<Opinion target="assiette de manchego" category="FOOD#PRICES" polarity="negative" from="30" to="50"/>
+				<Opinion target="assiette de serrano" category="FOOD#STYLE_OPTIONS" polarity="negative" from="87" to="106"/>
+				<Opinion target="assiette de serrano" category="FOOD#PRICES" polarity="negative" from="87" to="106"/>
+			</Opinions>
+		</sentence>
+		<sentence id="860ccab0-6239-4638-bdcb-44eab2e920ea">
+			<text>Serveurs désagréables, vous etes pas du coin?</text>
+			<Opinions>
+				<Opinion target="Serveurs" category="SERVICE#GENERAL" polarity="negative" from="0" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0e4b0fc9-f82a-43e8-89df-07cedbbde52a">
+			<text>Cela rattrape l'heure et demi d'attente pour avoir une place.</text>
+			<Opinions>
+				<Opinion target="attente" category="SERVICE#GENERAL" polarity="negative" from="32" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="14d14c85-7719-46d9-a354-80df6a18abe0">
+			<text>Ma meilleure adresse de restau thai!</text>
+			<Opinions>
+				<Opinion target="restau" category="RESTAURANT#GENERAL" polarity="positive" from="24" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6d57e44d-46ca-4b6e-bf0a-33a7c5861ba9">
+			<text>Nous avons pris une andouillette sauce dijonnaise à la moutarde et son accompagnement de frites et une andouillette avec petits légumes et purée.</text>
+			<Opinions/>
+		</sentence>
+		<sentence id="ad2b1bde-329a-4329-9611-849662c4bb59">
+			<text>En effet, les supions sont servis à peine frits avec des têtes d'ail entières tout comme les pommes de terre sautées du jamais vu et surtout aucun goût!</text>
+			<Opinions>
+				<Opinion target="supions" category="FOOD#QUALITY" polarity="negative" from="14" to="21"/>
+				<Opinion target="supions" category="FOOD#STYLE_OPTIONS" polarity="negative" from="14" to="21"/>
+				<Opinion target="pommes de terre sautées" category="FOOD#QUALITY" polarity="negative" from="93" to="116"/>
+			</Opinions>
+		</sentence>
+		<sentence id="095b7af6-949f-48a5-8d86-1afc3ce9ef49">
+			<text>Bel endroit !</text>
+			<Opinions>
+				<Opinion target="endroit" category="RESTAURANT#GENERAL" polarity="positive" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5f7cd6a2-a9e3-4f09-afd4-173deece4e2c">
+			<text>Mais nous ne sommes pas là non plus pour ça, mais pour manger des rognons qui apparemment ont fait ici la réputation de ce restau du vieux lille.</text>
+			<Opinions>
+				<Opinion target="rognons" category="FOOD#QUALITY" polarity="positive" from="66" to="73"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8da7aa37-9e31-4ec1-b4aa-b3a653160e9e">
+			<text>Le service était au TOP, l'accueil génial, notre plat excellent!</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="3" to="10"/>
+				<Opinion target="accueil" category="SERVICE#GENERAL" polarity="positive" from="27" to="34"/>
+				<Opinion target="plat" category="FOOD#QUALITY" polarity="positive" from="49" to="53"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c17325b9-8360-45e3-bc8d-eadf44669118">
+			<text>Mauvaise cuisson des aliments.</text>
+			<Opinions>
+				<Opinion target="aliments" category="FOOD#QUALITY" polarity="negative" from="21" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d0a8c6f5-1f11-4a27-9cd1-a442174eff77">
+			<text>A conseiller donc</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cb7e4063-e09d-4657-9336-9328cb9f7e49">
+			<text>La carte est généreuse.</text>
+			<Opinions>
+				<Opinion target="carte" category="FOOD#STYLE_OPTIONS" polarity="positive" from="3" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="741ff40f-2f7f-4567-a715-41f2bd6f3c5e">
+			<text>Bref 140 euros à 3 avec 2 verres de vin et une limonade, c'est trop pour un déjeuner très simple.</text>
+			<Opinions>
+				<Opinion target="déjeuner" category="RESTAURANT#PRICES" polarity="negative" from="76" to="84"/>
+			</Opinions>
+		</sentence>
+		<sentence id="910eb56f-134b-471f-a809-b5558acb8f0b">
+			<text>Si cela nous avait ete communique en nous installant nous aurions decide de changer de restaurant.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="87" to="97"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7ad75500-7a83-4cd9-83e7-c32916c6b23d">
+			<text>Pour ceux qui n'aiment pas le poisson, la carte est diversifiée ; les desserts sont très gourmands !!!</text>
+			<Opinions>
+				<Opinion target="carte" category="FOOD#STYLE_OPTIONS" polarity="positive" from="42" to="47"/>
+				<Opinion target="desserts" category="FOOD#QUALITY" polarity="positive" from="70" to="78"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0071579c-6353-49cb-86fc-562acd52289f">
+			<text>Je n'y retournerais plus</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d55cb524-a30b-44c1-a57c-69d123397824">
+			<text>une pizza assez bonne mais servie sans couverts ?</text>
+			<Opinions>
+				<Opinion target="pizza" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fdcb5a67-71fa-4944-8b24-453f48bee3d5">
+			<text>Oui c'est frais,</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="916b6ede-0f84-4964-ae2f-eb1e86397dbf">
+			<text>Tout ça pour une trentaine d'euros, et moins de 50€ avec boisson, c'est remarquable !</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7db61e44-bf7b-495b-928a-fa206d4cc8a8">
+			<text>J'oubliais : si vous trouvez votre cheeseburger à 14,50€ trop sec, on vous signale que vous auriez pu rajouter une feuille de salade ou un cornichon... facturés 0,50€ !</text>
+			<Opinions>
+				<Opinion target="cheeseburger" category="FOOD#QUALITY" polarity="negative" from="35" to="47"/>
+				<Opinion target="cheeseburger" category="FOOD#STYLE_OPTIONS" polarity="negative" from="35" to="47"/>
+				<Opinion target="cheeseburger" category="FOOD#PRICES" polarity="negative" from="35" to="47"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e4e508ad-469c-4bca-aecf-3799070c58ca">
+			<text>viandes excellentes pour les amateurs</text>
+			<Opinions>
+				<Opinion target="viandes" category="FOOD#QUALITY" polarity="positive" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bb6aeccd-8539-45ff-8640-282c649f8632">
+			<text>Nous avons beaucoup fréquenté ce petit restaurant , mais là il a beaucoup baissé ...</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="39" to="49"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8a339814-0c92-42b8-b087-b8783d7f8219">
+			<text>Si on cherche la petite bête, peut etre un peu d'attente.</text>
+			<Opinions>
+				<Opinion target="attente" category="SERVICE#GENERAL" polarity="negative" from="49" to="56"/>
+			</Opinions>
+		</sentence>
+		<sentence id="40dcf9eb-6d0e-4a76-a76d-f4dc58781c65">
+			<text>Nous avons testé le menu dégustation à 70€.</text>
+			<Opinions/>
+		</sentence>
+	</sentences>
+</Reviews>

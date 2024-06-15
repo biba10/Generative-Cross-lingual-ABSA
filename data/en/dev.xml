@@ -1,0 +1,1170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>
+	<sentences>
+		<sentence id="d4cec152-b4d7-4fd4-b099-f3a593c52782">
+			<text>Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.</text>
+			<Opinions>
+				<Opinion target="Caesar Salad" category="FOOD#QUALITY" polarity="positive" from="20" to="32"/>
+				<Opinion target="arugula and goat cheese" category="FOOD#QUALITY" polarity="positive" from="51" to="74"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ce30b8ca-0719-49cd-acc2-859216444b6f">
+			<text>When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.</text>
+			<Opinions>
+				<Opinion target="waiter" category="SERVICE#GENERAL" polarity="positive" from="100" to="106"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7e46de65-9985-4564-8d48-38854da618e5">
+			<text>I've been there three times and have always had wonderful experiences.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5400749b-b149-48e4-9282-a12238aeafd8">
+			<text>Best of all is the warm vibe, the owner is super friendly and service is fast.</text>
+			<Opinions>
+				<Opinion target="vibe" category="AMBIENCE#GENERAL" polarity="positive" from="24" to="28"/>
+				<Opinion target="owner" category="SERVICE#GENERAL" polarity="positive" from="34" to="39"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="62" to="69"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e5e10ff9-3c81-400a-9fca-12a63b1a83ed">
+			<text>When I got there the place was packed but they made sure to seat me quickly.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6477b495-774f-47ae-95c2-24dff005f0e6">
+			<text>This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="51" to="55"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="27" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4c46e4eb-a817-451a-b8e8-8167ad1717a4">
+			<text>If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).</text>
+			<Opinions>
+				<Opinion target="private booths" category="AMBIENCE#GENERAL" polarity="positive" from="117" to="131"/>
+				<Opinion target="glass ceilings" category="AMBIENCE#GENERAL" polarity="positive" from="226" to="240"/>
+			</Opinions>
+		</sentence>
+		<sentence id="89c65742-81d4-437c-a244-3134b3dfb187">
+			<text>Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="18" to="25"/>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="36" to="40"/>
+				<Opinion target="food" category="FOOD#PRICES" polarity="positive" from="36" to="40"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b0a8471a-a2ca-4c91-b035-0975f0d1a0b2">
+			<text>The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.</text>
+			<Opinions>
+				<Opinion target="live jazz band" category="AMBIENCE#GENERAL" polarity="positive" from="55" to="69"/>
+				<Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="74" to="84"/>
+			</Opinions>
+		</sentence>
+		<sentence id="790053fe-be43-412d-94e7-bb6faec3c942">
+			<text>I mentioned the squid dish wasn't very good when the waitress visited.</text>
+		</sentence>
+		<sentence id="6489f79f-5639-4504-8a19-4e8f186a3143">
+			<text>I have eaten a lot of pizza here.</text>
+		</sentence>
+		<sentence id="f6f53f64-1311-4df4-98cb-6e2e03e9176b">
+			<text>it's the only place you can get yummy authentic japanese comfort food.</text>
+			<Opinions>
+				<Opinion target="japanese comfort food" category="FOOD#QUALITY" polarity="positive" from="48" to="69"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5b9abf82-22e0-4331-bb87-0bfc2eba6575">
+			<text>We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.</text>
+			<Opinions>
+				<Opinion target="staff" category="SERVICE#GENERAL" polarity="negative" from="75" to="80"/>
+			</Opinions>
+		</sentence>
+		<sentence id="81ce605c-5245-45f1-9c8e-0c2c7965c716">
+			<text>For me dishes a little oily, but overall dining experience good.</text>
+			<Opinions>
+				<Opinion target="dishes" category="FOOD#QUALITY" polarity="negative" from="7" to="13"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="989d2512-c72f-4860-b5df-6fb05a8e03a9">
+			<text>overpriced japanese food with mediocre service</text>
+			<Opinions>
+				<Opinion target="japanese food" category="FOOD#PRICES" polarity="negative" from="11" to="24"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="neutral" from="39" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a653315e-66c2-4545-8e21-0b0a1f770700">
+			<text>Shame on this place for the horrible rude staff and non-existent customer service.</text>
+			<Opinions>
+				<Opinion target="staff" category="SERVICE#GENERAL" polarity="negative" from="42" to="47"/>
+				<Opinion target="customer service" category="SERVICE#GENERAL" polarity="negative" from="65" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="86bda631-ce38-4a4d-a41b-096d8521f686">
+			<text>It's very spicy but not offensive.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8f017248-86d9-4e40-85b5-59306f5ca2c1">
+			<text>My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8cbc774b-ab27-4606-913d-7c88639e2f90">
+			<text>A little pricey but it really hits the spot on a Sunday morning!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e5698f6e-786c-4011-8424-b5d51cc07dfd">
+			<text>short and sweet – seating is great:it's romantic,cozy and private.</text>
+			<Opinions>
+				<Opinion target="seating" category="AMBIENCE#GENERAL" polarity="positive" from="18" to="25"/>
+			</Opinions>
+		</sentence>
+		<sentence id="477af744-7852-430c-9a4d-4517b0e61f94">
+			<text>Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.</text>
+			<Opinions>
+				<Opinion target="appetizer selection" category="FOOD#STYLE_OPTIONS" polarity="negative" from="22" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="abc38124-77c4-433c-b65d-a926df28ac12" OutOfScope="TRUE">
+			<text>Also a little more expensive than your average bagel place.</text>
+		</sentence>
+		<sentence id="7c8f2d57-6ad1-45ae-af04-153b51e0132f">
+			<text>Go there to relax and feel like your somewhere else.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="51befcff-481c-454a-a6fc-3464dc427b08">
+			<text>Simply some good tasting Chinese food at incredible prices...</text>
+			<Opinions>
+				<Opinion target="Chinese food" category="FOOD#QUALITY" polarity="positive" from="25" to="37"/>
+				<Opinion target="Chinese food" category="FOOD#PRICES" polarity="positive" from="25" to="37"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b016c119-6753-4545-93ef-6e9f977e773b" OutOfScope="TRUE">
+			<text>If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.</text>
+		</sentence>
+		<sentence id="1884713e-f8ae-49cd-84a8-40c7d17e77e5">
+			<text>Consistently good Japanese Tapas.</text>
+			<Opinions>
+				<Opinion target="Japanese Tapas" category="FOOD#QUALITY" polarity="positive" from="18" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8e501a50-741d-4a9c-81b6-b7a7f22894b0">
+			<text>I ate here a week ago and found most dishes average at best and too expensive.</text>
+			<Opinions>
+				<Opinion target="dishes" category="FOOD#QUALITY" polarity="negative" from="37" to="43"/>
+				<Opinion target="dishes" category="FOOD#PRICES" polarity="negative" from="37" to="43"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2165a2ad-6996-480d-83a0-1d98c62e2cd5">
+			<text>The level of rudeness was preposterous.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ae865a1d-603d-49e4-a0db-a6ceb83d3a39">
+			<text>Great, original taste.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1bb06c54-79f1-487b-b46e-21d989058d6e">
+			<text>Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.</text>
+			<Opinions>
+				<Opinion target="Korean food" category="FOOD#QUALITY" polarity="positive" from="61" to="72"/>
+				<Opinion target="fusion twists" category="FOOD#QUALITY" polarity="positive" from="77" to="90"/>
+				<Opinion target="pork belly tacos" category="FOOD#QUALITY" polarity="positive" from="96" to="112"/>
+			</Opinions>
+		</sentence>
+		<sentence id="de8149d8-04bd-4474-8539-550831404a13">
+			<text>Service was prompt, friendly and great.</text>
+			<Opinions>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2f400132-04f3-469f-8967-5d27f691973b">
+			<text>I really recommend the very simple Unda (Egg) rolls.</text>
+			<Opinions>
+				<Opinion target="Unda (Egg) rolls" category="FOOD#QUALITY" polarity="positive" from="35" to="51"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d3c710da-8745-4b16-8082-ab2f5f609eff">
+			<text>However, I think this place is a good hang out spot.</text>
+			<Opinions>
+				<Opinion target="place" category="AMBIENCE#GENERAL" polarity="positive" from="22" to="27"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c57b1a45-bede-4119-873c-925ce10a8af6" OutOfScope="TRUE">
+			<text>Even the pasta is delicious here (a rarity in New York pizza restaurants).</text>
+		</sentence>
+		<sentence id="203eb8af-77f1-4822-96c4-440c425df165">
+			<text>peppers, onions, relish, chilli, cheeses, you NAME it.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6740d38e-0da2-4da3-ad2c-513f1382eaf8">
+			<text>Bagels are ok, but be sure not to make any special requests!</text>
+			<Opinions>
+				<Opinion target="Bagels" category="FOOD#QUALITY" polarity="neutral" from="0" to="6"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="39c96339-9276-46cd-a4fb-062c8147846f">
+			<text>The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.</text>
+			<Opinions>
+				<Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="negative" from="4" to="14"/>
+				<Opinion target="waiters" category="SERVICE#GENERAL" polarity="positive" from="32" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3533e635-2a64-41af-bc2a-a2ea972fed9c">
+			<text>So eat fast and order a lot.</text>
+		</sentence>
+		<sentence id="878fc0f5-8a32-41f0-bf7c-4d3f42433026">
+			<text>If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.</text>
+			<Opinions>
+				<Opinion target="fish" category="FOOD#QUALITY" polarity="negative" from="41" to="45"/>
+				<Opinion target="staff" category="SERVICE#GENERAL" polarity="negative" from="58" to="63"/>
+				<Opinion target="sushi chef" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="70" to="80"/>
+			</Opinions>
+		</sentence>
+		<sentence id="da5fe67e-41ad-425e-98b7-db4ea5ca2c23">
+			<text>We refused to pay for it because at this point it had nothing to do with the food anymore.</text>
+		</sentence>
+		<sentence id="cb24b1d6-ae56-483e-973b-f97028e435a5">
+			<text>The bagel was huge.</text>
+			<Opinions>
+				<Opinion target="bagel" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="20676407-9937-472d-96f7-4b4e2c1f0555">
+			<text>Their pad penang is delicious and everything else is fantastic.</text>
+			<Opinions>
+				<Opinion target="pad penang" category="FOOD#QUALITY" polarity="positive" from="6" to="16"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e33c583c-3fe3-49d4-9ca7-9c41139eeaeb">
+			<text>highly recommended.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="806f7c82-4f21-4ad2-8426-4fd183840a89">
+			<text>I honestly don't even know where to begin.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="295bc381-f7e2-4cd0-8024-519a26522d28">
+			<text>The tuna and wasabe potatoes are excellent.</text>
+			<Opinions>
+				<Opinion target="tuna" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+				<Opinion target="wasabe potatoes" category="FOOD#QUALITY" polarity="positive" from="13" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6090dddb-fd2a-444a-84a3-3af3ad262790">
+			<text>the last time i walked by it looked pretty empty. hmmm.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="08cf7277-a668-4fbe-9a73-959cfeb30643">
+			<text>I can't wait to go back.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="bb05d117-f6be-41e4-9015-e19bb7e8bed0">
+			<text>The entertainment was great they have shows that go on through out the dinner.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4d23cef2-a0c1-4bc7-8b51-4fd3b50a439f">
+			<text>It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. </text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="39bcc86f-3f2a-42fa-9384-2b005b5b10fa">
+			<text>food was luke warm.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="0" to="4"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eee1e4ce-fdac-47ca-b559-0f6268a01acd">
+			<text>Bukhara is on my top 5 Indian places in NYC</text>
+			<Opinions>
+				<Opinion target="Bukhara" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6b3f7083-7e65-45de-bba2-21f6c4586774">
+			<text>Moules were excellent, lobster ravioli was VERY salty!</text>
+			<Opinions>
+				<Opinion target="Moules" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+				<Opinion target="lobster ravioli" category="FOOD#QUALITY" polarity="negative" from="23" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="cbd46801-67ed-4ba9-9e6a-6f6ca7f91dc7">
+			<text>I had fish and my husband had the filet - both of which exceeded our expectations.</text>
+			<Opinions>
+				<Opinion target="fish" category="FOOD#QUALITY" polarity="positive" from="6" to="10"/>
+				<Opinion target="filet" category="FOOD#QUALITY" polarity="positive" from="34" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a90fcf57-ae59-4735-99f9-cb2805511134">
+			<text>I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="20" to="30"/>
+				<Opinion target="restaurant" category="RESTAURANT#PRICES" polarity="negative" from="20" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1133116a-b092-482d-aa23-7f953f15d17c">
+			<text>Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.</text>
+			<Opinions>
+				<Opinion target="scene" category="AMBIENCE#GENERAL" polarity="positive" from="9" to="14"/>
+				<Opinion target="place" category="AMBIENCE#GENERAL" polarity="positive" from="30" to="35"/>
+				<Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="90" to="98"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7fe4691c-a304-42e9-9acc-7d353f5a0333">
+			<text>There is "Expensive-but-worth-it" and there is "Expensive-and-WTF"?</text>
+		</sentence>
+		<sentence id="5e0b38a1-5a18-4609-bd78-ca49b4b1be05">
+			<text>Be sure not to get anything other than bagels!..</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+				<Opinion target="bagels" category="FOOD#QUALITY" polarity="positive" from="39" to="45"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8b018d9f-3450-4cd6-9815-75b47d919155">
+			<text>Wouldn't recomend it for dinner!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5e5ff6c6-837f-4731-954a-e73b6e0080ad">
+			<text>I recently tried Suan and I thought that it was great.</text>
+			<Opinions>
+				<Opinion target="Suan" category="RESTAURANT#GENERAL" polarity="positive" from="17" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="19973f84-9368-4e9f-8f23-7a7fd73faac4">
+			<text>The food here does a great service to the name (Cantonese that is...).</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c192264a-3004-4b82-b29d-3cbaaafe4772">
+			<text>What?</text>
+		</sentence>
+		<sentence id="03259e29-efdc-4db4-8935-dd3907891474">
+			<text>Fantastic place.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="10" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7cba8920-8945-4a52-a924-63ae778caa3f">
+			<text>I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#PRICES" polarity="negative" from="31" to="41"/>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="31" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e04101f7-7ea9-474f-8592-09eb825c3b03">
+			<text>Conveniently located too, being right on Bedford ave.</text>
+			<Opinions>
+				<Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0a834c0a-612a-4bf5-80f0-ab02935ed7da">
+			<text>It is set far from the small street it's on, and there is no traffic noise.</text>
+			<Opinions>
+				<Opinion target="NULL" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a6927c81-6489-4385-a426-11d344fa4a66">
+			<text>We ordered dosut bibimbap and nakgi-bokum.</text>
+		</sentence>
+		<sentence id="9a8cd0d9-f621-440f-a8fa-cd13ed19f9e0">
+			<text>The food is great.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="956e33a7-88b4-4f44-8c6a-f88077564ccc">
+			<text>MMmmm... it was delicious.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1c9543b3-ae6a-4461-a4ab-7792ba3053ca">
+			<text>the all-u-can-eat sushi is definitely in very poor quality.</text>
+			<Opinions>
+				<Opinion target="all-u-can-eat sushi" category="FOOD#QUALITY" polarity="negative" from="4" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a86d9eba-2054-4048-9a01-936f6530f185">
+			<text>The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).</text>
+			<Opinions>
+				<Opinion target="waitress" category="SERVICE#GENERAL" polarity="negative" from="4" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d9ee3c33-7efa-4a90-a542-f32a439f311b">
+			<text>great for a romantic evening, or a fun evening with friends...</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2c220b29-29f3-42bf-bce0-30dec0bef5e5">
+			<text>I felt as though I were eating in Paris.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e06b1f1-e5e8-4950-8ee9-ba0071102910">
+			<text>He served me an Uni Hand roll, which I never had before, and let me tell you...IT WAS HEAVEN!</text>
+			<Opinions>
+				<Opinion target="Uni Hand roll" category="FOOD#QUALITY" polarity="positive" from="16" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3e9052e2-0c98-4612-a689-52b64e7cad34">
+			<text>When I called this morning, I didn't think I would be able to get in at 12, but I was able to get in, along with four other guests.</text>
+		</sentence>
+		<sentence id="80cacead-3dcd-4b84-a328-6e82204f15ad">
+			<text>It hits the spot every time</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c616f03a-ba8d-4d44-977d-cb1508fba998">
+			<text>amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="85" to="90"/>
+				<Opinion target="hot dog" category="FOOD#QUALITY" polarity="positive" from="16" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5b919161-e2a2-4aee-b60a-6df81bf80099">
+			<text>I thought going to Jimmys would give me a real Domincan exprience.</text>
+		</sentence>
+		<sentence id="8bb8f328-8e46-4463-8ec1-db8b8ff776b7">
+			<text>fine dining restaurant quality.</text>
+			<Opinions>
+				<Opinion target="dining" category="FOOD#QUALITY" polarity="positive" from="5" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a8fff9a9-829a-4d43-bf41-33165877dd8f">
+			<text>The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.</text>
+			<Opinions>
+				<Opinion target="environment" category="AMBIENCE#GENERAL" polarity="neutral" from="4" to="15"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="4" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aa788ff1-63d6-4ae9-8306-3307df63cd1e">
+			<text>Love this place, every time we are in the city this is one of the places we always go.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="10" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="04f71502-80bb-4eeb-bb15-42f93ac24eb1">
+			<text>Great find in the West Village!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d087489c-b466-4fca-ad7a-0df4f98a6401">
+			<text>Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.</text>
+			<Opinions>
+				<Opinion target="congee" category="FOOD#QUALITY" polarity="positive" from="8" to="14"/>
+				<Opinion target="Ow Ley Soh" category="FOOD#QUALITY" polarity="positive" from="61" to="71"/>
+			</Opinions>
+		</sentence>
+		<sentence id="0987923d-44d8-4df9-afae-0485ee389b8e">
+			<text>Be prepared to wait, because the place is pretty tiny.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="33" to="38"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8675a502-5fe5-4d1f-b40f-9f2a7ff49717" OutOfScope="TRUE">
+			<text>(1) turnip cakes at the little kiosk on east side of Mott St. just south of bayard</text>
+		</sentence>
+		<sentence id="1335764f-6fd2-466d-bb61-6d045c01aafc">
+			<text>I got hair in my food 2 times of then !</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="17" to="21"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e0d728b1-8760-4cd7-b831-fdf9f8ee6219">
+			<text>I would highly recommend it.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aef1b869-f311-4f39-ab08-199af09f0709">
+			<text>In any event, this is a place I'll be sure to stop by again when I'm in this part of town.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="24" to="29"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1e641d18-0d6b-4b1f-ae7c-8fe5ef6ff71a">
+			<text>Service was very prompt but slightly rushed.</text>
+			<Opinions>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+				<Opinion target="Service" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="904bbf9f-4461-4ba2-955b-509dc2c5e421">
+			<text>We know the difference between and oyster and bad fish.</text>
+		</sentence>
+		<sentence id="ef674432-f76b-4428-8d43-5b4d13cf346a">
+			<text>I've never ordered anything else from their menu...there's no need to.</text>
+		</sentence>
+		<sentence id="de46750d-4c10-4cc3-961b-07cf9cbe3a64">
+			<text>I really loved the different and inovated touch that's the cheff gives to the food.</text>
+			<Opinions>
+				<Opinion target="cheff" category="FOOD#STYLE_OPTIONS" polarity="positive" from="59" to="64"/>
+			</Opinions>
+		</sentence>
+		<sentence id="aaff5d01-d463-4f20-a89e-67e1ca9f5cbd">
+			<text>None was made so i hung up.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f56adf70-545e-4057-9a0e-7a0d5014e8e5">
+			<text>The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.</text>
+			<Opinions>
+				<Opinion target="pizza" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+				<Opinion target="fresh mozzarella" category="FOOD#QUALITY" polarity="positive" from="34" to="50"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4b8eeb20-522d-4d17-a274-d12891b7da9d">
+			<text>Of course, it is crowded but who cares.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5e606f3a-210d-4aba-b7d9-fa7f58a2c9f9">
+			<text>I would never recommend this place to anybody even for a casual dinner.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="negative" from="29" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="205a4ff5-4fc1-4023-96e9-7debccb3e1f1">
+			<text>No gimmicks here -- the food speaks for itself in its freshness and preparation.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="24" to="28"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8b7b799f-ad8a-47cc-91e9-607b73112e17">
+			<text>Ahhh...</text>
+		</sentence>
+		<sentence id="c10ec3f2-93b5-4359-9192-c7601b5eac59">
+			<text>Vanison was good but not amazing.</text>
+			<Opinions>
+				<Opinion target="Vanison" category="FOOD#QUALITY" polarity="neutral" from="0" to="7"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3a4b6a52-16c9-4ab8-bc93-62827983ca51">
+			<text>I went there with my friend last saturday.</text>
+		</sentence>
+		<sentence id="9386b604-9386-404d-bc4f-4ac802c69562">
+			<text>We concluded with tiramisu chocolate cake, both were delicious.</text>
+			<Opinions>
+				<Opinion target="tiramisu" category="FOOD#QUALITY" polarity="positive" from="18" to="26"/>
+				<Opinion target="chocolate cake" category="FOOD#QUALITY" polarity="positive" from="27" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="09342c35-3930-431d-890d-31f99233cd50">
+			<text>This place is worth an one-hour drive.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="5" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9ef7152d-2a20-4159-9731-a3e4011fbcc9">
+			<text>Our friends have not arrived yet.</text>
+		</sentence>
+		<sentence id="754221de-27f4-458b-941b-a01815c66608">
+			<text>Sit outside in the warm weather; inside for cozy winter.</text>
+		</sentence>
+		<sentence id="9fdf7ef9-1cbf-446f-98bc-3f86babebeb2">
+			<text>The sushi was awful!</text>
+			<Opinions>
+				<Opinion target="sushi" category="FOOD#QUALITY" polarity="negative" from="4" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="72599b70-46e1-4657-8ac2-2cd4ed3d1be1">
+			<text>We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.</text>
+			<Opinions>
+				<Opinion target="beef and noodle soup dishes" category="FOOD#QUALITY" polarity="negative" from="16" to="43"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8aaa1651-b8a6-4670-86fb-6b47db433bde">
+			<text>It is thick and slightly soggy.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="14f9bfbf-bc3a-48c0-be97-bcb383f1f747">
+			<text>This place is a must visit!</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="5" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="1af6a8a7-4a3e-48ed-8cd9-30209aafe639">
+			<text>We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.</text>
+			<Opinions>
+				<Opinion target="chicken casserole" category="FOOD#QUALITY" polarity="negative" from="15" to="32"/>
+				<Opinion target="chicken casserole" category="FOOD#STYLE_OPTIONS" polarity="negative" from="15" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5353bf14-bef3-4ae5-bd04-65e4930d5832">
+			<text>A few tips: skip the turnip cake, roast pork buns and egg custards.</text>
+			<Opinions>
+				<Opinion target="turnip cake" category="FOOD#QUALITY" polarity="negative" from="21" to="32"/>
+				<Opinion target="roast pork buns" category="FOOD#QUALITY" polarity="negative" from="34" to="49"/>
+				<Opinion target="egg custards" category="FOOD#QUALITY" polarity="negative" from="54" to="66"/>
+			</Opinions>
+		</sentence>
+		<sentence id="29487086-253f-4b97-a291-c839cd3a40b7">
+			<text>Eat at your own risk.</text>
+			<Opinions>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="21" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="dfa9a872-aa8b-4f36-b104-6e89650c7b48">
+			<text>The service was excellent - friendly and attentive.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ef0530f9-44f3-4e05-8435-36d299f61952">
+			<text>I have been living in NYC for bit now and I have to say I love to go out and explore the scene.</text>
+		</sentence>
+		<sentence id="52f2be9f-7cfb-457a-9446-1fbe020669af">
+			<text>Much of the time it seems like they do not care about you.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="00311f61-799c-44f4-a4d6-35dc09a31e10">
+			<text>WORST PLACE ON SMITH STREET IN BROOKLYN</text>
+			<Opinions>
+				<Opinion target="PLACE" category="RESTAURANT#GENERAL" polarity="negative" from="6" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="7cecf277-11f3-481a-b112-a7ceebf702bb">
+			<text>Visited there while on vacation and reading the reviews.</text>
+		</sentence>
+		<sentence id="a8e72de8-19c9-4319-8e71-e7b74aa90ee5">
+			<text>then we ordered a dinosaur rolls and white tuna sashimi.</text>
+		</sentence>
+		<sentence id="5bd81186-0726-40c4-a24a-630b8fab3d38">
+			<text>Unbelievable.</text>
+		</sentence>
+		<sentence id="06eb7081-78b7-4205-989a-7ac348d1ffad">
+			<text>The only thing you can do here is walk in and eat .. but planning an event, especially a small, intimate one, forget about it.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="02f21719-d90f-48de-87ff-5842865a6c2e">
+			<text>However, our $14 drinks were were horrible!</text>
+			<Opinions>
+				<Opinion target="drinks" category="DRINKS#QUALITY" polarity="negative" from="17" to="23"/>
+				<Opinion target="drinks" category="DRINKS#PRICES" polarity="negative" from="17" to="23"/>
+			</Opinions>
+		</sentence>
+		<sentence id="636a6ed5-a07b-4aa9-9aeb-f55cf75df508">
+			<text>In summer-eat outside on a terrace (another great feature of Suan)!!!</text>
+			<Opinions>
+				<Opinion target="terrace" category="AMBIENCE#GENERAL" polarity="positive" from="27" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ee415b03-fc59-4049-aaf4-abc5ff83de80">
+			<text>The only thing more wonderful than the food (which is exceptional) is the service.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="39" to="43"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="74" to="81"/>
+			</Opinions>
+		</sentence>
+		<sentence id="e5549473-8556-4449-9d71-ed72109fb237">
+			<text>Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.</text>
+			<Opinions>
+				<Opinion target="baba ganoush" category="FOOD#QUALITY" polarity="positive" from="56" to="68"/>
+				<Opinion target="belly dancers" category="AMBIENCE#GENERAL" polarity="positive" from="19" to="32"/>
+			</Opinions>
+		</sentence>
+		<sentence id="65fc3855-9954-490d-bbbe-b91e07cc1902">
+			<text>Also, I personally wasn't a fan of the portobello and asparagus mole.</text>
+			<Opinions>
+				<Opinion target="portobello and asparagus mole" category="FOOD#QUALITY" polarity="negative" from="39" to="68"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a8558707-2d7b-439b-b64f-618d75bfadf6">
+			<text>Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.</text>
+			<Opinions>
+				<Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
+				<Opinion target="raw vegatables in side orders" category="FOOD#QUALITY" polarity="negative" from="76" to="105"/>
+			</Opinions>
+		</sentence>
+		<sentence id="70221fe3-b218-4f26-9d08-d58fef95c062">
+			<text>Went here on a friend's reccomendation.</text>
+		</sentence>
+		<sentence id="761f2128-f05d-4509-9671-b1df1e11bcbd">
+			<text>This place is not worth the prices.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="negative" from="5" to="10"/>
+				<Opinion target="place" category="RESTAURANT#PRICES" polarity="negative" from="5" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6b136e1b-a3e5-4549-8c6b-28c63a6bf7f1">
+			<text>We'd go back again</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ad46fe92-e938-425f-9498-b305706e5cd1">
+			<text>The fish was adequate, but inexpertly sliced.</text>
+			<Opinions>
+				<Opinion target="fish" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="715e5e2c-73f5-41ed-8572-f743a70ba565">
+			<text>The place was quiet and delightful.</text>
+			<Opinions>
+				<Opinion target="place" category="AMBIENCE#GENERAL" polarity="positive" from="4" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b5398628-b497-4071-953d-d237ae41a43e" OutOfScope="TRUE">
+			<text>Restaurants in manhattan should try to model food and service after this place.</text>
+		</sentence>
+		<sentence id="1abb8e9c-f551-4803-b3c3-d9ae6c3881fb">
+			<text>Great pizza for lunch place.</text>
+			<Opinions>
+				<Opinion target="pizza" category="FOOD#QUALITY" polarity="positive" from="6" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b88fc9dc-5c87-4d90-853b-58162bf00fb6">
+			<text>The food here is rather good, but only if you like to wait for it.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="807d1e02-dc05-4805-aa99-dd03a9c7cff4">
+			<text>It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive.</text>
+			<Opinions>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="negative" from="21" to="31"/>
+			</Opinions>
+		</sentence>
+		<sentence id="79cec419-737a-4a3d-8056-27cd2db4e4d4">
+			<text>Our waitress wasn't mean, but not especially warm or attentive either.</text>
+			<Opinions>
+				<Opinion target="waitress" category="SERVICE#GENERAL" polarity="neutral" from="4" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="45c3e454-745c-4baa-ac09-12573188fd4e">
+			<text>All in all the food was good - a little on the expensive side, but fresh. </text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="15" to="19"/>
+				<Opinion target="food" category="FOOD#PRICES" polarity="negative" from="15" to="19"/>
+			</Opinions>
+		</sentence>
+		<sentence id="59afe8cc-45c5-4249-9400-a45191ec8c56">
+			<text>We were walking around the village and went into this place just for some drinks.</text>
+		</sentence>
+		<sentence id="fb293d88-764b-4b96-b0f5-8a95c75fb1ae">
+			<text>The waitress was very patient with us and the food is phenomenal!</text>
+			<Opinions>
+				<Opinion target="waitress" category="SERVICE#GENERAL" polarity="positive" from="4" to="12"/>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="46" to="50"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eddeaa7e-a760-4f53-a1fd-0f035331b72e">
+			<text>We ate out in the back patio, which is worth it as it's cool and the music is hear well there.</text>
+			<Opinions>
+				<Opinion target="back patio" category="AMBIENCE#GENERAL" polarity="positive" from="18" to="28"/>
+				<Opinion target="music" category="AMBIENCE#GENERAL" polarity="positive" from="69" to="74"/>
+			</Opinions>
+		</sentence>
+		<sentence id="eba1d926-8dce-4676-aecf-bf6e7c073369">
+			<text>The food is outstanding and the service is quick, friendly and very professional.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="32" to="39"/>
+			</Opinions>
+		</sentence>
+		<sentence id="23733c3d-a2cd-432e-be67-bfc925c8bfc0">
+			<text>the food is always fresh ...</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+			</Opinions>
+		</sentence>
+		<sentence id="62ac86cb-41cd-415c-9cbc-bbe0910d072a">
+			<text>The service is awful.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d1b7afa9-04a2-4aa9-8c94-b89271322a46">
+			<text>An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.</text>
+			<Opinions>
+				<Opinion target="spot" category="AMBIENCE#GENERAL" polarity="positive" from="17" to="21"/>
+				<Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="41" to="46"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="73" to="80"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2bf9aa25-0d96-4017-8410-21fe845e2577">
+			<text>Restaurant with a view</text>
+			<Opinions>
+				<Opinion target="view" category="LOCATION#GENERAL" polarity="neutral" from="18" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8fbbd7be-6dd4-4c3e-81e0-65774de947a9">
+			<text>But the service is HORRID!</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="8" to="15"/>
+			</Opinions>
+		</sentence>
+		<sentence id="af2f803d-1abc-45f0-9210-7401f2e68aa9" OutOfScope="TRUE">
+			<text>Without the wait or attitude, I would probably go back, but there are just too many other restaurants in Brooklyn that are as good or better and don't make me jump through hoops.</text>
+		</sentence>
+		<sentence id="011eb598-aa5e-41cb-afae-19778d8d5e9c">
+			<text>The sashimi is always fresh and the rolls are innovative and delicious.</text>
+			<Opinions>
+				<Opinion target="sashimi" category="FOOD#QUALITY" polarity="positive" from="4" to="11"/>
+				<Opinion target="rolls" category="FOOD#STYLE_OPTIONS" polarity="positive" from="36" to="41"/>
+				<Opinion target="rolls" category="FOOD#QUALITY" polarity="positive" from="36" to="41"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2193adbc-926b-411b-97f1-7b740e5c3874">
+			<text>Winnie and her staff are the best crew you can find serving you.</text>
+			<Opinions>
+				<Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="15" to="20"/>
+				<Opinion target="Winnie" category="SERVICE#GENERAL" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="56d13d94-aaae-416a-bb4c-f1eb391e154d">
+			<text>The food was well prepared and the service impecable.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="35" to="42"/>
+			</Opinions>
+		</sentence>
+		<sentence id="92b07818-ef62-4972-8cc1-1ee22de55e6e">
+			<text>I'm still mad that i had to pay for lousy food.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="42" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="634046b3-8609-45c5-906f-21fdfdc00abb" OutOfScope="TRUE">
+			<text>Much more reasonably priced too!</text>
+		</sentence>
+		<sentence id="e23e8d9e-bd25-45c1-9893-60c624710f9f">
+			<text>He offers subpar service and has no personality.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="17" to="24"/>
+			</Opinions>
+		</sentence>
+		<sentence id="628c45a6-8225-4e13-b657-c85053a6b9d6">
+			<text>Good food.</text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="5" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="af6655a0-fdc3-47fa-b4a0-8f9bd3cdc3ab">
+			<text>Prices are very good.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="62e48b33-705e-4eda-974c-e7627ca1635b">
+			<text>The waitress, seems to be more concerned of looking good than actually waitressing.</text>
+			<Opinions>
+				<Opinion target="waitress" category="SERVICE#GENERAL" polarity="negative" from="4" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d463e49a-1d7f-456a-9a58-62d82baecaac">
+			<text>first it took us a long time to find the place.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="41" to="46"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c20f34b9-58d1-4bda-b12f-857db409fb3b">
+			<text>Hey, I think $2+ for a 5 block walk ain't bad.</text>
+		</sentence>
+		<sentence id="12871985-15aa-47ab-865c-fdfdc85461c5">
+			<text>The atmosphere is unheralded, the service impecible, and the food magnificant.</text>
+			<Opinions>
+				<Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="4" to="14"/>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="34" to="41"/>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="61" to="65"/>
+			</Opinions>
+		</sentence>
+		<sentence id="4fe7be61-769d-4a7b-8dee-87c3ee2ca275">
+			<text>She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5dbb1d32-83f0-40c8-bb02-33d7f61fffc0">
+			<text>I highly recommend the fish tacos, everything else was ok.</text>
+			<Opinions>
+				<Opinion target="fish tacos" category="FOOD#QUALITY" polarity="positive" from="23" to="33"/>
+				<Opinion target="NULL" category="FOOD#QUALITY" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="28afc20b-93f5-4571-95f1-20c7e673d58b">
+			<text>We liked it so much, that we will always make it a point to dine here when we visit New York.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="c08851e8-7f19-4dfd-abb6-dbd6f8668520" OutOfScope="TRUE">
+			<text>Authentic Korean food lovers should visit 32nd Street, of course.</text>
+		</sentence>
+		<sentence id="560fcc10-b580-4973-8f95-fb140afd2034">
+			<text>Highly recommend it!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3567414b-9905-4dd1-93b8-58211ca8d09b">
+			<text>The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.</text>
+			<Opinions>
+				<Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="4" to="11"/>
+				<Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="50" to="55"/>
+			</Opinions>
+		</sentence>
+		<sentence id="99b88ade-c236-499a-baa5-fb5404e65545" OutOfScope="TRUE">
+			<text>Skip Nathan's...you can get that at the mall...go to Bark.</text>
+		</sentence>
+		<sentence id="99787e84-e2f8-4a9c-923b-0282ec0bffba">
+			<text>Raga's is a romantic, cozy restaurant.</text>
+			<Opinions>
+				<Opinion target="Raga's" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="6"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d00996cd-189e-47cd-90bc-d99c9cac0f99">
+			<text>Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! </text>
+			<Opinions>
+				<Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="43" to="47"/>
+				<Opinion target="grilled Mahi Mahi" category="FOOD#QUALITY" polarity="negative" from="79" to="96"/>
+				<Opinion target="grilled Mahi Mahi" category="FOOD#STYLE_OPTIONS" polarity="negative" from="79" to="96"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b64b22b7-3238-48a0-a60e-27e08b15484b">
+			<text>Also, they do not take credit card so come with cash!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="neutral" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9c1d2bcc-05e8-4880-b207-8e0dc363ed0e">
+			<text>The veal and the mushrooms were cooked perfectly.</text>
+			<Opinions>
+				<Opinion target="veal" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+				<Opinion target="mushrooms" category="FOOD#QUALITY" polarity="positive" from="17" to="26"/>
+			</Opinions>
+		</sentence>
+		<sentence id="22e4a022-78e2-4271-a705-e73964c90e3c" OutOfScope="TRUE">
+			<text>You'll pay at least double at any other Italian restaurant in the city, and most still don't compare.</text>
+		</sentence>
+		<sentence id="e77527ca-cdee-49f1-8617-24b3d7825ba9">
+			<text>The Steak Tartare is a great bet, they fix it for you at the table.</text>
+			<Opinions>
+				<Opinion target="Steak Tartare" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="17"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d42d57fe-1832-447c-86d1-392d123f6776">
+			<text>Never again!</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f344bf3b-8393-40b1-aec9-9030ddb26cfd">
+			<text>Tiny dessert was $8.00...just plain overpriced for what it is.</text>
+			<Opinions>
+				<Opinion target="dessert" category="FOOD#STYLE_OPTIONS" polarity="negative" from="5" to="12"/>
+				<Opinion target="dessert" category="FOOD#PRICES" polarity="negative" from="5" to="12"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f819b397-7c12-44ff-a4f8-2ef72cc7c2d2">
+			<text>I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.</text>
+			<Opinions>
+				<Opinion target="decor" category="AMBIENCE#GENERAL" polarity="positive" from="44" to="49"/>
+				<Opinion target="pita" category="FOOD#QUALITY" polarity="positive" from="56" to="60"/>
+				<Opinion target="hummus" category="FOOD#QUALITY" polarity="positive" from="65" to="71"/>
+				<Opinion target="grilled octopus" category="FOOD#QUALITY" polarity="positive" from="77" to="92"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b908a059-9d2b-43b0-8783-dbdab70c08bc">
+			<text>The pizza was pretty good and huge.</text>
+			<Opinions>
+				<Opinion target="pizza" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+				<Opinion target="pizza" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
+			</Opinions>
+		</sentence>
+		<sentence id="79c91937-c55e-4786-a9e1-a1de227e8ae6">
+			<text>Don't judge this place prima facie, you have to try it to believe it, a home away from home for the literate heart.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="17" to="22"/>
+			</Opinions>
+		</sentence>
+		<sentence id="03f76133-9bae-40d0-af7b-887cd74b0ebb">
+			<text>Can't wait to go back.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="9ec44a02-f285-45da-860f-f4b021cc02a0">
+			<text>Go here for a romantic dinner but not for an all out wow dining experience.</text>
+			<Opinions>
+				<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+				<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="b592e5e6-e464-44ed-b2a5-6b54ab207126">
+			<text>The worst excuse for Japanese food I've ever encountered.</text>
+			<Opinions>
+				<Opinion target="Japanese food" category="FOOD#QUALITY" polarity="negative" from="21" to="34"/>
+			</Opinions>
+		</sentence>
+		<sentence id="263af01e-60d3-4d2c-aa06-514e64bb1c2c">
+			<text>This place must have cost the owners afortune to build.</text>
+		</sentence>
+		<sentence id="d61c5e4d-bd8a-4922-87c6-525415754895">
+			<text>Average to good Thai food, but terrible delivery.</text>
+			<Opinions>
+				<Opinion target="Thai food" category="FOOD#QUALITY" polarity="positive" from="16" to="25"/>
+				<Opinion target="delivery" category="SERVICE#GENERAL" polarity="negative" from="40" to="48"/>
+			</Opinions>
+		</sentence>
+		<sentence id="3408fbb5-5ae0-4fb9-a364-cf79e515cf47">
+			<text>I would highly recommend this place!</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="30" to="35"/>
+			</Opinions>
+		</sentence>
+		<sentence id="ebd661a4-f36d-4ac3-8b29-1269a8b421f9">
+			<text>The jukebox plays everything from Italian Opera to The Strokes.</text>
+			<Opinions>
+				<Opinion target="jukebox" category="AMBIENCE#GENERAL" polarity="positive" from="4" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="8aa6c809-975a-473a-9e3b-b264c8cc33a2">
+			<text>I have been going there since it opened and I can't get enough.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="f06909ab-4018-4985-8fa6-320124cfb1e1">
+			<text>Can't wait to go back.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5dd3e4a9-1f59-4c58-8a02-095b084fa571">
+			<text>Our first course was Tuna Sashimi with Green Yuzu Sauce.</text>
+		</sentence>
+		<sentence id="bfc90f67-dc94-4e93-866f-8ef0637f1ae6" OutOfScope="TRUE">
+			<text>There are many Thai places in the city but so far Toons is #1.</text>
+		</sentence>
+		<sentence id="a2410737-8f73-4389-a4f3-7651c5dd9305">
+			<text>The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!</text>
+			<Opinions>
+				<Opinion target="svc" category="SERVICE#GENERAL" polarity="negative" from="4" to="7"/>
+				<Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="79" to="89"/>
+			</Opinions>
+		</sentence>
+		<sentence id="fb015536-8559-4865-81f0-1f608db9c0c9">
+			<text>The prices are wonderfully low.</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="6668f01b-a4ac-4f84-83a6-95e804e311d6">
+			<text>The sake’s complimented the courses very well and is successfully easing me into the sake world.</text>
+			<Opinions>
+				<Opinion target="sake’s" category="DRINKS#QUALITY" polarity="positive" from="4" to="10"/>
+			</Opinions>
+		</sentence>
+		<sentence id="a019972a-a0a1-4c1f-bdfc-4338c2d36a08">
+			<text>We live nearby BFC. </text>
+		</sentence>
+		<sentence id="a9462644-f9d3-46a7-b88f-cb8cebd89b87">
+			<text>My GF and I dine at Bukhara often as she lives near it.</text>
+		</sentence>
+		<sentence id="db4ef350-f81a-4374-b8d4-cdf74c18d2ec">
+			<text>Although we were told 10-15 minutes and it was more like 45 minutes.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="5286c4d3-8b1c-4efa-a18d-0b7bbd5af5f7">
+			<text>Great place to relax and enjoy your dinner</text>
+			<Opinions>
+				<Opinion target="place" category="AMBIENCE#GENERAL" polarity="positive" from="6" to="11"/>
+			</Opinions>
+		</sentence>
+		<sentence id="78b190a7-9e4e-41a7-a02b-f9b7f3eaa8fe">
+			<text>I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.</text>
+			<Opinions>
+				<Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="166" to="171"/>
+				<Opinion target="place" category="RESTAURANT#PRICES" polarity="negative" from="166" to="171"/>
+				<Opinion target="chicken tikka masala" category="FOOD#PRICES" polarity="negative" from="54" to="74"/>
+				<Opinion target="feel" category="AMBIENCE#GENERAL" polarity="negative" from="196" to="200"/>
+			</Opinions>
+		</sentence>
+		<sentence id="54302247-d03a-4279-8028-56053cdfafda">
+			<text>I took one look at the chicken and I was appalled.</text>
+			<Opinions>
+				<Opinion target="chicken" category="FOOD#STYLE_OPTIONS" polarity="negative" from="23" to="30"/>
+			</Opinions>
+		</sentence>
+		<sentence id="d3493651-37ef-4879-b3cc-be46127c9d98">
+			<text>Way below average</text>
+			<Opinions>
+				<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="efac9702-30f0-4f86-9cef-747da377a3ed">
+			<text>Obviously the Chinese translation of this place does not mean Big Wong, it actually means Great Prosperity.</text>
+		</sentence>
+		<sentence id="ad5e5590-58df-4cb4-bdb2-1e747a4c542c">
+			<text>Everyone was more then happy with his choices.</text>
+			<Opinions>
+				<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+			</Opinions>
+		</sentence>
+		<sentence id="2379c1af-3532-4d5f-b348-878ab51a7336">
+			<text>This is a nice pizza place with good selection of thin crust pizza including the Basil slice.</text>
+			<Opinions>
+				<Opinion target="selection of thin crust pizza" category="FOOD#STYLE_OPTIONS" polarity="positive" from="37" to="66"/>
+				<Opinion target="selection of thin crust pizza" category="FOOD#QUALITY" polarity="positive" from="37" to="66"/>
+				<Opinion target="pizza place" category="RESTAURANT#GENERAL" polarity="positive" from="15" to="26"/>
+				<Opinion target="Basil slice" category="FOOD#QUALITY" polarity="positive" from="81" to="92"/>
+			</Opinions>
+		</sentence>
+		<sentence id="085e88ef-8329-45fd-a354-e856f355388a">
+			<text>The drinks are great, especially when made by Raymond.</text>
+			<Opinions>
+				<Opinion target="drinks" category="DRINKS#QUALITY" polarity="positive" from="4" to="10"/>
+				<Opinion target="Raymond" category="SERVICE#GENERAL" polarity="positive" from="46" to="53"/>
+			</Opinions>
+		</sentence>
+	</sentences>
+</Reviews>
