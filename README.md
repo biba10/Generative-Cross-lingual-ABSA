@@ -118,3 +118,20 @@ To run the code with ChatGPT prompting, use the command `python main_prompting.p
 * The program automatically detects whether it is possible to use GPU for training.
 * If no WandB entity or project is provided, the program will not use WandB for logging.
 * Using CPU for LLMs can cause a significant slowdown and unexpected behaviour.
+* 
+## Citation
+If you find this repository helpful for your research, please cite our paper as follows:
+```
+@conference{icaart25,
+ author={Jakub {\v{S}}m{\'i}d and Pavel P{\v{r}}ib{\'a}{\v{n}} and Pavel Kr{\'a}l},
+ title={Advancing Cross-Lingual Aspect-Based Sentiment Analysis with LLMs and Constrained Decoding for Sequence-to-Sequence Models},
+ booktitle={Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART},
+ year={2025},
+ pages={757-766},
+ publisher={SciTePress},
+ organization={INSTICC},
+ doi={10.5220/0013349400003890},
+ isbn={978-989-758-737-5},
+ issn={2184-433X},
+}
+```
